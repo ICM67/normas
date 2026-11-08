@@ -1,5 +1,3 @@
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALEAAABKCAYAAAD0fLUfAAAPYElEQVR4Xu2deZAV1RXGoYwajcaqqElZ/pHNLG6pqKlKJalKwH5qUNBSQYlllBjFJUbLreD1DIuAqMiOBAUURDYBQUAc2RURURg2EQYGEdlXBWSHoTPffXP63T7n9nv9tpl3qfdV/ejuc889t1/3maaX27cbNSopP7rWvbpRrGxmAteLRq0v6pVUUoMp5q6ViZkTJ2oZxJspKZ3khiw21vBVbjBd0/Z0tT5yHUN5/f3KwDQ68R21R+k2fBUKJtG+RQhD0VK2gm/3elPM7STXJxozKqsD06xw3Pf4KuVdvE2bEIaiJ96Hb/+CKeb2lu1nx869B4QtC97iq5g3ybbsQRhswImv5Psgr3Lc1qLNLIH0aX6I9+ernLNEGxYhDDZRCDlulWgnIn98dJB39PgJr+f4j7xrHn7ZW/7lNj95V32909u2Z7+3tRYS/HmMjHDi5/PVz1o8tk0Ig23kS9eWXSxiZ8Av7+mpEhPTdVv2KJuuFeu3qynsKP/hzc+q5bZ9JolYGeG43flPyUo8rk0Ig3WULeb7I2M5blzGNfPmrKVel5Fz9Pz0utYuX/3Qy8IXdB4xW/n84ZGBogwgFiU46cW35nlTFqwWvimo5j8pY8mY9iAMNuK4Xfg+iayYO07EM9DpjVkqwTbu3KumOD2gspqak8KfSJfEAKL5vz05RMVDfBL3DyUX8Vg2IQy2ko1i7j4RJ4Rd+w56ZzfvJOzn3dLFmGhLqrd6R44d9y6643k/iXd8e0DZuW/rbmONR/KhFYu8z7/a7t3z4nhRFkq24nFsQhhsxYmP5PslpWLuThEjBBwdTYlKlA+b4U2Yt1L54FxXL8MRHFNTfbItXbfVa2yICzbv2idsaclGPIZNCIPNRFXMPS7qpuDi1i/4CXf+bd1EYpF4PSqbt+Ir78KWz4kyMOz9Sm/P/kMBG+L/oHlnfx7n3LxeWjIVr28TwmAzUeS4U0S9NOBI/GCfd7yDR46JMmLKJ+YLMUru0XOWizK93ARp0JRPRVkkMhGvaxPCYDfL+b4JKOaWGeqkhY6mYQl37PgJNZ27bL1Kdr0eBBu04Iuv/bLf3tfHn8c5MY9J9VG3x7h5oiwi0fudyLr2IAy2EyqvsfDNAFLz8jcC9hblI9S0zUsTVBJjHhd0Bw8f885tkTw/vqruwu3kSXknY/+hIyo2t5O4PSMcdxjfEkbxejYhDLYTJu6XIUjW4ydqvKmfVKk7CZS8dBoBwUZJR8s8Bu40NH1qqPBHHJx7L1qz2X8Qcvn9/USMrGj23zP55hDidWxCGGzHJMcdI/xy4B/PjVVJRgkIZi9Zp8D8uwurvBvaD/OefGWa74dzYtRDOdWDJi9YFYgNwe+zqs2i3ZxIJ+5vE8JgOyZxnxxofF1yfvScZV6LDomjKU4TmtQeYTElNb6uTECC33eHjvrL0KjZy1Rc3HuGL287Jxx3CN8sAXF/mxAG2+GKuQeFTwgQt4VBwvxrFYvV/F3d31LLN7qJ82Z60KH7Dpy80I8Bf4iSV/eLSkb+qcR9bUIYbEfXn544S5QzcKFGiQDpy+l4ZnCF9+nqTWp++fpt3pUP9FPnzLd2GunH5lBd+AHMj5m7PKN2SaivT5vFhwvfALi9GCbuaxPCYDtZ7BjoRE3yNAC2Zevk4+Ew9h084j02cKp6LI15kErkg6d0uIjDPOKc/vcOIjan3ZD31RR6pP9kdVqCC06ycX9BmLifTdSbeMOFIsM2kUDU75c0aGr0hwvZ1NF5uN9kVR9/Qr+6t5coN7H3wGG/XdJqrUNSauKjA9uIJPzywCkn/gMLRbK9+aIsBOjDFV8pIFOPs4YUXxfTOg95b5HwCcUk7pMPTjnxH1gYkk/sZFlGVK7dElgOS6Yo5FKX03H4TGEjUj0WD9K+SXLH5Gd7GTnlxH9gIXDiLevaekaUhYAO6Ca2f/NdwC9VIpLoiR0nVV3dB+1yOwdJzNeViJzEjvsp2zuF2T/1Jt6wzZCc+DZRlgGmpDPZiN8/OEARNYn1ZeiFsR+q+e6jP1DTA4ePek8MmibiEJfcI8+dMzqdAFy83CaEwVYcd2I2O+Syf/dVicTF/cJseNMDfR++2LAjbV20BZCkWK6pezCCW2xYHll3vzisPb3MJO6XEi5ebhPCYC3tzsvHDkEn9t+06S3spiQhIYnRMX7EzKWhfpg+WXt0hR/mbypL3DNes2mX8EuHyc9kS4nj9tRSOKdt1uAIg51sTu6M+GhDeWSiJvEv/pl4uxkddOjISn0jUJaqLj3ZC/Pjb4dweLwwWxq+1VLY7jwQBhvJ486ImsTQJ6s2qik9KKFlTLkvj4f37Q7VXojBF6BPBr3K9FlV4ilgGKZ4Jlta8rjdGhRhsI3r3SvyuTMySeLHXp6qQP9hmie4rz7ff9ICfxkvgmLab2LSVk9H4lISFwVOvF9gR+RhZ0RNYt2Oc2LM39LxTe+K+/sZffT5Ocu+9G279h70y85s1lH4mzCVm2xpucG9KF/brUERBmso66qlblLCLz30+tD17V5XkJ2Wpy+uNibJ3NpkxBSnBfAjcT9u05cRG4+9qYsnNGn+FwF/at+0flDY+qWllMQNSNN2l2tpGxT3TcGw6ZVemx4T1DzeqMAUen7MB2rQE/3xsylJwmTy4zaO6bUlnZ/e1cOfr96yW00p7qX39fH+/Pgr3hnNOvi/JxKOOz6b7VZ0CENRUzZYS1ezRB0J3U0A9JIndIbWi2zh6k3qgo2WTYkYJirX44ETNYneZgQGH4Rwn5g6wX/vhnLRDrF6Y6KTD+rhDwzxftKquzd7aeJ/BLQH3dltjKhrpJTE9cocLU1TS9YV0JgOALq39uiFQf5aPjtanBPD9sHy9YHkpHoog8bP+9ybWVntrdyww/tm/yHfTr4ox0CDFI/qUznedqaOoHoben3UO7fugk/3gx3lP7/7JbWM83JeP5RSEtczTZ66QEvVcPF6KSDpNp7Eui9fxqg/gN5qxkDah48e99ZuTvx3v2V3cJAVeukTF3aYwpfKkMSIheFfedscvi5kI7up3EgpiRsAJ75JS1ezeJ0QwnY0JfFSNmYa90+l064v91/Rx7k11cETO4i3yWNyexQfky0tpSRuQJz4ZVraBsV9Q/jL468KG9CPxGPnrvDtmSbJ4rVbvNs6j/L+9VLiQuuC27qpJKZy/XFzVNBBCB+wMa0L2UxloZSSuKHJ3y02HRrCFfMtuyTOX0FGyVFHVW2iQmff1End/dBjZBOPLuxMdU22tJRusRUBjttXS9+cd8bC1Ru9C283D/xHSaK/7Enjq+kj/dB58MzKdd6Pbu0aiHdOi+AFJW8jHbwO7k+HlUWilMRFQtMOwXvGvDwCS6qDb3GAp1+tCCxnmsTkT/0hCHqkjHHZMO7El1v3eMOnL1G2xwe+qwZewXt/mNfrEaZkJXF7WnLcbkWDMNhIcGfsFuUh4MjLbQBP0LgtkyTuN/FjNf/9G5OPkenBybSFidf0AXUcwnCxZEMS49QDowfp7etApo/WoD2TPZTgdpPltiAMdpLsiumUDTWURwIPPtLdYouSxHo93H+mV/ExyIoei8pxRKZlfF0JR+uH+iZH1+RQ/W6j5ooyoMdLwW4the3OA2Gwluw6xePDLx2GJV++zFcSY3rB7ckjLEGdhd75eJVXXtvuzR3e9N/swIUk1gWKksRhNv2uSihOvKOWwhlts6JDfbSlPuANF4IMdggNMcXt+Upi3GLDFAOcQPiQzPDplaqfA+xIWIqJJKbXm6gt/f4yh/y4DXdBTGVGuHh5PuA5UCjqTfwHFgJShBdFv96xV9hAvpMY/NoQD6DTDkahRxJXsovLbI7Ekd92Bly8PB+ccuI/sBD4r+y3byLKDJiSoZBJ3GvCfDXizzOvVihIKCMbffrr7Y9WinUgTOutx0rLKffKfn2J/8DCkPPgKYVM4ra9J/kfrYFwAYZlig29MWOJV7Uxkch8HQhTmckWikncJx/Um3jDtpP8XZGHsdIpZBLjTgTFeaD3RP8uAnXFpDKS3r6OqcxkC8Uk7mMTwmA7Oe6YQiQx1cXphG6jW29IYghvmDw6YErkW2zpbGbiIwLbiCT8LEIYbCe4Y46JcgYS0CTuR19FyiWJaR5fYhpQ97Kofovtjq5j1GcSMH9fz7fV9Byt77MewyTuZyRM3M8mhMF2dLVqdZooZ2zbExxzLR3ZJHHTp4f68zMWV/v9iQGkPyDBoCpIZr2c5gl6PUnn/l4ThU3glD0b2D66uK9NCIPtcMXcjcKnDnzFiNsIPiomwIOKbJIYUDLyKaAj8fyVG1R9U+ISqUbFTFVPkUrc1yaEwXZM4j51ZJrEINMk1j82o8cZPG2Rh6HY8PWk1s+NVS+K6hd3AGMP8/azT+LyJnyzBCT8LUIYbMekmHsX90MSYXA/Gqmd7PgIDIaZqvhsjYwdS3wil+bTJTF05QP9/Q7wdz8/zvejd+4g6qBPw1uRXW+XbLR+ejmGoYWNPmBjYB7fJEKyjj0Ig+2EifkhiXfvSw5cUr15tzrK0sdg+k78OHDU5aAsLInxx0HLuL2GT4Ndcm8v/+5E/LXpIh7x45bdvYpFa4UdQLR+AP0vsB6/a9tfLaPMuM5RxOvYhDDYTippfkhi+lDMf+pua1310ABVRh+CSTec1Fl1fRX2ax+boVfv//rEYDWF8AVSxCLoKHrRnYn+G1Q33cUZ1YP/1Q8nY5INU72rp6JV5zP4ZjDK0J41CIPdpPlAefml5IskxlES92Nn1X0JFCxes1nZKGGigjr6XQbdHhYLH6v535Tkd+3SAaEOYm7Y/q1vx1M/2AwfvxnHN0GoDO1ZgzBYjeFbFFy4zSTqFYaRs5b6H4chuE/hKNvGf3pKifoWIQw2E1Uxd5Soe6qRqXh9mxAGW3HK7uT7JaVi8QoR41QhG/EYNiEMtpKNYu47Io7dnOQ/MbJkLHsQBhtpFr+Q75PIisX7iHh2sp7/tIwk49mDMNjHu3x/ZCyMNi/jWkR8LP9JGUvEtAhhsI18KubWiPjFTr7E49qEMNhD8Os/+VKOX1+qNxz3Q77qOYnHtwlhsIPcTyHSyYmvNLRbHDjx5nx1cxZvwyaEoeipvRCrT8XcI3IdGooC/nbRlkUIQ7HiuO/x7V5vatL+Z2J96pNUQ9nmS7xNmxCGYsOJv8i3d4PKcXuIdSwMa3nTBZVs3x5q/xlUlNigxLrm644G4jTc7+bb3yZKyqOatr+mEcZMjrmzGskk1UH5LOVfUs76P1LvRCWPccubAAAAAElFTkSuQmCC)
-
 # Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación.
 
 Ministerio de Economía y Hacienda «BOE» núm. 210, de 02 de septiembre de 2005
@@ -8,213 +6,213 @@ Referencia: BOE-A-2005-14803
 
 ## ÍNDICE
 
-|  |  |
-| --- | ---: |
-| [_Preámbulo_](#texto-consolidado-última-modificación-31-de-enero-de-2024) | [9](#texto-consolidado-última-modificación-31-de-enero-de-2024) |
-| [_Artículos_](#artículo-único-aprobación-del-reglamento-general-de-recaudación) | [12](#artículo-único-aprobación-del-reglamento-general-de-recaudación) |
-| [Artículo único. Aprobación del Reglamento General de Recaudación](#artículo-único-aprobación-del-reglamento-general-de-recaudación) | [12](#artículo-único-aprobación-del-reglamento-general-de-recaudación) |
-| [_Disposiciones derogatorias_](#artículo-único-aprobación-del-reglamento-general-de-recaudación) | [12](#artículo-único-aprobación-del-reglamento-general-de-recaudación) |
-| [Disposición derogatoria única. Derogación normativa](#artículo-único-aprobación-del-reglamento-general-de-recaudación) | [12](#artículo-único-aprobación-del-reglamento-general-de-recaudación) |
-| [_Disposiciones finales_](#disposición-final-única-entrada-en-vigor) | [13](#disposición-final-única-entrada-en-vigor) |
-| [Disposición final única. Entrada en vigor](#disposición-final-única-entrada-en-vigor) | [13](#disposición-final-única-entrada-en-vigor) |
-| [REGLAMENTO GENERAL DE RECAUDACIÓN](#reglamento-general-de-recaudación) | [13](#reglamento-general-de-recaudación) |
-| [TÍTULO I. Disposiciones generales](#disposición-final-única-entrada-en-vigor) | [13](#disposición-final-única-entrada-en-vigor) |
-| [CAPÍTULO I. La gestión recaudatoria](#disposición-final-única-entrada-en-vigor) | [13](#disposición-final-única-entrada-en-vigor) |
-| [Sección 1.ª Disposiciones generales](#sección-1ª-disposiciones-generales) | [13](#sección-1ª-disposiciones-generales) |
-| [Artículo 1. Ámbito de aplicación](#disposición-final-única-entrada-en-vigor) | [13](#disposición-final-única-entrada-en-vigor) |
-| [Artículo 2. Concepto de gestión recaudatoria](#disposición-final-única-entrada-en-vigor) | [13](#disposición-final-única-entrada-en-vigor) |
-| [Sección 2.ª Recaudación de recursos de naturaleza pública por las distintas Administraciones](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) | [14](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) |
-| [Subsección 1.ª Recaudación por la Hacienda pública estatal y por las entidades de derecho público estatales](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) | [14](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) |
+|||
+|-|-:|
+|[*Preámbulo*](#texto-consolidado-última-modificación-31-de-enero-de-2024)|[9](#texto-consolidado-última-modificación-31-de-enero-de-2024)|
+|[*Artículos*](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|[12](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|
+|[Artículo único. Aprobación del Reglamento General de Recaudación](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|[12](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|
+|[*Disposiciones derogatorias*](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|[12](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|
+|[Disposición derogatoria única. Derogación normativa](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|[12](#artículo-único-aprobación-del-reglamento-general-de-recaudación)|
+|[*Disposiciones finales*](#disposición-final-única-entrada-en-vigor)|[13](#disposición-final-única-entrada-en-vigor)|
+|[Disposición final única. Entrada en vigor](#disposición-final-única-entrada-en-vigor)|[13](#disposición-final-única-entrada-en-vigor)|
+|[REGLAMENTO GENERAL DE RECAUDACIÓN](#reglamento-general-de-recaudación)|[13](#reglamento-general-de-recaudación)|
+|[TÍTULO I. Disposiciones generales](#disposición-final-única-entrada-en-vigor)|[13](#disposición-final-única-entrada-en-vigor)|
+|[CAPÍTULO I. La gestión recaudatoria](#disposición-final-única-entrada-en-vigor)|[13](#disposición-final-única-entrada-en-vigor)|
+|[Sección 1.ª Disposiciones generales](#sección-1ª-disposiciones-generales)|[13](#sección-1ª-disposiciones-generales)|
+|[Artículo 1. Ámbito de aplicación](#disposición-final-única-entrada-en-vigor)|[13](#disposición-final-única-entrada-en-vigor)|
+|[Artículo 2. Concepto de gestión recaudatoria](#disposición-final-única-entrada-en-vigor)|[13](#disposición-final-única-entrada-en-vigor)|
+|[Sección 2.ª Recaudación de recursos de naturaleza pública por las distintas Administraciones](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas)|[14](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas)|
+|[Subsección 1.ª Recaudación por la Hacienda pública estatal y por las entidades de derecho público estatales](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas)|[14](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas)|
 
 [Artículo 3. Recaudación de la Hacienda pública estatal y de las entidades de derecho público estatales.](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) [14](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas)
 
 [Artículo 4. Especialidades de la recaudación de los organismos autónomos del Estado.](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) [...........](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas) [14](#sección-2ª-recaudación-de-recursos-de-naturaleza-pública-por-las-distintas)
 
-|  |  |
-| --- | ---: |
-| [Artículo 5. Recaudación de recursos de otras Administraciones públicas nacionales, extranjeras o entidades internacionales o supranacionales](#artículo-5-recaudación-de-recursos-de-otras-administraciones-públicas-nacionales-extranjeras-o-entidades-internacionales-o-supranacionales) | [15](#artículo-5-recaudación-de-recursos-de-otras-administraciones-públicas-nacionales-extranjeras-o-entidades-internacionales-o-supranacionales) |
-| [Artículo 6. Órganos de recaudación del Estado](#artículo-6-órganos-de-recaudación-del-estado) | [16](#artículo-6-órganos-de-recaudación-del-estado) |
-| [Subsección 2.ª Recaudación de la Hacienda pública de las comunidades autónomas y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado) | [16](#artículo-6-órganos-de-recaudación-del-estado) |
-| [Artículo 7. Recaudación de la Hacienda pública de las comunidades autónomas y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado) | [16](#artículo-6-órganos-de-recaudación-del-estado) |
-| [Subsección 3.ª Recaudación de la Hacienda pública de las entidades locales y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado) | [16](#artículo-6-órganos-de-recaudación-del-estado) |
-| [Artículo 8. Recaudación de la Hacienda pública de las entidades locales y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado) | [16](#artículo-6-órganos-de-recaudación-del-estado) |
+|||
+|-|-:|
+|[Artículo 5. Recaudación de recursos de otras Administraciones públicas nacionales, extranjeras o entidades internacionales o supranacionales](#artículo-5-recaudación-de-recursos-de-otras-administraciones-públicas-nacionales-extranjeras-o-entidades-internacionales-o-supranacionales)|[15](#artículo-5-recaudación-de-recursos-de-otras-administraciones-públicas-nacionales-extranjeras-o-entidades-internacionales-o-supranacionales)|
+|[Artículo 6. Órganos de recaudación del Estado](#artículo-6-órganos-de-recaudación-del-estado)|[16](#artículo-6-órganos-de-recaudación-del-estado)|
+|[Subsección 2.ª Recaudación de la Hacienda pública de las comunidades autónomas y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado)|[16](#artículo-6-órganos-de-recaudación-del-estado)|
+|[Artículo 7. Recaudación de la Hacienda pública de las comunidades autónomas y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado)|[16](#artículo-6-órganos-de-recaudación-del-estado)|
+|[Subsección 3.ª Recaudación de la Hacienda pública de las entidades locales y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado)|[16](#artículo-6-órganos-de-recaudación-del-estado)|
+|[Artículo 8. Recaudación de la Hacienda pública de las entidades locales y de sus organismos autónomos](#artículo-6-órganos-de-recaudación-del-estado)|[16](#artículo-6-órganos-de-recaudación-del-estado)|
 
 [Sección 3.ª Entidades que presten el servicio de caja y entidades colaboradoras en la gestión recaudatoria](#artículo-6-órganos-de-recaudación-del-estado) [.](#artículo-6-órganos-de-recaudación-del-estado) [16](#artículo-6-órganos-de-recaudación-del-estado)
 
-|  |  |
-| --- | ---: |
-| [Artículo 9. Entidades que presten el servicio de caja y entidades colaboradoras en la gestión recaudatoria](#artículo-6-órganos-de-recaudación-del-estado) | [16](#artículo-6-órganos-de-recaudación-del-estado) |
-| [Sección 4.ª Obtención de información, facultades y adopción de medidas cautelares en la gestión recaudatoria](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) | [17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) |
-| [Artículo 10. Facultades de los órganos de recaudación](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) | [17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) |
-| [CAPÍTULO II. Ingresos de la gestión recaudatoria](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) | [17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) |
-| [Artículo 11. Ingresos de la gestión recaudatoria](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) | [17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) |
-| [Sección 1.ª Ingresos de la gestión recaudatoria en periodo voluntario y periodo ejecutivo](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) | [17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) |
-| [Artículo 12. Lugar de realización de los ingresos](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) | [17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas) |
-| [Subsección 1.ª Ingresos en la Tesorería de la Dirección General del Tesoro y Política Financiera](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) | [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) |
-| [Artículo 13. Ingresos en la Tesorería de la Dirección General del Tesoro y Política Financiera](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) | [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) |
-| [Subsección 2.ª Ingresos a través de entidades de crédito que presten el servicio de caja](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) | [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) |
-| [Artículo 14. Entidades de crédito que presten el servicio de caja](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) | [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) |
-| [Artículo 15. Ingresos a través de entidades de crédito que presten el servicio de caja](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) | [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) |
+|||
+|-|-:|
+|[Artículo 9. Entidades que presten el servicio de caja y entidades colaboradoras en la gestión recaudatoria](#artículo-6-órganos-de-recaudación-del-estado)|[16](#artículo-6-órganos-de-recaudación-del-estado)|
+|[Sección 4.ª Obtención de información, facultades y adopción de medidas cautelares en la gestión recaudatoria](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|[17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|
+|[Artículo 10. Facultades de los órganos de recaudación](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|[17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|
+|[CAPÍTULO II. Ingresos de la gestión recaudatoria](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|[17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|
+|[Artículo 11. Ingresos de la gestión recaudatoria](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|[17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|
+|[Sección 1.ª Ingresos de la gestión recaudatoria en periodo voluntario y periodo ejecutivo](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|[17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|
+|[Artículo 12. Lugar de realización de los ingresos](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|[17](#sección-4ª-obtención-de-información-facultades-y-adopción-de-medidas)|
+|[Subsección 1.ª Ingresos en la Tesorería de la Dirección General del Tesoro y Política Financiera](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|[18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|
+|[Artículo 13. Ingresos en la Tesorería de la Dirección General del Tesoro y Política Financiera](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|[18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|
+|[Subsección 2.ª Ingresos a través de entidades de crédito que presten el servicio de caja](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|[18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|
+|[Artículo 14. Entidades de crédito que presten el servicio de caja](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|[18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|
+|[Artículo 15. Ingresos a través de entidades de crédito que presten el servicio de caja](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|[18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|
 
 [Artículo 16. Procedimiento de ingreso a través de entidades de crédito que presten el servicio de caja.](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) [.](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)
 
-|  |  |
-| --- | ---: |
-| [Subsección 3.ª Ingresos a través de entidades colaboradoras en la recaudación](#subsección-3ª-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación) | [18](#subsección-3ª-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación) |
-| [Artículo 17. Entidades colaboradoras en la recaudación](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) | [18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política) |
-| [Artículo 18. Ingresos a través de entidades colaboradoras en la recaudación](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación) | [20](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación) |
-| [Artículo 19. Procedimiento de ingreso a través de entidades colaboradoras en la recaudación](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación) | [20](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación) |
-| [Subsección 4.ª Ingresos en las aduanas](#subsección-4ª-ingresos-en-las-aduanas) | [22](#subsección-4ª-ingresos-en-las-aduanas) |
-| [Artículo 20. Ingresos en las aduanas](#subsección-4ª-ingresos-en-las-aduanas) | [22](#subsección-4ª-ingresos-en-las-aduanas) |
-| [Subsección 5.ª Ingresos en cuentas restringidas abiertas en entidades de crédito y en cajas de órganos gestores](#subsección-4ª-ingresos-en-las-aduanas) | [22](#subsección-4ª-ingresos-en-las-aduanas) |
-|  |  |
-| [Artículo 21. Ingresos en cuentas restringidas y en cajas de órganos gestores](#subsección-4ª-ingresos-en-las-aduanas) | [22](#subsección-4ª-ingresos-en-las-aduanas) |
-| [Subsección 6.ª Especialidades del ingreso de deudas recaudadas por organismos autónomos](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) | [23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) |
-| [Artículo 22. Ingresos en organismos autónomos](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) | [23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) |
-| [Sección 2.ª Recaudación de deudas de vencimiento periódico y notificación colectiva](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) | [23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) |
-| [Artículo 23. Modalidades de cobro](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) | [23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos) |
-| [Artículo 24. Anuncios de cobranza](#artículo-24-anuncios-de-cobranza) | [24](#artículo-24-anuncios-de-cobranza) |
-| [Artículo 25. Ingresos de deudas de vencimiento periódico y notificación colectiva](#artículo-24-anuncios-de-cobranza) | [24](#artículo-24-anuncios-de-cobranza) |
-| [Sección 3.ª Ingresos en el Tesoro de las cantidades obtenidas en la gestión recaudatoria](#artículo-24-anuncios-de-cobranza) | [24](#artículo-24-anuncios-de-cobranza) |
-| [Artículo 26. Disposiciones generales sobre ingresos en las cuentas del Tesoro](#artículo-24-anuncios-de-cobranza) | [24](#artículo-24-anuncios-de-cobranza) |
-| [Artículo 27. Ingresos de la Caja de la Dirección General del Tesoro y Política Financiera](#artículo-24-anuncios-de-cobranza) | [24](#artículo-24-anuncios-de-cobranza) |
-| [Artículo 28. Ingresos de las entidades que presten el servicio de caja](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja) | [25](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja) |
-| [Artículo 29. Ingresos de las entidades colaboradoras](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja) | [25](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja) |
-| [Artículo 30. Ingresos de las aduanas](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja) | [25](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja) |
-| [Artículo 31. Otros ingresos en las cuentas del Tesoro en el Banco de España](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) | [26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) |
-| [TÍTULO II. La deuda](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) | [26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) |
-| [CAPÍTULO I. Extinción de la deuda](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) | [26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) |
-| [Artículo 32. Formas de extinción de la deuda](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) | [26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) |
-| [Sección 1.ª Pago](#sección-1ª-pago) | [26](#sección-1ª-pago) |
-| [Subsección 1.ª Normas generales](#subsección-1ª-normas-generales) | [26](#subsección-1ª-normas-generales) |
-| [Artículo 33. Legitimación, lugar de pago y forma de pago](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) | [26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) |
-| [Artículo 34. Medios y momento del pago en efectivo](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) | [26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa) |
-| [Artículo 35. Pago mediante cheque](#artículo-35-pago-mediante-cheque) | [27](#artículo-35-pago-mediante-cheque) |
-| [Artículo 36. Pago mediante tarjeta de crédito y débito](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) | [28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) |
-| [Artículo 37. Pago mediante transferencia bancaria](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) | [28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) |
-| [Artículo 38. Pago mediante domiciliación bancaria](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) | [28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) |
-| [Artículo 39. Pago mediante efectos timbrados](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) | [28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito) |
-| [Artículo 40. Pago en especie](#artículo-40-pago-en-especie) | [29](#artículo-40-pago-en-especie) |
-| [Artículo 41. Justificantes y certificaciones del pago](#artículo-41-justificantes-y-certificaciones-del-pago) | [32](#artículo-41-justificantes-y-certificaciones-del-pago) |
-| [Artículo 42. Actuaciones a realizar en el supuesto de tributos incompatibles](#artículo-41-justificantes-y-certificaciones-del-pago) | [32](#artículo-41-justificantes-y-certificaciones-del-pago) |
-| [Artículo 43. Consignación](#artículo-43-consignación) | [33](#artículo-43-consignación) |
-| [Subsección 2.ª Aplazamiento y fraccionamiento](#subsección-2ª-aplazamiento-y-fraccionamiento) | [33](#subsección-2ª-aplazamiento-y-fraccionamiento) |
+|||
+|-|-:|
+|[Subsección 3.ª Ingresos a través de entidades colaboradoras en la recaudación](#subsección-3ª-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación)|[18](#subsección-3ª-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación)|
+|[Artículo 17. Entidades colaboradoras en la recaudación](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|[18](#subsección-1ª-ingresos-en-la-tesorería-de-la-dirección-general-del-tesoro-y-política)|
+|[Artículo 18. Ingresos a través de entidades colaboradoras en la recaudación](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación)|[20](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación)|
+|[Artículo 19. Procedimiento de ingreso a través de entidades colaboradoras en la recaudación](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación)|[20](#artículo-18-ingresos-a-través-de-entidades-colaboradoras-en-la-recaudación)|
+|[Subsección 4.ª Ingresos en las aduanas](#subsección-4ª-ingresos-en-las-aduanas)|[22](#subsección-4ª-ingresos-en-las-aduanas)|
+|[Artículo 20. Ingresos en las aduanas](#subsección-4ª-ingresos-en-las-aduanas)|[22](#subsección-4ª-ingresos-en-las-aduanas)|
+|[Subsección 5.ª Ingresos en cuentas restringidas abiertas en entidades de crédito y en cajas de órganos gestores](#subsección-4ª-ingresos-en-las-aduanas)|[22](#subsección-4ª-ingresos-en-las-aduanas)|
+|||
+|[Artículo 21. Ingresos en cuentas restringidas y en cajas de órganos gestores](#subsección-4ª-ingresos-en-las-aduanas)|[22](#subsección-4ª-ingresos-en-las-aduanas)|
+|[Subsección 6.ª Especialidades del ingreso de deudas recaudadas por organismos autónomos](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|[23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|
+|[Artículo 22. Ingresos en organismos autónomos](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|[23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|
+|[Sección 2.ª Recaudación de deudas de vencimiento periódico y notificación colectiva](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|[23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|
+|[Artículo 23. Modalidades de cobro](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|[23](#subsección-6ª-especialidades-del-ingreso-de-deudas-recaudadas-por-organismos)|
+|[Artículo 24. Anuncios de cobranza](#artículo-24-anuncios-de-cobranza)|[24](#artículo-24-anuncios-de-cobranza)|
+|[Artículo 25. Ingresos de deudas de vencimiento periódico y notificación colectiva](#artículo-24-anuncios-de-cobranza)|[24](#artículo-24-anuncios-de-cobranza)|
+|[Sección 3.ª Ingresos en el Tesoro de las cantidades obtenidas en la gestión recaudatoria](#artículo-24-anuncios-de-cobranza)|[24](#artículo-24-anuncios-de-cobranza)|
+|[Artículo 26. Disposiciones generales sobre ingresos en las cuentas del Tesoro](#artículo-24-anuncios-de-cobranza)|[24](#artículo-24-anuncios-de-cobranza)|
+|[Artículo 27. Ingresos de la Caja de la Dirección General del Tesoro y Política Financiera](#artículo-24-anuncios-de-cobranza)|[24](#artículo-24-anuncios-de-cobranza)|
+|[Artículo 28. Ingresos de las entidades que presten el servicio de caja](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja)|[25](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja)|
+|[Artículo 29. Ingresos de las entidades colaboradoras](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja)|[25](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja)|
+|[Artículo 30. Ingresos de las aduanas](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja)|[25](#artículo-28-ingresos-de-las-entidades-que-presten-el-servicio-de-caja)|
+|[Artículo 31. Otros ingresos en las cuentas del Tesoro en el Banco de España](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|[26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|
+|[TÍTULO II. La deuda](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|[26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|
+|[CAPÍTULO I. Extinción de la deuda](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|[26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|
+|[Artículo 32. Formas de extinción de la deuda](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|[26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|
+|[Sección 1.ª Pago](#sección-1ª-pago)|[26](#sección-1ª-pago)|
+|[Subsección 1.ª Normas generales](#subsección-1ª-normas-generales)|[26](#subsección-1ª-normas-generales)|
+|[Artículo 33. Legitimación, lugar de pago y forma de pago](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|[26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|
+|[Artículo 34. Medios y momento del pago en efectivo](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|[26](#artículo-31-otros-ingresos-en-las-cuentas-del-tesoro-en-el-banco-de-españa)|
+|[Artículo 35. Pago mediante cheque](#artículo-35-pago-mediante-cheque)|[27](#artículo-35-pago-mediante-cheque)|
+|[Artículo 36. Pago mediante tarjeta de crédito y débito](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|[28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|
+|[Artículo 37. Pago mediante transferencia bancaria](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|[28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|
+|[Artículo 38. Pago mediante domiciliación bancaria](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|[28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|
+|[Artículo 39. Pago mediante efectos timbrados](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|[28](#artículo-36-pago-mediante-tarjeta-de-crédito-y-débito)|
+|[Artículo 40. Pago en especie](#artículo-40-pago-en-especie)|[29](#artículo-40-pago-en-especie)|
+|[Artículo 41. Justificantes y certificaciones del pago](#artículo-41-justificantes-y-certificaciones-del-pago)|[32](#artículo-41-justificantes-y-certificaciones-del-pago)|
+|[Artículo 42. Actuaciones a realizar en el supuesto de tributos incompatibles](#artículo-41-justificantes-y-certificaciones-del-pago)|[32](#artículo-41-justificantes-y-certificaciones-del-pago)|
+|[Artículo 43. Consignación](#artículo-43-consignación)|[33](#artículo-43-consignación)|
+|[Subsección 2.ª Aplazamiento y fraccionamiento](#subsección-2ª-aplazamiento-y-fraccionamiento)|[33](#subsección-2ª-aplazamiento-y-fraccionamiento)|
 
-| [Artículo 44. Aplazamiento y fraccionamiento del pago.](#artículo-43-consignación) [................................](#artículo-43-consignación)[Artículo 45. Competencia en materia de aplazamientos y fraccionamientos....................Artículo 46. Solicitudes de aplazamiento y fraccionamiento.](#artículo-45-competencia-en-materia-de-aplazamientos-y-fraccionamientos) [.............................](#artículo-45-competencia-en-materia-de-aplazamientos-y-fraccionamientos) | [33](#artículo-43-consignación)[3434](#artículo-45-competencia-en-materia-de-aplazamientos-y-fraccionamientos) |
-| --- | ---: |
-| [Artículo 47. Inadmisión de solicitudes de aplazamiento y fraccionamiento.....................Artículo 48. Garantías en aplazamientos y fraccionamientos.](#artículo-47-inadmisión-de-solicitudes-de-aplazamiento-y-fraccionamiento) [............................](#artículo-47-inadmisión-de-solicitudes-de-aplazamiento-y-fraccionamiento)[Artículo 49. Adopción de medidas cautelares en el ámbito de los aplazamientos y fraccionamientos.](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos) [...](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos) | [3636](#artículo-47-inadmisión-de-solicitudes-de-aplazamiento-y-fraccionamiento)[38](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos) |
-| [Artículo 50. Dispensa de garantías en aplazamientos y fraccionamientos.](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos) [....................](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos)[Artículo 51. Tramitación de solicitudes de aplazamientos y fraccionamientos.](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos) [..................Artículo 52. Resolución de solicitudes de aplazamientos y fraccionamientos.](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos) [..................](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos)[Artículo 53. Cálculo de intereses en aplazamientos y fraccionamientos.](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos) [.....................Artículo 54. Actuaciones en caso de falta de pago en aplazamientos y fraccionamientos.](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos) [..........](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos)[Sección 2.ª Otras formas de extinción](#sección-2ª-otras-formas-de-extinción) [..............................................Artículo 55. Deudas compensables.](#sección-2ª-otras-formas-de-extinción) [............................................](#sección-2ª-otras-formas-de-extinción)[Artículo 56. Compensación a instancia del obligado al pago.](#artículo-56-compensación-a-instancia-del-obligado-al-pago) [............................](#artículo-56-compensación-a-instancia-del-obligado-al-pago)[Artículo 57. Compensación de oficio de deudas de entidades públicas.......................](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas) | [38](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos)[3939](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos)[4141](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos)[4242](#sección-2ª-otras-formas-de-extinción)[43](#artículo-56-compensación-a-instancia-del-obligado-al-pago)[44](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas) |
-| [Artículo 58. Compensación de oficio de deudas de otros acreedores a la Hacienda pública.](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas) [........](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas)[Artículo 59. Efectos de la compensación..........................................Artículo 60. Extinción de deudas de las entidades de derecho público mediante deducciones sobre transferencias.](#artículo-59-efectos-de-la-compensación) [........................................................](#artículo-59-efectos-de-la-compensación)[Sección 3.ª Baja provisional por insolvencia](#sección-3ª-baja-provisional-por-insolvencia) [..........................................Artículo 61. Concepto de deudor fallido y de crédito incobrable.](#sección-3ª-baja-provisional-por-insolvencia) [..........................Artículo 62. Efectos de la baja provisional por insolvencia.](#sección-3ª-baja-provisional-por-insolvencia) [..............................](#sección-3ª-baja-provisional-por-insolvencia) | [44](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas)[4545](#artículo-59-efectos-de-la-compensación)[464646](#sección-3ª-baja-provisional-por-insolvencia) |
-| [Artículo 63. Revisión de fallidos y rehabilitación de créditos incobrables.](#sección-3ª-baja-provisional-por-insolvencia) [.....................CAPÍTULO II. Garantías de la deuda](#sección-3ª-baja-provisional-por-insolvencia) [................................................Artículo 64. Derecho de prelación.](#sección-3ª-baja-provisional-por-insolvencia) [.............................................](#sección-3ª-baja-provisional-por-insolvencia)[Artículo 65. Hipoteca legal tácita.](#artículo-65-hipoteca-legal-tácita) [..............................................](#artículo-65-hipoteca-legal-tácita) | [464646](#sección-3ª-baja-provisional-por-insolvencia)[47](#artículo-65-hipoteca-legal-tácita) |
-| [Artículo 66. Otras hipotecas y derechos reales en garantía de los créditos de la Hacienda pública.](#artículo-65-hipoteca-legal-tácita) [....Artículo 67. Afección y retención de bienes.](#artículo-65-hipoteca-legal-tácita) [.......................................](#artículo-65-hipoteca-legal-tácita)[TÍTULO III. Recaudación en periodo voluntario y en periodo ejecutivo](#título-iii) [.............................](#título-iii) | [4747](#artículo-65-hipoteca-legal-tácita)[48](#título-iii) |
-| [CAPÍTULO I. Disposiciones generales](#título-iii) [...............................................](#título-iii) | [48](#título-iii) |
-| [Artículo 68. Iniciación y terminación de la recaudación en periodo voluntario.](#título-iii) [..................](#título-iii) | [48](#título-iii) |
-| [Artículo 69. Recaudación en periodo ejecutivo.](#título-iii) [.....................................](#título-iii) | [48](#título-iii) |
+|[Artículo 44. Aplazamiento y fraccionamiento del pago.](#artículo-43-consignación) [................................](#artículo-43-consignación)[Artículo 45. Competencia en materia de aplazamientos y fraccionamientos....................Artículo 46. Solicitudes de aplazamiento y fraccionamiento.](#artículo-45-competencia-en-materia-de-aplazamientos-y-fraccionamientos) [.............................](#artículo-45-competencia-en-materia-de-aplazamientos-y-fraccionamientos)|[33](#artículo-43-consignación)[3434](#artículo-45-competencia-en-materia-de-aplazamientos-y-fraccionamientos)|
+|-|-:|
+|[Artículo 47. Inadmisión de solicitudes de aplazamiento y fraccionamiento.....................Artículo 48. Garantías en aplazamientos y fraccionamientos.](#artículo-47-inadmisión-de-solicitudes-de-aplazamiento-y-fraccionamiento) [............................](#artículo-47-inadmisión-de-solicitudes-de-aplazamiento-y-fraccionamiento)[Artículo 49. Adopción de medidas cautelares en el ámbito de los aplazamientos y fraccionamientos.](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos) [...](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos)|[3636](#artículo-47-inadmisión-de-solicitudes-de-aplazamiento-y-fraccionamiento)[38](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos)|
+|[Artículo 50. Dispensa de garantías en aplazamientos y fraccionamientos.](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos) [....................](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos)[Artículo 51. Tramitación de solicitudes de aplazamientos y fraccionamientos.](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos) [..................Artículo 52. Resolución de solicitudes de aplazamientos y fraccionamientos.](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos) [..................](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos)[Artículo 53. Cálculo de intereses en aplazamientos y fraccionamientos.](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos) [.....................Artículo 54. Actuaciones en caso de falta de pago en aplazamientos y fraccionamientos.](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos) [..........](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos)[Sección 2.ª Otras formas de extinción](#sección-2ª-otras-formas-de-extinción) [..............................................Artículo 55. Deudas compensables.](#sección-2ª-otras-formas-de-extinción) [............................................](#sección-2ª-otras-formas-de-extinción)[Artículo 56. Compensación a instancia del obligado al pago.](#artículo-56-compensación-a-instancia-del-obligado-al-pago) [............................](#artículo-56-compensación-a-instancia-del-obligado-al-pago)[Artículo 57. Compensación de oficio de deudas de entidades públicas.......................](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas)|[38](#artículo-49-adopción-de-medidas-cautelares-en-el-ámbito-de-los-aplazamientos-y-fraccionamientos)[3939](#artículo-51-tramitación-de-solicitudes-de-aplazamientos-y-fraccionamientos)[4141](#artículo-53-cálculo-de-intereses-en-aplazamientos-y-fraccionamientos)[4242](#sección-2ª-otras-formas-de-extinción)[43](#artículo-56-compensación-a-instancia-del-obligado-al-pago)[44](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas)|
+|[Artículo 58. Compensación de oficio de deudas de otros acreedores a la Hacienda pública.](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas) [........](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas)[Artículo 59. Efectos de la compensación..........................................Artículo 60. Extinción de deudas de las entidades de derecho público mediante deducciones sobre transferencias.](#artículo-59-efectos-de-la-compensación) [........................................................](#artículo-59-efectos-de-la-compensación)[Sección 3.ª Baja provisional por insolvencia](#sección-3ª-baja-provisional-por-insolvencia) [..........................................Artículo 61. Concepto de deudor fallido y de crédito incobrable.](#sección-3ª-baja-provisional-por-insolvencia) [..........................Artículo 62. Efectos de la baja provisional por insolvencia.](#sección-3ª-baja-provisional-por-insolvencia) [..............................](#sección-3ª-baja-provisional-por-insolvencia)|[44](#artículo-57-compensación-de-oficio-de-deudas-de-entidades-públicas)[4545](#artículo-59-efectos-de-la-compensación)[464646](#sección-3ª-baja-provisional-por-insolvencia)|
+|[Artículo 63. Revisión de fallidos y rehabilitación de créditos incobrables.](#sección-3ª-baja-provisional-por-insolvencia) [.....................CAPÍTULO II. Garantías de la deuda](#sección-3ª-baja-provisional-por-insolvencia) [................................................Artículo 64. Derecho de prelación.](#sección-3ª-baja-provisional-por-insolvencia) [.............................................](#sección-3ª-baja-provisional-por-insolvencia)[Artículo 65. Hipoteca legal tácita.](#artículo-65-hipoteca-legal-tácita) [..............................................](#artículo-65-hipoteca-legal-tácita)|[464646](#sección-3ª-baja-provisional-por-insolvencia)[47](#artículo-65-hipoteca-legal-tácita)|
+|[Artículo 66. Otras hipotecas y derechos reales en garantía de los créditos de la Hacienda pública.](#artículo-65-hipoteca-legal-tácita) [....Artículo 67. Afección y retención de bienes.](#artículo-65-hipoteca-legal-tácita) [.......................................](#artículo-65-hipoteca-legal-tácita)[TÍTULO III. Recaudación en periodo voluntario y en periodo ejecutivo](#título-iii) [.............................](#título-iii)|[4747](#artículo-65-hipoteca-legal-tácita)[48](#título-iii)|
+|[CAPÍTULO I. Disposiciones generales](#título-iii) [...............................................](#título-iii)|[48](#título-iii)|
+|[Artículo 68. Iniciación y terminación de la recaudación en periodo voluntario.](#título-iii) [..................](#título-iii)|[48](#título-iii)|
+|[Artículo 69. Recaudación en periodo ejecutivo.](#título-iii) [.....................................](#título-iii)|[48](#título-iii)|
 
-|  |  |
-| --- | ---: |
-| [CAPÍTULO II. Procedimiento de apremio](#título-iii) | [48](#título-iii) |
-| [Sección 1.ª Inicio del procedimiento de apremio](#sección-1ª-inicio-del-procedimiento-de-apremio) | [48](#sección-1ª-inicio-del-procedimiento-de-apremio) |
-| [Artículo 70. Providencia de apremio](#título-iii) | [48](#título-iii) |
-| [Artículo 71. Notificación de la providencia de apremio](#artículo-71-notificación-de-la-providencia-de-apremio) | [49](#artículo-71-notificación-de-la-providencia-de-apremio) |
-| [Sección 2.ª Desarrollo del procedimiento de apremio](#sección-2ª-desarrollo-del-procedimiento-de-apremio) | [49](#sección-2ª-desarrollo-del-procedimiento-de-apremio) |
-| [Subsección 1.ª Disposiciones generales](#subsección-1ª-disposiciones-generales) | [49](#subsección-1ª-disposiciones-generales) |
-| [Artículo 72. Interés de demora del periodo ejecutivo](#artículo-71-notificación-de-la-providencia-de-apremio) | [49](#artículo-71-notificación-de-la-providencia-de-apremio) |
-| [Artículo 72 bis. Cálculo de los intereses de demora en el ámbito de la asistencia mutua](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua) | [50](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua) |
-| [Artículo 73. Suspensión del procedimiento de apremio](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua) | [50](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua) |
-| [Subsección 2.ª Ejecución de garantías](#subsección-2ª-ejecución-de-garantías) | [51](#subsección-2ª-ejecución-de-garantías) |
-| [Artículo 74. Ejecución de garantías](#subsección-2ª-ejecución-de-garantías) | [51](#subsección-2ª-ejecución-de-garantías) |
-| [Subsección 3.ª Normas sobre embargos](#subsección-3ª-normas-sobre-embargos) | [52](#subsección-3ª-normas-sobre-embargos) |
-| [Artículo 75. Diligencias de embargo](#subsección-3ª-normas-sobre-embargos) | [52](#subsección-3ª-normas-sobre-embargos) |
-| [Artículo 76. Práctica de los embargos](#subsección-3ª-normas-sobre-embargos) | [52](#subsección-3ª-normas-sobre-embargos) |
-| [Artículo 77. Concurrencia de embargos](#artículo-77-concurrencia-de-embargos) | [53](#artículo-77-concurrencia-de-embargos) |
-| [Artículo 78. Embargo de dinero en efectivo](#artículo-77-concurrencia-de-embargos) | [53](#artículo-77-concurrencia-de-embargos) |
-| [Artículo 79. Embargo de dinero en cuentas abiertas en entidades de crédito](#artículo-77-concurrencia-de-embargos) | [53](#artículo-77-concurrencia-de-embargos) |
-| [Artículo 80. Embargo de valores](#artículo-80-embargo-de-valores) | [54](#artículo-80-embargo-de-valores) |
-| [Artículo 81. Embargo de otros créditos, efectos y derechos realizables en el acto o a corto plazo](#artículo-81-embargo-de-otros-créditos-efectos-y-derechos-realizables-en-el-acto-o-a-corto-plazo) | [55](#artículo-81-embargo-de-otros-créditos-efectos-y-derechos-realizables-en-el-acto-o-a-corto-plazo) |
-| [Artículo 82. Embargo de sueldos, salarios y pensiones](#artículo-82-embargo-de-sueldos-salarios-y-pensiones) | [56](#artículo-82-embargo-de-sueldos-salarios-y-pensiones) |
-| [Artículo 83. Embargos de bienes inmuebles y de derechos sobre estos](#artículo-82-embargo-de-sueldos-salarios-y-pensiones) | [56](#artículo-82-embargo-de-sueldos-salarios-y-pensiones) |
-| [Artículo 84. Anotación preventiva en el Registro de la Propiedad de los embargos de bienes inmuebles y de derechos sobre estos](#artículo-82-embargo-de-sueldos-salarios-y-pensiones) | [56](#artículo-82-embargo-de-sueldos-salarios-y-pensiones) |
-| [Artículo 85. Requisitos de los mandamientos para la anotación preventiva de los embargos de bienes inmuebles y de derechos sobre estos](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos) | [57](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos) |
-| [Artículo 86. Presentación de los mandamientos en el Registro de la Propiedad](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos) | [57](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos) |
-| [Artículo 87. Incidencias en las anotaciones preventivas de embargo en el Registro de la Propiedad](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) | [58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) |
-| [Artículo 88. Contestaciones de los registradores](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) | [58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) |
-| [Artículo 88 bis. Prohibición de disposición de bienes inmuebles por embargo de acciones y participaciones](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) | [58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) |
-| [Artículo 89. Embargo de intereses, rentas y frutos de toda especie](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) | [58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad) |
-| [Artículo 90. Embargo de establecimientos mercantiles e industriales](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales) | [59](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales) |
-|  |  |
-| [Artículo 91. Embargo de metales preciosos, piedras finas, joyería, orfebrería, antigüedades y otros objetos de valor histórico o artístico](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales) | [59](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales) |
-| [Artículo 92. Embargo de los restantes bienes muebles y semovientes](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes) | [60](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes) |
-| [Artículo 93. Embargo de créditos, efectos, valores y derechos realizables a largo plazo](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes) | [60](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes) |
-| [Subsección 4.ª Normas sobre depósito de los bienes embargados](#subsección-4ª-normas-sobre-depósito-de-los-bienes-embargados) | [60](#subsección-4ª-normas-sobre-depósito-de-los-bienes-embargados) |
-| [Artículo 94. Depósito de bienes embargados](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes) | [60](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes) |
-| [Artículo 95. Funciones del depositario](#artículo-95-funciones-del-depositario) | [61](#artículo-95-funciones-del-depositario) |
-| [Artículo 96. Derechos, deberes y responsabilidad del depositario de bienes embargados](#artículo-95-funciones-del-depositario) | [61](#artículo-95-funciones-del-depositario) |
-| [Subsección 5.ª Enajenación de los bienes embargados](#subsección-5ª-enajenación-de-los-bienes-embargados) | [61](#subsección-5ª-enajenación-de-los-bienes-embargados) |
-| [Artículo 97. Valoración y fijación del tipo](#artículo-95-funciones-del-depositario) | [61](#artículo-95-funciones-del-depositario) |
-| [Artículo 98. Títulos de propiedad](#artículo-98-títulos-de-propiedad) | [63](#artículo-98-títulos-de-propiedad) |
-| [Artículo 99. Formación de lotes y orden para su enajenación](#artículo-98-títulos-de-propiedad) | [63](#artículo-98-títulos-de-propiedad) |
-| [Artículo 100. Formas de enajenación](#artículo-98-títulos-de-propiedad) | [63](#artículo-98-títulos-de-propiedad) |
-| [Artículo 101. Acuerdo de enajenación y anuncio de la subasta](#artículo-101-acuerdo-de-enajenación-y-anuncio-de-la-subasta) | [64](#artículo-101-acuerdo-de-enajenación-y-anuncio-de-la-subasta) |
-| [Artículo 102. Subastas de bienes agrupados y simultáneas](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas) | [65](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas) |
-| [Artículo 103. Licitadores](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas) | [65](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas) |
-| [Artículo 103 bis. El Depósito obligatorio](#artículo-103-bis-el-depósito-obligatorio) | [66](#artículo-103-bis-el-depósito-obligatorio) |
-| [Artículo 103 ter. La Mesa de subasta](#artículo-103-bis-el-depósito-obligatorio) | [66](#artículo-103-bis-el-depósito-obligatorio) |
-| [Artículo 104. Desarrollo de la subasta](#artículo-103-bis-el-depósito-obligatorio) | [66](#artículo-103-bis-el-depósito-obligatorio) |
-| [Artículo 104 bis. Finalización, adjudicación y pago](#artículo-104-bis-finalización-adjudicación-y-pago) | [67](#artículo-104-bis-finalización-adjudicación-y-pago) |
-| [Artículo 105. Subastas a través de empresas o profesionales especializados](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados) | [68](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados) |
-| [Artículo 106. Enajenación por concurso](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados) | [68](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados) |
-| [Artículo 107. Enajenación mediante adjudicación directa](#artículo-107-enajenación-mediante-adjudicación-directa) | [69](#artículo-107-enajenación-mediante-adjudicación-directa) |
-| [Subsección 6.ª Adjudicación de bienes y derechos a la Hacienda Pública y actuaciones posteriores a la enajenación](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) | [70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) |
-| [Artículo 108. Competencia](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) | [70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) |
-| [Artículo 109. Adjudicación de bienes y derechos](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) | [70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) |
-| [Artículo 110. Inscripción y cancelación de cargas](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) | [70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y) |
-| [Artículo 111. Escritura pública de venta y cancelación de cargas](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) | [71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) |
-| [Artículo 112. Levantamiento de embargo](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) | [71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) |
-| [Subsección 7.ª Costas del procedimiento de apremio](#subsección-7ª-costas-del-procedimiento-de-apremio) | [71](#subsección-7ª-costas-del-procedimiento-de-apremio) |
-| [Artículo 113. Costas del procedimiento de apremio](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) | [71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) |
-|  |  |
-| [Artículo 114. Honorarios y gastos de depósito y administración](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) | [71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas) |
-| [Artículo 115. Liquidación de las costas](#artículo-115-liquidación-de-las-costas) | [72](#artículo-115-liquidación-de-las-costas) |
-| [Sección 3.ª Terminación del procedimiento de apremio](#sección-3ª-terminación-del-procedimiento-de-apremio) | [72](#sección-3ª-terminación-del-procedimiento-de-apremio) |
-| [Artículo 116. Terminación del procedimiento de apremio](#artículo-115-liquidación-de-las-costas) | [72](#artículo-115-liquidación-de-las-costas) |
-| [Sección 4.ª Tercerías](#sección-4ª-tercerías) | [73](#sección-4ª-tercerías) |
-| [Artículo 117. Carácter de la tercería](#sección-4ª-tercerías) | [73](#sección-4ª-tercerías) |
-| [Artículo 118. Competencias en materia de tercerías](#sección-4ª-tercerías) | [73](#sección-4ª-tercerías) |
-| [Artículo 119. Forma, plazos y efectos de la interposición de la tercería](#sección-4ª-tercerías) | [73](#sección-4ª-tercerías) |
-| [Artículo 120. Tramitación y resolución de la tercería](#artículo-120-tramitación-y-resolución-de-la-tercería) | [74](#artículo-120-tramitación-y-resolución-de-la-tercería) |
-| [Artículo 121. Efectos de la estimación de la reclamación de tercería](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) | [75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) |
-| [Artículo 122. Tercerías a favor de la Hacienda pública](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) | [75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) |
-| [Sección 5.ª Actuaciones de la Hacienda pública en procedimientos concursales y en otros procedimientos de ejecución](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) | [75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) |
-| [Artículo 123. Actuaciones de la Hacienda pública en procedimientos concursales y en otros procedimientos de ejecución](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) | [75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería) |
-| [TÍTULO IV. Procedimiento frente a responsables y sucesores](#título-iv) | [76](#título-iv) |
-| [CAPÍTULO I. Responsables](#título-iv) | [76](#título-iv) |
-| [Artículo 124. Declaración de responsabilidad](#título-iv) | [76](#título-iv) |
-| [Artículo 124 bis. Especialidades en materia de declaración de responsabilidad asociada a la liquidación vinculada a delito](#título-iv) | [76](#título-iv) |
-| [Artículo 125. Certificación por adquisición de explotaciones o actividades económicas](#artículo-125-certificación-por-adquisición-de-explotaciones-o-actividades-económicas) | [77](#artículo-125-certificación-por-adquisición-de-explotaciones-o-actividades-económicas) |
+|||
+|-|-:|
+|[CAPÍTULO II. Procedimiento de apremio](#título-iii)|[48](#título-iii)|
+|[Sección 1.ª Inicio del procedimiento de apremio](#sección-1ª-inicio-del-procedimiento-de-apremio)|[48](#sección-1ª-inicio-del-procedimiento-de-apremio)|
+|[Artículo 70. Providencia de apremio](#título-iii)|[48](#título-iii)|
+|[Artículo 71. Notificación de la providencia de apremio](#artículo-71-notificación-de-la-providencia-de-apremio)|[49](#artículo-71-notificación-de-la-providencia-de-apremio)|
+|[Sección 2.ª Desarrollo del procedimiento de apremio](#sección-2ª-desarrollo-del-procedimiento-de-apremio)|[49](#sección-2ª-desarrollo-del-procedimiento-de-apremio)|
+|[Subsección 1.ª Disposiciones generales](#subsección-1ª-disposiciones-generales)|[49](#subsección-1ª-disposiciones-generales)|
+|[Artículo 72. Interés de demora del periodo ejecutivo](#artículo-71-notificación-de-la-providencia-de-apremio)|[49](#artículo-71-notificación-de-la-providencia-de-apremio)|
+|[Artículo 72 bis. Cálculo de los intereses de demora en el ámbito de la asistencia mutua](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua)|[50](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua)|
+|[Artículo 73. Suspensión del procedimiento de apremio](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua)|[50](#artículo-72-bis-cálculo-de-los-intereses-de-demora-en-el-ámbito-de-la-asistencia-mutua)|
+|[Subsección 2.ª Ejecución de garantías](#subsección-2ª-ejecución-de-garantías)|[51](#subsección-2ª-ejecución-de-garantías)|
+|[Artículo 74. Ejecución de garantías](#subsección-2ª-ejecución-de-garantías)|[51](#subsección-2ª-ejecución-de-garantías)|
+|[Subsección 3.ª Normas sobre embargos](#subsección-3ª-normas-sobre-embargos)|[52](#subsección-3ª-normas-sobre-embargos)|
+|[Artículo 75. Diligencias de embargo](#subsección-3ª-normas-sobre-embargos)|[52](#subsección-3ª-normas-sobre-embargos)|
+|[Artículo 76. Práctica de los embargos](#subsección-3ª-normas-sobre-embargos)|[52](#subsección-3ª-normas-sobre-embargos)|
+|[Artículo 77. Concurrencia de embargos](#artículo-77-concurrencia-de-embargos)|[53](#artículo-77-concurrencia-de-embargos)|
+|[Artículo 78. Embargo de dinero en efectivo](#artículo-77-concurrencia-de-embargos)|[53](#artículo-77-concurrencia-de-embargos)|
+|[Artículo 79. Embargo de dinero en cuentas abiertas en entidades de crédito](#artículo-77-concurrencia-de-embargos)|[53](#artículo-77-concurrencia-de-embargos)|
+|[Artículo 80. Embargo de valores](#artículo-80-embargo-de-valores)|[54](#artículo-80-embargo-de-valores)|
+|[Artículo 81. Embargo de otros créditos, efectos y derechos realizables en el acto o a corto plazo](#artículo-81-embargo-de-otros-créditos-efectos-y-derechos-realizables-en-el-acto-o-a-corto-plazo)|[55](#artículo-81-embargo-de-otros-créditos-efectos-y-derechos-realizables-en-el-acto-o-a-corto-plazo)|
+|[Artículo 82. Embargo de sueldos, salarios y pensiones](#artículo-82-embargo-de-sueldos-salarios-y-pensiones)|[56](#artículo-82-embargo-de-sueldos-salarios-y-pensiones)|
+|[Artículo 83. Embargos de bienes inmuebles y de derechos sobre estos](#artículo-82-embargo-de-sueldos-salarios-y-pensiones)|[56](#artículo-82-embargo-de-sueldos-salarios-y-pensiones)|
+|[Artículo 84. Anotación preventiva en el Registro de la Propiedad de los embargos de bienes inmuebles y de derechos sobre estos](#artículo-82-embargo-de-sueldos-salarios-y-pensiones)|[56](#artículo-82-embargo-de-sueldos-salarios-y-pensiones)|
+|[Artículo 85. Requisitos de los mandamientos para la anotación preventiva de los embargos de bienes inmuebles y de derechos sobre estos](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos)|[57](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos)|
+|[Artículo 86. Presentación de los mandamientos en el Registro de la Propiedad](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos)|[57](#artículo-85-requisitos-de-los-mandamientos-para-la-anotación-preventiva-de-los-embargos-de-bienes-inmuebles-y-de-derechos-sobre-estos)|
+|[Artículo 87. Incidencias en las anotaciones preventivas de embargo en el Registro de la Propiedad](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|[58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|
+|[Artículo 88. Contestaciones de los registradores](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|[58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|
+|[Artículo 88 bis. Prohibición de disposición de bienes inmuebles por embargo de acciones y participaciones](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|[58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|
+|[Artículo 89. Embargo de intereses, rentas y frutos de toda especie](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|[58](#artículo-87-incidencias-en-las-anotaciones-preventivas-de-embargo-en-el-registro-de-la-propiedad)|
+|[Artículo 90. Embargo de establecimientos mercantiles e industriales](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales)|[59](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales)|
+|||
+|[Artículo 91. Embargo de metales preciosos, piedras finas, joyería, orfebrería, antigüedades y otros objetos de valor histórico o artístico](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales)|[59](#artículo-90-embargo-de-establecimientos-mercantiles-e-industriales)|
+|[Artículo 92. Embargo de los restantes bienes muebles y semovientes](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes)|[60](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes)|
+|[Artículo 93. Embargo de créditos, efectos, valores y derechos realizables a largo plazo](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes)|[60](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes)|
+|[Subsección 4.ª Normas sobre depósito de los bienes embargados](#subsección-4ª-normas-sobre-depósito-de-los-bienes-embargados)|[60](#subsección-4ª-normas-sobre-depósito-de-los-bienes-embargados)|
+|[Artículo 94. Depósito de bienes embargados](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes)|[60](#artículo-92-embargo-de-los-restantes-bienes-muebles-y-semovientes)|
+|[Artículo 95. Funciones del depositario](#artículo-95-funciones-del-depositario)|[61](#artículo-95-funciones-del-depositario)|
+|[Artículo 96. Derechos, deberes y responsabilidad del depositario de bienes embargados](#artículo-95-funciones-del-depositario)|[61](#artículo-95-funciones-del-depositario)|
+|[Subsección 5.ª Enajenación de los bienes embargados](#subsección-5ª-enajenación-de-los-bienes-embargados)|[61](#subsección-5ª-enajenación-de-los-bienes-embargados)|
+|[Artículo 97. Valoración y fijación del tipo](#artículo-95-funciones-del-depositario)|[61](#artículo-95-funciones-del-depositario)|
+|[Artículo 98. Títulos de propiedad](#artículo-98-títulos-de-propiedad)|[63](#artículo-98-títulos-de-propiedad)|
+|[Artículo 99. Formación de lotes y orden para su enajenación](#artículo-98-títulos-de-propiedad)|[63](#artículo-98-títulos-de-propiedad)|
+|[Artículo 100. Formas de enajenación](#artículo-98-títulos-de-propiedad)|[63](#artículo-98-títulos-de-propiedad)|
+|[Artículo 101. Acuerdo de enajenación y anuncio de la subasta](#artículo-101-acuerdo-de-enajenación-y-anuncio-de-la-subasta)|[64](#artículo-101-acuerdo-de-enajenación-y-anuncio-de-la-subasta)|
+|[Artículo 102. Subastas de bienes agrupados y simultáneas](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas)|[65](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas)|
+|[Artículo 103. Licitadores](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas)|[65](#artículo-102-subastas-de-bienes-agrupados-y-simultáneas)|
+|[Artículo 103 bis. El Depósito obligatorio](#artículo-103-bis-el-depósito-obligatorio)|[66](#artículo-103-bis-el-depósito-obligatorio)|
+|[Artículo 103 ter. La Mesa de subasta](#artículo-103-bis-el-depósito-obligatorio)|[66](#artículo-103-bis-el-depósito-obligatorio)|
+|[Artículo 104. Desarrollo de la subasta](#artículo-103-bis-el-depósito-obligatorio)|[66](#artículo-103-bis-el-depósito-obligatorio)|
+|[Artículo 104 bis. Finalización, adjudicación y pago](#artículo-104-bis-finalización-adjudicación-y-pago)|[67](#artículo-104-bis-finalización-adjudicación-y-pago)|
+|[Artículo 105. Subastas a través de empresas o profesionales especializados](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados)|[68](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados)|
+|[Artículo 106. Enajenación por concurso](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados)|[68](#artículo-105-subastas-a-través-de-empresas-o-profesionales-especializados)|
+|[Artículo 107. Enajenación mediante adjudicación directa](#artículo-107-enajenación-mediante-adjudicación-directa)|[69](#artículo-107-enajenación-mediante-adjudicación-directa)|
+|[Subsección 6.ª Adjudicación de bienes y derechos a la Hacienda Pública y actuaciones posteriores a la enajenación](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|[70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|
+|[Artículo 108. Competencia](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|[70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|
+|[Artículo 109. Adjudicación de bienes y derechos](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|[70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|
+|[Artículo 110. Inscripción y cancelación de cargas](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|[70](#subsección-6ª-adjudicación-de-bienes-y-derechos-a-la-hacienda-pública-y)|
+|[Artículo 111. Escritura pública de venta y cancelación de cargas](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|[71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|
+|[Artículo 112. Levantamiento de embargo](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|[71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|
+|[Subsección 7.ª Costas del procedimiento de apremio](#subsección-7ª-costas-del-procedimiento-de-apremio)|[71](#subsección-7ª-costas-del-procedimiento-de-apremio)|
+|[Artículo 113. Costas del procedimiento de apremio](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|[71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|
+|||
+|[Artículo 114. Honorarios y gastos de depósito y administración](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|[71](#artículo-111-escritura-pública-de-venta-y-cancelación-de-cargas)|
+|[Artículo 115. Liquidación de las costas](#artículo-115-liquidación-de-las-costas)|[72](#artículo-115-liquidación-de-las-costas)|
+|[Sección 3.ª Terminación del procedimiento de apremio](#sección-3ª-terminación-del-procedimiento-de-apremio)|[72](#sección-3ª-terminación-del-procedimiento-de-apremio)|
+|[Artículo 116. Terminación del procedimiento de apremio](#artículo-115-liquidación-de-las-costas)|[72](#artículo-115-liquidación-de-las-costas)|
+|[Sección 4.ª Tercerías](#sección-4ª-tercerías)|[73](#sección-4ª-tercerías)|
+|[Artículo 117. Carácter de la tercería](#sección-4ª-tercerías)|[73](#sección-4ª-tercerías)|
+|[Artículo 118. Competencias en materia de tercerías](#sección-4ª-tercerías)|[73](#sección-4ª-tercerías)|
+|[Artículo 119. Forma, plazos y efectos de la interposición de la tercería](#sección-4ª-tercerías)|[73](#sección-4ª-tercerías)|
+|[Artículo 120. Tramitación y resolución de la tercería](#artículo-120-tramitación-y-resolución-de-la-tercería)|[74](#artículo-120-tramitación-y-resolución-de-la-tercería)|
+|[Artículo 121. Efectos de la estimación de la reclamación de tercería](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|[75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|
+|[Artículo 122. Tercerías a favor de la Hacienda pública](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|[75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|
+|[Sección 5.ª Actuaciones de la Hacienda pública en procedimientos concursales y en otros procedimientos de ejecución](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|[75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|
+|[Artículo 123. Actuaciones de la Hacienda pública en procedimientos concursales y en otros procedimientos de ejecución](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|[75](#artículo-121-efectos-de-la-estimación-de-la-reclamación-de-tercería)|
+|[TÍTULO IV. Procedimiento frente a responsables y sucesores](#título-iv)|[76](#título-iv)|
+|[CAPÍTULO I. Responsables](#título-iv)|[76](#título-iv)|
+|[Artículo 124. Declaración de responsabilidad](#título-iv)|[76](#título-iv)|
+|[Artículo 124 bis. Especialidades en materia de declaración de responsabilidad asociada a la liquidación vinculada a delito](#título-iv)|[76](#título-iv)|
+|[Artículo 125. Certificación por adquisición de explotaciones o actividades económicas](#artículo-125-certificación-por-adquisición-de-explotaciones-o-actividades-económicas)|[77](#artículo-125-certificación-por-adquisición-de-explotaciones-o-actividades-económicas)|
 
 [Artículo 126. Certificado expedido a instancia de los contratistas o subcontratistas de obras y servicios.](#artículo-125-certificación-por-adquisición-de-explotaciones-o-actividades-económicas) [77](#artículo-125-certificación-por-adquisición-de-explotaciones-o-actividades-económicas)
 
-|  |  |
-| --- | ---: |
-| [CAPÍTULO II. Sucesores](#capítulo-ii-3) | [78](#capítulo-ii-3) |
-| [Artículo 127. Procedimiento de recaudación frente a los sucesores](#capítulo-ii-3) | [78](#capítulo-ii-3) |
-| [TÍTULO V. Disposiciones especiales](#título-v) | [79](#título-v) |
-| [Artículo 128. Exacción de la responsabilidad civil y multa por delito contra la Hacienda Pública](#título-v) | [79](#título-v) |
-| [Artículo 129. Impugnación de los actos asociados a un proceso penal en curso](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) | [80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) |
-| [_Disposiciones adicionales_](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) | [80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) |
-| [Disposición adicional primera. Órganos equivalentes de las comunidades autónomas, ciudades con Estatuto de Autonomía de Ceuta y Melilla o de las entidades locales](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) | [80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) |
-| [Disposición adicional segunda. Criterios de coordinación de la Agencia Estatal de Administración Tributaria con la Tesorería General de la Seguridad Social en procesos concursales](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) | [80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso) |
-| [Disposición adicional tercera. Asistencia mutua en materia de recaudación](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) | [81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) |
-| [Disposición adicional cuarta. Norma de organización específica](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) | [81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) |
-|  |  |
-| [_Disposiciones transitorias_](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) | [81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) |
-| [Disposición transitoria primera. Derechos de traspaso](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) | [81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) |
-| [Disposición transitoria segunda. Obtención de información, facultades y adopción de medidas cautelares en la gestión recaudatoria](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) | [81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) |
-| [Disposición transitoria tercera. Régimen transitorio del Reglamento General de Recaudación](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) | [81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación) |
-| [Disposición transitoria cuarta. Régimen transitorio de las subastas](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de) | [82](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de) |
-| [_Disposiciones finales_](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de) | [82](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de) |
-| [Disposición final única. Habilitación normativa](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de) | [82](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de) |
+|||
+|-|-:|
+|[CAPÍTULO II. Sucesores](#capítulo-ii-3)|[78](#capítulo-ii-3)|
+|[Artículo 127. Procedimiento de recaudación frente a los sucesores](#capítulo-ii-3)|[78](#capítulo-ii-3)|
+|[TÍTULO V. Disposiciones especiales](#título-v)|[79](#título-v)|
+|[Artículo 128. Exacción de la responsabilidad civil y multa por delito contra la Hacienda Pública](#título-v)|[79](#título-v)|
+|[Artículo 129. Impugnación de los actos asociados a un proceso penal en curso](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|[80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|
+|[*Disposiciones adicionales*](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|[80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|
+|[Disposición adicional primera. Órganos equivalentes de las comunidades autónomas, ciudades con Estatuto de Autonomía de Ceuta y Melilla o de las entidades locales](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|[80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|
+|[Disposición adicional segunda. Criterios de coordinación de la Agencia Estatal de Administración Tributaria con la Tesorería General de la Seguridad Social en procesos concursales](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|[80](#artículo-129-impugnación-de-los-actos-asociados-a-un-proceso-penal-en-curso)|
+|[Disposición adicional tercera. Asistencia mutua en materia de recaudación](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|[81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|
+|[Disposición adicional cuarta. Norma de organización específica](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|[81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|
+|||
+|[*Disposiciones transitorias*](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|[81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|
+|[Disposición transitoria primera. Derechos de traspaso](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|[81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|
+|[Disposición transitoria segunda. Obtención de información, facultades y adopción de medidas cautelares en la gestión recaudatoria](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|[81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|
+|[Disposición transitoria tercera. Régimen transitorio del Reglamento General de Recaudación](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|[81](#disposición-adicional-tercera-asistencia-mutua-en-materia-de-recaudación)|
+|[Disposición transitoria cuarta. Régimen transitorio de las subastas](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de)|[82](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de)|
+|[*Disposiciones finales*](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de)|[82](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de)|
+|[Disposición final única. Habilitación normativa](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de)|[82](#disposición-transitoria-cuarta-régimen-transitorio-de-las-subastas-las-normas-relativas-al-desarrollo-del-procedimiento-de-subasta-a-través-del-portal-de)|
 
 ## TEXTO CONSOLIDADO Última modificación: 31 de enero de 2024
 
@@ -248,7 +246,7 @@ IV
 
 El título II del reglamento se dedica a la deuda y se divide a su vez en dos capítulos, uno dedicado a la extinción de la deuda y otro dedicado a las garantías de la deuda. En lo relativo a la extinción de la deuda se regula de forma detallada el pago en efectivo, mediante efectos timbrados y en especie. En la regulación del pago de las deudas en efectivo se incorpora la regulación prevista en diferentes órdenes ministeriales para evitar la dispersión normativa en esta materia. En cuanto al pago mediante efectos timbrados se revisa el listado de efectos y se establece una cláusula de cierre para atribuir la condición de efectos timbrados a aquellos que puedan ser aprobados por orden del Ministro de Economía y Hacienda. En lo que se refiere al pago en especie se establecen los efectos de la presentación de la solicitud en función de que esta se presente en periodo voluntario o en periodo ejecutivo de ingreso, la subsanación de los defectos de la solicitud y los efectos de la aceptación, de la denegación y de la falta de puesta a disposición de los bienes. Por otra parte se describen las actuaciones a realizar en el supuesto de tributos incompatibles, en las que se pone el acento en la protección de la persona o entidad que pueda verse perjudicada por la doble liquidación administrativa, a la vez que se regula el cauce de coordinación entre las Administraciones públicas implicadas.
 
-En lo que se refiere a la posibilidad de aplazar o fraccionar el pago de las deudas se desarrolla lo previsto en los artículos 65 y 82 de la Ley 58/2003, de 17 de diciembre, General Tributaria. Se incluyen reglas de inadmisión de las solicitudes y, para el caso de admisión, se regulan de forma detallada los efectos de la falta de subsanación de los requisitos de la 
+En lo que se refiere a la posibilidad de aplazar o fraccionar el pago de las deudas se desarrolla lo previsto en los artículos 65 y 82 de la Ley 58/2003, de 17 de diciembre, General Tributaria. Se incluyen reglas de inadmisión de las solicitudes y, para el caso de admisión, se regulan de forma detallada los efectos de la falta de subsanación de los requisitos de la
 
 garantía y de la inatención del requerimiento, de la denegación del aplazamiento o fraccionamiento y, en caso de que se haya concedido, de la falta de formalización de la garantía y de la falta de pago en los plazos otorgados. Finalmente, se desarrolla lo dispuesto en la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de garantías en aplazamientos y fraccionamientos, en particular, lo referente a la adopción de medidas cautelares en sustitución de garantías. También se regula el reembolso del coste de las garantías prestadas para el aplazamiento o fraccionamiento de una deuda declarada improcedente.
 
@@ -270,7 +268,7 @@ La sección 1.ª, relativa al inicio del procedimiento de apremio, distingue ent
 
 La sección 2.ª dedicada al desarrollo del procedimiento de apremio incluye un artículo relativo a la suspensión del procedimiento, si bien se limita a hacer una remisión a la regulación prevista en la normativa de los recursos y reclamaciones económico- administrativas. También se contienen en esta sección las reglas generales para la práctica de los embargos y los artículos que regulan cada uno de sus tipos, con la inclusión de normas especiales y la regulación del depósito de bienes embargados.
 
-La subsección 5.ª se refiere a la enajenación de los bienes embargados Se han introducido una serie de novedades con el objeto de agilizar el procedimiento, adaptarlo a las nuevas tecnologías electrónicas, informáticas y telemáticas y mejorar la concurrencia en la venta de los bienes embargados. El tipo inicial de subasta se mantiene en el importe de la valoración, salvo que existan cargas, y, tras aclarar el concepto de acuerdo de enajenación, se establecen algunas reglas nuevas en materia de notificación de dicho acuerdo, se elimina el límite temporal para el examen de los bienes objeto de subasta y se introducen novedades en cuanto a la constitución del depósito y el pago del precio, ya que, aunque sigue 
+La subsección 5.ª se refiere a la enajenación de los bienes embargados Se han introducido una serie de novedades con el objeto de agilizar el procedimiento, adaptarlo a las nuevas tecnologías electrónicas, informáticas y telemáticas y mejorar la concurrencia en la venta de los bienes embargados. El tipo inicial de subasta se mantiene en el importe de la valoración, salvo que existan cargas, y, tras aclarar el concepto de acuerdo de enajenación, se establecen algunas reglas nuevas en materia de notificación de dicho acuerdo, se elimina el límite temporal para el examen de los bienes objeto de subasta y se introducen novedades en cuanto a la constitución del depósito y el pago del precio, ya que, aunque sigue
 
 estableciéndose en un 20 por ciento, existe la posibilidad de reducirlo a un 10 por ciento. La norma prevé la posibilidad de efectuar pujas en sobre cerrado, de forma automática, personales y de forma telemática, estableciendo las reglas de preferencia entre ellas. Además, se prevé que cuando la participación en la subasta se lleve a cabo en virtud de la colaboración social pueda cederse el remate a un tercero.
 
@@ -296,21 +294,23 @@ En su virtud, a propuesta del Ministro de Economía y Hacienda, con la aprobaci�
 
 D I S P O N G O :
 
-### Artículo único. _Aprobación del Reglamento General de Recaudación._
+### Artículo único. *Aprobación del Reglamento General de Recaudación.*
 
 Se aprueba el Reglamento General de Recaudación, cuyo texto se inserta a continuación.
 
-### Disposición derogatoria única. _Derogación normativa._
+### Disposición derogatoria única. *Derogación normativa.*
 
 Quedan derogados:
 
-    1. El Real Decreto 1684/1990, de 20 de diciembre, por el que se aprueba el Reglamento General de Recaudación.
+&#x20;   1. El Real Decreto 1684/1990, de 20 de diciembre, por el que se aprueba el Reglamento General de Recaudación.
+
 
 <div></div>
 
-    1. Las disposiciones de igual o inferior rango que se opongan a lo previsto en este real decreto.
+&#x20;   1. Las disposiciones de igual o inferior rango que se opongan a lo previsto en este real decreto.
 
-### Disposición final única. _Entrada en vigor._
+
+### Disposición final única. *Entrada en vigor.*
 
 El presente real decreto entrará en vigor el 1 de enero de 2006.
 
@@ -330,18 +330,19 @@ El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, PEDRO
 
 **La gestión recaudatoria**
 
-## _Sección 1.ª Disposiciones generales_
+## *Sección 1.ª Disposiciones generales*
 
-### Artículo 1. _Ámbito de aplicación._
+### Artículo 1. *Ámbito de aplicación.*
 
-    1. Este reglamento regula la gestión recaudatoria de los recursos de naturaleza pública en desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y de las demás leyes que establezcan aquellos.
+&#x20;   1. Este reglamento regula la gestión recaudatoria de los recursos de naturaleza pública en desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y de las demás leyes que establezcan aquellos.
     2. Este reglamento será de aplicación en los términos previstos en el artículo 1 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-### Artículo 2. _Concepto de gestión recaudatoria._
+
+### Artículo 2. *Concepto de gestión recaudatoria.*
 
 La gestión recaudatoria de la Hacienda pública consiste en el ejercicio de la función administrativa conducente al cobro de las deudas y sanciones tributarias y demás recursos de naturaleza pública que deban satisfacer los obligados al pago.
 
-A efectos de este reglamento, todos los créditos de naturaleza pública a que se refiere este artículo se denominarán deudas. Se considerarán obligados al pago aquellas personas 
+A efectos de este reglamento, todos los créditos de naturaleza pública a que se refiere este artículo se denominarán deudas. Se considerarán obligados al pago aquellas personas
 
 1. entidades a las que la Hacienda pública exige el ingreso de la totalidad o parte de una deuda.
 
@@ -349,15 +350,15 @@ La gestión recaudatoria podrá realizarse en periodo voluntario o en periodo ej
 
 La gestión recaudatoria también podrá consistir en el desarrollo de actuaciones recaudatorias y de colaboración en este ámbito conforme a la normativa de asistencia mutua a la que se refiere el artículo 1.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-## _Sección 2.ª Recaudación de recursos de naturaleza pública por las distintas_ 
+## *Sección 2.ª Recaudación de recursos de naturaleza pública por las distintas*
 
 ***Administraciones***
 
-## Subsección 1.ª Recaudación por la Hacienda pública estatal y por las entidades de 
+## Subsección 1.ª Recaudación por la Hacienda pública estatal y por las entidades de
 
 derecho público estatales
 
-### Artículo 3. _Recaudación de la Hacienda pública estatal y de las entidades de derecho público estatales._
+### Artículo 3. *Recaudación de la Hacienda pública estatal y de las entidades de derecho público estatales.*
 
 1. La gestión recaudatoria del Estado y de sus organismos autónomos se llevará a cabo:
 
@@ -380,7 +381,7 @@ La recaudación en periodo ejecutivo corresponderá a la Agencia Estatal de Admi
 3. En los supuestos previstos en los apartados 1 y 2 de este artículo, corresponderá a los órganos de recaudación de la Agencia Estatal de Administración Tributaria, tanto la declaración de la responsabilidad como la derivación de la acción de cobro frente a los responsables, de acuerdo con lo previsto en la Ley 58/2003, de 17 de diciembre, General Tributaria.
 4. Las cantidades recaudadas por cuenta de las entidades citadas en el apartado 2 de este artículo por parte de la Agencia Estatal de Administración Tributaria, cuando la recaudación se efectúe en virtud de una ley, serán transferidas a las cuentas oficiales de dichas entidades, a excepción de los recargos del periodo ejecutivo y de las costas. En caso de convenio se transferirán las cantidades recaudadas minoradas en los términos establecidos en dicho convenio.
 
-### Artículo 4. _Especialidades de la recaudación de los organismos autónomos del Estado._
+### Artículo 4. *Especialidades de la recaudación de los organismos autónomos del Estado.*
 
 1. La gestión recaudatoria en periodo ejecutivo de los créditos de los organismos autónomos del Estado se rige por lo dispuesto en este reglamento, con las siguientes particularidades:
 
@@ -411,7 +412,7 @@ En caso de rehabilitación del crédito por parte del organismo autónomo, este 
 
 1. Los bienes cuya adjudicación se haya acordado, así como los documentos precisos para su inscripción en los registros públicos, se entregarán o, en su caso, se pondrán a disposición del organismo autónomo.
 
-### Artículo 5. _Recaudación de recursos de otras Administraciones públicas nacionales, extranjeras o entidades internacionales o supranacionales._
+### Artículo 5. *Recaudación de recursos de otras Administraciones públicas nacionales, extranjeras o entidades internacionales o supranacionales.*
 
 1. La Agencia Estatal de Administración Tributaria se encargará de la recaudación de los recursos de naturaleza pública de otras Administraciones públicas nacionales distintas de las previstas en los artículos 7 y 8 cuando dicha gestión se le encomiende en virtud de ley o convenio.
 
@@ -435,7 +436,7 @@ Asimismo, corresponderá a la Agencia Estatal de Administración Tributaria la r
 
 4. La Agencia Estatal de Administración Tributaria realizará las actuaciones de colaboración en la recaudación que establezcan las leyes.
 
-### Artículo 6. _Órganos de recaudación del Estado._
+### Artículo 6. *Órganos de recaudación del Estado.*
 
 Son órganos de recaudación del Estado:
 
@@ -449,11 +450,11 @@ Son órganos de recaudación del Estado:
 
 1. La Dirección General del Tesoro y Política Financiera y las unidades administrativas de las Delegaciones de Economía y Hacienda en los demás casos no comprendidos en los párrafos anteriores.
 
-## Subsección 2.ª Recaudación de la Hacienda pública de las comunidades autónomas 
+## Subsección 2.ª Recaudación de la Hacienda pública de las comunidades autónomas
 
 y de sus organismos autónomos
 
-### Artículo 7. _Recaudación de la Hacienda pública de las comunidades autónomas y de sus organismos autónomos._
+### Artículo 7. *Recaudación de la Hacienda pública de las comunidades autónomas y de sus organismos autónomos.*
 
 Corresponde a las comunidades autónomas la recaudación de las deudas cuya gestión tengan atribuida, y se llevará a cabo:
 
@@ -467,11 +468,11 @@ Corresponde a las comunidades autónomas la recaudación de las deudas cuya gest
 
 1. Por la Agencia Estatal de Administración Tributaria, cuando así se acuerde mediante la suscripción de un convenio para la recaudación.
 
-## Subsección 3.ª Recaudación de la Hacienda pública de las entidades locales y de 
+## Subsección 3.ª Recaudación de la Hacienda pública de las entidades locales y de
 
 sus organismos autónomos
 
-### Artículo 8. _Recaudación de la Hacienda pública de las entidades locales y de sus organismos autónomos._
+### Artículo 8. *Recaudación de la Hacienda pública de las entidades locales y de sus organismos autónomos.*
 
 Corresponde a las entidades locales y a sus organismos autónomos la recaudación de las deudas cuya gestión tengan atribuida y se llevará a cabo:
 
@@ -485,11 +486,11 @@ Corresponde a las entidades locales y a sus organismos autónomos la recaudació
 
 1. Por la Agencia Estatal de Administración Tributaria, cuando así se acuerde mediante la suscripción de un convenio para la recaudación.
 
-## _Sección 3.ª Entidades que presten el servicio de caja y entidades_ 
+## *Sección 3.ª Entidades que presten el servicio de caja y entidades*
 
 ***colaboradoras en la gestión recaudatoria***
 
-### Artículo 9. _Entidades que presten el servicio de caja y entidades colaboradoras en la gestión recaudatoria._
+### Artículo 9. *Entidades que presten el servicio de caja y entidades colaboradoras en la gestión recaudatoria.*
 
 1. Podrán prestar el servicio de caja las entidades de crédito con las que cada Administración así lo convenga.
 
@@ -522,11 +523,11 @@ A efectos de este reglamento, sólo podrán actuar como entidades que presten el
 
 1. Cualquier otra que se establezca por el titular del Ministerio de Hacienda.
 
-## _Sección 4.ª Obtención de información, facultades y adopción de medidas_ 
+## *Sección 4.ª Obtención de información, facultades y adopción de medidas*
 
 ***cautelares en la gestión recaudatoria***
 
-### Artículo 10. _Facultades de los órganos de recaudación._
+### Artículo 10. *Facultades de los órganos de recaudación.*
 
 1. Los funcionarios que desempeñen funciones de recaudación serán considerados agentes de la autoridad y tendrán las facultades previstas en el artículo 142 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
@@ -538,16 +539,16 @@ Asimismo, podrán adoptar las medidas cautelares recogidas en el artículo 146 d
 
 **Ingresos de la gestión recaudatoria**
 
-### Artículo 11. _Ingresos de la gestión recaudatoria._
+### Artículo 11. *Ingresos de la gestión recaudatoria.*
 
 1. Los ingresos de la gestión recaudatoria, tanto en periodo voluntario como en periodo ejecutivo, se efectuarán conforme a lo dispuesto en este capítulo.
 2. Si el vencimiento de cualquier plazo coincide con un sábado o un día inhábil, quedará trasladado al primer día hábil siguiente.
 
-## _Sección 1.ª Ingresos de la gestión recaudatoria en periodo voluntario y periodo_ 
+## *Sección 1.ª Ingresos de la gestión recaudatoria en periodo voluntario y periodo*
 
 ***ejecutivo***
 
-### Artículo 12. _Lugar de realización de los ingresos._
+### Artículo 12. *Lugar de realización de los ingresos.*
 
 Los ingresos podrán realizarse:
 
@@ -577,11 +578,11 @@ Los ingresos podrán realizarse:
 
 1. En cualquier otro lugar de pago que se establezca por el Ministro de Economía y Hacienda.
 
-## Subsección 1.ª Ingresos en la Tesorería de la Dirección General del Tesoro y Política 
+## Subsección 1.ª Ingresos en la Tesorería de la Dirección General del Tesoro y Política
 
 Financiera
 
-### Artículo 13. _Ingresos en la Tesorería de la Dirección General del Tesoro y Política Financiera._
+### Artículo 13. *Ingresos en la Tesorería de la Dirección General del Tesoro y Política Financiera.*
 
 1. La Tesorería de la Dirección General del Tesoro y Política Financiera recaudará las cantidades que se liquiden o retengan en dicho órgano y aquellas respecto de las cuales así lo establezca el Ministro de Economía y Hacienda.
 2. Dichas cantidades podrán ingresarse, según se establezca por el Ministro de Economía y Hacienda:
@@ -602,20 +603,20 @@ Financiera
 
 3. Los ingresos se realizarán de lunes a viernes, excepto en los días no laborables.
 
-## Subsección 2.ª Ingresos a través de entidades de crédito que presten el servicio de 
+## Subsección 2.ª Ingresos a través de entidades de crédito que presten el servicio de
 
 caja
 
-### Artículo 14. _Entidades de crédito que presten el servicio de caja._
+### Artículo 14. *Entidades de crédito que presten el servicio de caja.*
 
 1. Las entidades de crédito con las que así se convenga podrán prestar el servicio de caja a los órganos de recaudación competentes.
 2. Sin perjuicio de lo establecido en el apartado anterior, dichas entidades podrán actuar también como colaboradoras en la recaudación.
 
-### Artículo 15. _Ingresos a través de entidades de crédito que presten el servicio de caja._
+### Artículo 15. *Ingresos a través de entidades de crédito que presten el servicio de caja.*
 
 Los ingresos se realizarán con carácter obligatorio en las entidades de crédito que presten el servicio de caja únicamente en aquellos casos en que así se establezca por el Ministro de Economía y Hacienda.
 
-### Artículo 16. _Procedimiento de ingreso a través de entidades de crédito que presten el servicio de caja._
+### Artículo 16. *Procedimiento de ingreso a través de entidades de crédito que presten el servicio de caja.*
 
 1. Los ingresos se realizarán en cuentas restringidas abiertas en las citadas entidades, cuya denominación y funcionamiento serán establecidos mediante orden del Ministro de Economía y Hacienda.
 2. Los ingresos en estas cuentas se efectuarán en dinero de curso legal y por cualquier otro medio de pago que se establezca por orden del Ministro de Economía y Hacienda.
@@ -623,7 +624,7 @@ Los ingresos se realizarán con carácter obligatorio en las entidades de crédi
 
 ## Subsección 3.ª Ingresos a través de entidades colaboradoras en la recaudación
 
-### Artículo 17. _Entidades colaboradoras en la recaudación._
+### Artículo 17. *Entidades colaboradoras en la recaudación.*
 
 1. Podrán colaborar en la recaudación las entidades de crédito autorizadas. La prestación del servicio de colaboración no será retribuida.
 2. Las entidades que deseen actuar como colaboradoras en la gestión recaudatoria desarrollada por la Agencia Estatal de Administración Tributaria solicitarán autorización del Director del Departamento de Recaudación de esta y deberán adjuntar declaración expresa de estar en disposición de prestar el servicio de colaboración en las condiciones establecidas en cada caso por la normativa vigente.
@@ -649,7 +650,7 @@ Además, la entidad colaboradora deberá poner en conocimiento del órgano de re
 4. La entidad que posea varias oficinas dentro del ámbito territorial que se determine por cada Administración tributaria deberá designar una de ellas para relacionarse con dicha Administración.
 5. Los órganos de recaudación efectuarán el control y seguimiento de la actuación de las entidades colaboradoras.
 
-A tal efecto, podrán ordenar la práctica de comprobaciones en dichas entidades. Las comprobaciones se referirán exclusivamente a su actuación como entidades 
+A tal efecto, podrán ordenar la práctica de comprobaciones en dichas entidades. Las comprobaciones se referirán exclusivamente a su actuación como entidades
 
 colaboradoras, pudiéndose efectuar en las oficinas de la entidad o en los locales del órgano actuante.
 
@@ -689,7 +690,7 @@ En particular, el órgano de recaudación competente podrá hacer uso de las fac
 
 1. Inutilidad de la autorización, manifestada por el nulo o escaso volumen de los ingresos realizados a través de la entidad.
 
-### Artículo 18. _Ingresos a través de entidades colaboradoras en la recaudación._
+### Artículo 18. *Ingresos a través de entidades colaboradoras en la recaudación.*
 
 1. Los obligados al pago, tengan o no cuentas abiertas en las entidades colaboradoras, podrán ingresar en ellas las siguientes deudas:
 
@@ -706,7 +707,7 @@ En particular, el órgano de recaudación competente podrá hacer uso de las fac
 1. Cualesquiera otras, salvo que el Ministro de Economía y Hacienda haya establecido que el ingreso ha de realizarse con carácter obligatorio en las entidades de crédito que presten el servicio de caja.
 2. Las entidades colaboradoras no podrán admitir los ingresos que deban realizarse obligatoriamente en las entidades de crédito que presten el servicio de caja.
 
-### Artículo 19. _Procedimiento de ingreso a través de entidades colaboradoras en la recaudación._
+### Artículo 19. *Procedimiento de ingreso a través de entidades colaboradoras en la recaudación.*
 
 1. Los ingresos se realizarán en cuentas restringidas abiertas en las entidades colaboradoras, cuya denominación y funcionamiento serán establecidos mediante orden ministerial.
 2. Las entidades colaboradoras admitirán, en todo caso, el dinero de curso legal como medio de pago. Asimismo, podrán aceptar cualquier otro medio de pago habitual en el tráfico bancario, si bien la admisión de estos medios queda a discreción y riesgo de la entidad.
@@ -722,7 +723,7 @@ Cada Administración tributaria podrá limitar la prestación del servicio a un 
 El contenido de los justificantes de pago se establecerá mediante orden ministerial.
 
 5. Si el ingreso es consecuencia de una liquidación practicada por la Administración y notificada al obligado al pago, aquel se realizará en la entidad colaboradora mediante la presentación del documento de ingreso según modelo establecido por el Ministerio de Economía y Hacienda.
-6. La entidad colaboradora deberá exigir la consignación del número de identificación fiscal en el documento correspondiente y comprobará la exactitud del indicado número mediante el examen del documento acreditativo, que deberá ser exhibido por quien presente el documento liquidatorio. No será necesaria dicha exigencia en relación con aquellas 
+6. La entidad colaboradora deberá exigir la consignación del número de identificación fiscal en el documento correspondiente y comprobará la exactitud del indicado número mediante el examen del documento acreditativo, que deberá ser exhibido por quien presente el documento liquidatorio. No será necesaria dicha exigencia en relación con aquellas
 
 autoliquidaciones y documentos de ingreso respecto de los cuales el Ministerio de Economía y Hacienda haya establecido que deben presentarse en las entidades colaboradoras con una etiqueta adherida u otro medio de identificación en los que consten los datos de los obligados al pago.
 
@@ -766,13 +767,13 @@ En ambos casos, la entidad colaboradora conservará en su poder el ejemplar a el
 
 <div></div>
 
-9. Cuando, presentado un documento de ingreso por un obligado al pago, el importe validado por la entidad colaboradora resulte correcto pero esta realice un ingreso superior al procedente, se tramitará su devolución a la entidad colaboradora en los términos legalmente 
+9. Cuando, presentado un documento de ingreso por un obligado al pago, el importe validado por la entidad colaboradora resulte correcto pero esta realice un ingreso superior al procedente, se tramitará su devolución a la entidad colaboradora en los términos legalmente
 
 establecidos sin que a tales ingresos les resulte de aplicación lo previsto en el artículo 221 de la Ley 58/2003, de 17 de diciembre, General Tributaria, y en su normativa de desarrollo.
 
 ## Subsección 4.ª Ingresos en las aduanas
 
-### Artículo 20. _Ingresos en las aduanas._
+### Artículo 20. *Ingresos en las aduanas.*
 
 1. Se recaudarán por las aduanas las deudas respecto de las que así esté establecido.
 2. Con carácter general, los ingresos se realizarán a través de las entidades de crédito autorizadas para actuar como colaboradoras en la recaudación.
@@ -799,11 +800,11 @@ El Ministro de Economía y Hacienda dictará las normas que regulen el funcionam
 
 Para la realización de estas devoluciones, se podrá autorizar un fondo cuya dotación, funcionamiento y control se regularán por el Ministro de Economía y Hacienda.
 
-## Subsección 5.ª Ingresos en cuentas restringidas abiertas en entidades de crédito y 
+## Subsección 5.ª Ingresos en cuentas restringidas abiertas en entidades de crédito y
 
 en cajas de órganos gestores
 
-### Artículo 21. _Ingresos en cuentas restringidas y en cajas de órganos gestores._
+### Artículo 21. *Ingresos en cuentas restringidas y en cajas de órganos gestores.*
 
 1. Podrán realizarse los ingresos en cuentas restringidas de recaudación abiertas en entidades de crédito cuando, a propuesta del órgano gestor, se autorice, bien por la Agencia Estatal de Administración Tributaria cuando se trate de recursos del sistema tributario estatal y aduanero, bien por la Dirección General del Tesoro y Política Financiera.
 
@@ -825,11 +826,11 @@ En tal caso deberán aplicarse, como mínimo, las normas siguientes:
 
 1. Los fondos deberán ser ingresados en el Tesoro diariamente o en el plazo que establezca el órgano de recaudación, compatible con criterios de buena gestión.
 
-## Subsección 6.ª Especialidades del ingreso de deudas recaudadas por organismos 
+## Subsección 6.ª Especialidades del ingreso de deudas recaudadas por organismos
 
 autónomos
 
-### Artículo 22. _Ingresos en organismos autónomos._
+### Artículo 22. *Ingresos en organismos autónomos.*
 
 1. Los ingresos cuya gestión corresponda a los organismos autónomos podrán realizarse según se establezca en cada caso:
 
@@ -881,11 +882,11 @@ Con cargo a dichas cuentas restringidas no se podrán efectuar más pagos que lo
 
 1. Los fondos deberán ser depositados en cuentas controladas por el organismo autónomo diariamente o en el menor plazo que sea compatible con criterios de buena gestión.
 
-## _Sección 2.ª Recaudación de deudas de vencimiento periódico y notificación_ 
+## *Sección 2.ª Recaudación de deudas de vencimiento periódico y notificación*
 
 ***colectiva***
 
-### Artículo 23. _Modalidades de cobro._
+### Artículo 23. *Modalidades de cobro.*
 
 La recaudación de deudas de vencimiento periódico y notificación colectiva podrá realizarse, según se establezca en cada caso:
 
@@ -899,7 +900,7 @@ La recaudación de deudas de vencimiento periódico y notificación colectiva po
 
 1. Por cualquier otra modalidad que se establezca para el ingreso de los recursos de la Hacienda pública.
 
-### Artículo 24. _Anuncios de cobranza._
+### Artículo 24. *Anuncios de cobranza.*
 
 1. La comunicación del periodo de pago se llevará a cabo de forma colectiva, y se publicarán los correspondientes edictos en el boletín oficial que corresponda y en las oficinas de los ayuntamientos afectados. Dichos edictos podrán divulgarse por los medios de comunicación que se consideren adecuados.
 2. El anuncio de cobranza deberá contener, al menos:
@@ -924,7 +925,7 @@ La recaudación de deudas de vencimiento periódico y notificación colectiva po
 
 3. El anuncio de cobranza podrá ser sustituido por notificaciones individuales.
 
-### Artículo 25. _Ingresos de deudas de vencimiento periódico y notificación colectiva._
+### Artículo 25. *Ingresos de deudas de vencimiento periódico y notificación colectiva.*
 
 1. En caso de deudas cuyo cobro se realice por recibo, cuando el obligado al pago u otra persona se persone en el lugar de ingreso, y por cualquier circunstancia no estuviera disponible el recibo, se admitirá el pago y se expedirá el correspondiente justificante, siempre que el obligado al pago figure inscrito en las listas cobratorias.
 2. Los obligados al pago podrán domiciliar el pago de las deudas a las que se refiere esta sección en cuentas abiertas en entidades de crédito.
@@ -933,34 +934,34 @@ Para ello, conforme a lo dispuesto en el artículo 38, dirigirán comunicación 
 
 Las domiciliaciones tendrán validez por tiempo indefinido en tanto no sean anuladas por el interesado, rechazadas por la entidad de crédito o la Administración disponga expresamente su invalidez por razones justificadas. En este último caso, la Administración deberá notificar el acuerdo por el que se declare la invalidez al obligado al pago y a la entidad colaboradora.
 
-## _Sección 3.ª Ingresos en el Tesoro de las cantidades obtenidas en la gestión_ 
+## *Sección 3.ª Ingresos en el Tesoro de las cantidades obtenidas en la gestión*
 
 ***recaudatoria***
 
-### Artículo 26. _Disposiciones generales sobre ingresos en las cuentas del Tesoro._
+### Artículo 26. *Disposiciones generales sobre ingresos en las cuentas del Tesoro.*
 
 1. Las cantidades percibidas por los distintos órganos en el ejercicio de la función recaudatoria y por las personas o entidades a las que se refiere el apartado 2 serán ingresadas por estos en las cuentas del Tesoro, con sujeción a las disposiciones contenidas en esta sección.
 2. Cuando las entidades que presten el servicio de caja, las colaboradoras en la recaudación y cualquier otra persona o entidad que recaude por cuenta de la Hacienda pública no efectúen los ingresos en las cuentas del Tesoro en los plazos establecidos, el órgano de recaudación competente exigirá el inmediato ingreso y practicará liquidación por intereses de demora que será notificada para su ingreso en el Tesoro.
 3. Los retrasos en los ingresos y las demás anomalías en la prestación de los servicios serán comunicados al órgano de recaudación competente, para la adopción de las medidas que en su caso procedan.
 
-### Artículo 27. _Ingresos de la Caja de la Dirección General del Tesoro y Política Financiera._
+### Artículo 27. *Ingresos de la Caja de la Dirección General del Tesoro y Política Financiera.*
 
-La suma total recaudada por la Caja de la Dirección General del Tesoro y Política Financiera será ingresada en la cuenta del Tesoro público diariamente o en el plazo que 
+La suma total recaudada por la Caja de la Dirección General del Tesoro y Política Financiera será ingresada en la cuenta del Tesoro público diariamente o en el plazo que
 
 establezca el Director General del Tesoro y Política Financiera que sea compatible con criterios de buena gestión.
 
-### Artículo 28. _Ingresos de las entidades que presten el servicio de caja._
+### Artículo 28. *Ingresos de las entidades que presten el servicio de caja.*
 
 1. Las entidades de crédito que presten el servicio de caja en los órganos de recaudación ingresarán en la cuenta del Tesoro lo recaudado durante cada quincena dentro de los siete días hábiles siguientes al fin de cada una. Cada quincena comprenderá desde el fin de la anterior hasta el día 5 ó 20 siguiente o hasta el inmediato hábil posterior, si el 5 ó 20 son inhábiles.
 
-A tales efectos, serán considerados días inhábiles los sábados. Cualquiera que sea el número de días inhábiles el ingreso en la cuenta del Tesoro 
+A tales efectos, serán considerados días inhábiles los sábados. Cualquiera que sea el número de días inhábiles el ingreso en la cuenta del Tesoro
 
 deberá producirse en el mismo mes en que finaliza la quincena correspondiente.
 
 2. En los plazos, forma y soporte que establezca el Ministro de Economía y Hacienda, las referidas entidades entregarán al órgano de recaudación competente la información necesaria para la gestión y seguimiento de los ingresos.
 3. Las entidades de crédito que presten el servicio de caja a otros órganos de la Administración del Estado, comunidades autónomas o entidades locales se regirán, en esta materia, por las disposiciones específicas aplicables dictadas por dichos órganos y, en ausencia de estas, por lo dispuesto en este artículo.
 
-### Artículo 29. _Ingresos de las entidades colaboradoras._
+### Artículo 29. *Ingresos de las entidades colaboradoras.*
 
 1. Las entidades colaboradoras centralizarán la operación de ingreso en el Tesoro de las cantidades recaudadas durante cada quincena y el envío al órgano de recaudación competente de la información a que se refiere el apartado 2. Cada quincena comprenderá desde el fin de la anterior hasta el día 5 ó 20 siguiente o hasta el inmediato hábil posterior, si el 5 ó el 20 son inhábiles.
 
@@ -976,11 +977,11 @@ En el supuesto en que el sistema automatizado transeuropeo de transferencia urge
 3. En los plazos, forma y soporte que establezca el Ministro de Economía y Hacienda, las referidas entidades entregarán al órgano de recaudación competente la información necesaria para la gestión y seguimiento de los ingresos.
 4. Las entidades colaboradoras de los órganos del Estado, comunidades autónomas o entidades locales se regirán, en esta materia, por las disposiciones específicas aplicables dictadas por dichos órganos y, en ausencia de estas, por lo dispuesto en este artículo.
 
-### Artículo 30. _Ingresos de las aduanas._
+### Artículo 30. *Ingresos de las aduanas.*
 
 El Ministro de Economía y Hacienda determinará el lugar, plazo, forma y demás condiciones en las que se realizará el ingreso en el Tesoro de los saldos de las cuentas a que se refiere el artículo 20, correspondientes a aquellas aduanas en las que el órgano competente hubiera autorizado la existencia de caja.
 
-### Artículo 31. _Otros ingresos en las cuentas del Tesoro en el Banco de España._
+### Artículo 31. *Otros ingresos en las cuentas del Tesoro en el Banco de España.*
 
 1. Las cantidades recaudadas a través de cuentas restringidas para la recaudación, sean de tasas, sean de cualquier otro ingreso de la Administración General del Estado y de sus organismos autónomos y cualesquiera otras cantidades recaudadas por personas o entidades por cuenta de la Hacienda pública no comprendidas en los artículos anteriores de esta sección, deberán transferirse a las cuentas oficiales en el Banco de España a nombre del Tesoro público o de los organismos autónomos correspondientes, en las fechas establecidas en sus normas reguladoras.
 2. En defecto de dichas normas, los saldos existentes los días 5 y 20 de cada mes en las cuentas restringidas de recaudación se ingresarán los días 15 y último de cada mes, respectivamente.
@@ -997,15 +998,15 @@ Cuando el último día del mes coincida con día inhábil o no preste servicio e
 
 **Extinción de la deuda**
 
-### Artículo 32. _Formas de extinción de la deuda._
+### Artículo 32. *Formas de extinción de la deuda.*
 
 Las deudas podrán extinguirse por pago, prescripción, compensación, deducción sobre transferencias, condonación, por los medios previstos en la normativa aduanera y por los demás medios previstos en las leyes.
 
-## _Sección 1.ª Pago_
+## *Sección 1.ª Pago*
 
 ## Subsección 1.ª Normas generales
 
-### Artículo 33. _Legitimación, lugar de pago y forma de pago._
+### Artículo 33. *Legitimación, lugar de pago y forma de pago.*
 
 1. Puede efectuar el pago, en periodo voluntario o periodo ejecutivo, cualquier persona, tenga o no interés en el cumplimiento de la obligación, ya lo conozca y lo apruebe, ya lo ignore el obligado al pago.
 
@@ -1015,7 +1016,7 @@ El tercero que pague la deuda no estará legitimado para ejercitar ante la Admin
 3. Los pagos realizados a órganos no competentes para recibirlos o a personas no autorizadas para ello no liberarán al deudor de su obligación de pago, sin perjuicio de las responsabilidades de todo orden en que incurra el perceptor que admita indebidamente el pago.
 4. El pago de las deudas podrá realizarse en efectivo, mediante efectos timbrados y en especie.
 
-### Artículo 34. _Medios y momento del pago en efectivo._
+### Artículo 34. *Medios y momento del pago en efectivo.*
 
 1. El pago de las deudas y sanciones tributarias que deba realizarse en efectivo se podrá hacer siempre en dinero de curso legal.
 
@@ -1046,7 +1047,7 @@ Será admisible el pago por los medios a los que se refieren los párrafos b), c
 4. Cuando el pago se realice a través de entidades de crédito u otras personas autorizadas, la entrega al deudor del justificante de ingreso liberará a este desde la fecha que se consigne en el justificante y por el importe que figure en él, quedando obligada la entidad de crédito o persona autorizada frente a la Hacienda pública desde ese momento y por dicho importe, salvo que pudiera probarse fehacientemente la inexactitud de la fecha o del importe que conste en la validación del justificante.
 5. Las órdenes de pago dadas por el deudor a las entidades de crédito u otras personas autorizadas para recibir el pago no surtirán por sí solas efectos frente a la Hacienda pública, sin perjuicio de las acciones que correspondan al ordenante frente a la entidad o persona responsable del incumplimiento.
 
-### Artículo 35. _Pago mediante cheque._
+### Artículo 35. *Pago mediante cheque.*
 
 1. Los pagos que se realicen en las entidades de crédito que presten el servicio de caja podrán efectuarse mediante cheque que deberá reunir además de los requisitos exigidos por la legislación mercantil, los siguientes:
 
@@ -1076,20 +1077,20 @@ La entrega del cheque en la entidad que, en su caso, preste el servicio de caja,
 
 La entrega del cheque liberará al obligado al pago por el importe satisfecho, cuando sea hecho efectivo. En tal caso, surtirá efectos desde la fecha en que haya tenido entrada en la caja correspondiente.
 
-### Artículo 36. _Pago mediante tarjeta de crédito y débito._
+### Artículo 36. *Pago mediante tarjeta de crédito y débito.*
 
 1. Será admisible el pago mediante tarjetas de crédito y débito ante las entidades de crédito que, en su caso, presten el servicio de caja, siempre que la tarjeta a utilizar se encuentre incluida entre las que, a tal fin, sean admitidas en cada momento por dichas entidades.
 2. El límite de los pagos a realizar vendrá determinado por el asignado por la entidad emisora individualmente a cada tarjeta y que, en ningún caso, podrá superar la cantidad que se establezca en la orden del Ministro de Economía y Hacienda correspondiente por cada documento de ingreso, no pudiendo simultanearse, para un mismo documento de ingreso, con cualquier otro de los medios de pago admitidos.
 3. Los importes ingresados por los obligados al pago a través de tarjetas de crédito y débito no podrán ser minorados como consecuencia de descuentos en la utilización de tales tarjetas o por cualquier otro motivo.
 4. La Administración establecerá, en su caso, las condiciones para utilizar este medio de pago por vía telemática.
 
-### Artículo 37. _Pago mediante transferencia bancaria._
+### Artículo 37. *Pago mediante transferencia bancaria.*
 
 Se considerará efectuado el pago en la fecha en que haya tenido entrada el importe correspondiente en la entidad que, en su caso, preste el servicio de caja, quedando liberado desde ese momento el obligado al pago frente a la Hacienda pública por la cantidad ingresada.
 
 La Administración establecerá, en su caso, las condiciones para utilizar este medio de pago por vía telemática.
 
-### Artículo 38. _Pago mediante domiciliación bancaria._
+### Artículo 38. *Pago mediante domiciliación bancaria.*
 
 1. La domiciliación bancaria deberá ajustarse a los siguientes requisitos:
 
@@ -1105,7 +1106,7 @@ En los términos y condiciones en que cada Administración lo establezca, el pag
 4. La Administración establecerá, en su caso, las condiciones para utilizar este medio de pago por vía telemática.
 5. En los términos y condiciones en que cada Administración lo establezca, cuando el pago se realice a través de terceros autorizados de acuerdo con lo que establece el artículo 92 de la Ley 58/2003, de 17 de diciembre, General Tributaria, estos deberán estar expresamente autorizados por la Administración para efectuar la domiciliación del pago en cuentas de su titularidad.
 
-### Artículo 39. _Pago mediante efectos timbrados._
+### Artículo 39. *Pago mediante efectos timbrados.*
 
 1. Tienen la condición de efectos timbrados:
 
@@ -1136,7 +1137,7 @@ En los términos y condiciones en que cada Administración lo establezca, el pag
 
 Igualmente podrá obtenerse el canje del papel timbrado común, papel timbrado de pagos al Estado y documentos timbrados especiales por errores en su redacción o por cualquier otra causa que los inutilice para su uso, siempre que no contengan firmas, rúbricas u otros indicios de haber surtido efecto.
 
-### Artículo 40. _Pago en especie._
+### Artículo 40. *Pago en especie.*
 
 1. El obligado al pago que pretenda utilizar el pago en especie como medio para satisfacer deudas a la Administración deberá solicitarlo al órgano de recaudación que tenga atribuida la competencia en la correspondiente norma de organización específica. La solicitud contendrá necesariamente los siguientes datos:
 
@@ -1158,27 +1159,32 @@ Si la deuda tributaria a que se refiere la solicitud de pago en especie ha sido 
 
 La solicitud de pago en especie presentada en periodo voluntario junto con los documentos a los que se refieren los párrafos anteriores impedirá el inicio del periodo ejecutivo, salvo que concurra la circunstancia a la que se refiere el párrafo segundo del artículo 161.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, pero no el devengo del interés de demora que corresponda.
 
-La solicitud en periodo ejecutivo podrá presentarse hasta el momento en que se notifique al obligado el acuerdo de enajenación de los bienes embargados o sobre los que se hubiese constituido garantía de cualquier naturaleza y no tendrá efectos suspensivos. No obstante, el órgano de recaudación podrá suspender motivadamente las actuaciones de enajenación de 
+La solicitud en periodo ejecutivo podrá presentarse hasta el momento en que se notifique al obligado el acuerdo de enajenación de los bienes embargados o sobre los que se hubiese constituido garantía de cualquier naturaleza y no tendrá efectos suspensivos. No obstante, el órgano de recaudación podrá suspender motivadamente las actuaciones de enajenación de
 
 los citados bienes hasta que sea dictado el acuerdo que ponga fin al procedimiento de pago en especie por el órgano competente.
 
-    2. Procederá la inadmisión de la solicitud en los siguientes casos:
+&#x20;   2. Procederá la inadmisión de la solicitud en los siguientes casos:
+
 
 <div></div>
 
-    1. Cuando a la misma no se acompañe la documentación acreditativa de la inscripción de los bienes en el Registro General de Bienes de Interés Cultural o de su inclusión en el Inventario General y se considere que el bien ofrecido, por su propia naturaleza, no comporta las características más básicas para poder formar parte del Patrimonio Histórico Español, calificándose la solicitud en estos casos como manifiestamente carente de fundamento.
+&#x20;   1. Cuando a la misma no se acompañe la documentación acreditativa de la inscripción de los bienes en el Registro General de Bienes de Interés Cultural o de su inclusión en el Inventario General y se considere que el bien ofrecido, por su propia naturaleza, no comporta las características más básicas para poder formar parte del Patrimonio Histórico Español, calificándose la solicitud en estos casos como manifiestamente carente de fundamento.
+
 
 <div></div>
 
-    1. Cuando la deuda deba ser declarada mediante autoliquidación y esta última no haya sido objeto de presentación con anterioridad o conjuntamente con la solicitud de pago en especie.
+&#x20;   1. Cuando la deuda deba ser declarada mediante autoliquidación y esta última no haya sido objeto de presentación con anterioridad o conjuntamente con la solicitud de pago en especie.
+
 
 <div></div>
 
-    1. Cuando la autoliquidación haya sido presentada habiéndose iniciado con anterioridad un procedimiento de inspección que hubiera quedado suspendido de acuerdo con lo previsto en el artículo 150.3.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, siempre que la solicitud de pago en especie se refiera a conceptos y periodos respecto de los que se haya remitido conocimiento a la jurisdicción competente o al Ministerio Fiscal.
+&#x20;   1. Cuando la autoliquidación haya sido presentada habiéndose iniciado con anterioridad un procedimiento de inspección que hubiera quedado suspendido de acuerdo con lo previsto en el artículo 150.3.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, siempre que la solicitud de pago en especie se refiera a conceptos y periodos respecto de los que se haya remitido conocimiento a la jurisdicción competente o al Ministerio Fiscal.
+
 
 En aquellos supuestos en los que la concurrencia de las circunstancias previstas en este párrafo c) se ponga de manifiesto una vez iniciada la tramitación de la solicitud de pago en especie, esta última quedará sin efecto de forma automática, debiendo comunicarse al Ministerio Fiscal o al órgano jurisdiccional la presentación de dicha solicitud.
 
-    1. La presentación de solicitudes de pago en especie reiterativas de otras anteriores que hayan sido objeto de denegación previa implicará su inadmisión cuando no contengan modificación sustancial respecto de la solicitud previamente denegada y, en particular, cuando dicha reiteración tenga por finalidad dilatar, dificultar o impedir el desarrollo de la gestión recaudatoria.
+&#x20;   1. La presentación de solicitudes de pago en especie reiterativas de otras anteriores que hayan sido objeto de denegación previa implicará su inadmisión cuando no contengan modificación sustancial respecto de la solicitud previamente denegada y, en particular, cuando dicha reiteración tenga por finalidad dilatar, dificultar o impedir el desarrollo de la gestión recaudatoria.
+
 
 Se considerará, en todo caso, realizada la solicitud con la finalidad de dilatar, dificultar o impedir el desarrollo de la gestión recaudatoria cuando se ofrezcan los mismos bienes que hayan sido ofrecidos en solicitudes anteriores.
 
@@ -1186,7 +1192,8 @@ La inadmisión deberá ser motivada y determinará que la solicitud se tenga por
 
 En el ámbito de competencias del Estado, la resolución de inadmisión deberá adoptarse por el Director del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria.
 
-    3. Cuando la solicitud no reúna los requisitos o no se acompañen los documentos que se señalan en el apartado 1 de este artículo, el órgano competente para la tramitación requerirá al solicitante para que en el plazo de 10 días contados a partir del día siguiente al de la notificación del requerimiento subsane el defecto o aporte los documentos, con indicación de que, si así no lo hiciera, se tendrá por no presentada la solicitud y se archivará sin más trámite.
+&#x20;   3. Cuando la solicitud no reúna los requisitos o no se acompañen los documentos que se señalan en el apartado 1 de este artículo, el órgano competente para la tramitación requerirá al solicitante para que en el plazo de 10 días contados a partir del día siguiente al de la notificación del requerimiento subsane el defecto o aporte los documentos, con indicación de que, si así no lo hiciera, se tendrá por no presentada la solicitud y se archivará sin más trámite.
+
 
 No procederá la subsanación si no se acompaña a la solicitud la autoliquidación que no obre en poder de la Administración. En este caso, procederá la inadmisión conforme a lo previsto en el apartado anterior.
 
@@ -1194,9 +1201,10 @@ Si la solicitud de pago en especie se hubiese presentado en periodo voluntario d
 
 Cuando el requerimiento de subsanación haya sido objeto de contestación en plazo por el interesado pero no se hayan subsanado los defectos observados, procederá la denegación de la solicitud de pago en especie.
 
-    4. La resolución deberá notificarse en el plazo de seis meses. Transcurrido el plazo sin que se haya notificado la resolución, los interesados podrán considerar desestimada la solicitud a efectos de interponer frente a la denegación presunta el correspondiente recurso 
+&#x20;   4. La resolución deberá notificarse en el plazo de seis meses. Transcurrido el plazo sin que se haya notificado la resolución, los interesados podrán considerar desestimada la solicitud a efectos de interponer frente a la denegación presunta el correspondiente recurso 
 
-1. esperar la resolución expresa. El órgano competente acordará de forma motivada la aceptación o no de los bienes en 
+
+1. esperar la resolución expresa. El órgano competente acordará de forma motivada la aceptación o no de los bienes en
 
 pago de la deuda.
 
@@ -1235,68 +1243,82 @@ Se procederá a la liquidación los intereses de demora devengados a partir del 
 
 9. En lo no previsto en este artículo, los efectos de esta forma de pago serán los establecidos en la legislación civil para la dación en pago.
 
-### Artículo 41. _Justificantes y certificaciones del pago._
+### Artículo 41. *Justificantes y certificaciones del pago.*
 
-    1. Quien realice el pago de una deuda conforme a lo dispuesto en este reglamento tendrá derecho a que se le entregue un justificante del pago.
+&#x20;   1. Quien realice el pago de una deuda conforme a lo dispuesto en este reglamento tendrá derecho a que se le entregue un justificante del pago.
     2. Los justificantes del pago en efectivo serán, según los casos:
 
-<div></div>
-
-    1. Los recibos.
 
 <div></div>
 
-    1. Las cartas de pago suscritas o validadas por órganos competentes o por entidades autorizadas para recibir el pago.
+&#x20;   1. Los recibos.
+
 
 <div></div>
 
-    1. Las certificaciones acreditativas del ingreso efectuado.
+&#x20;   1. Las cartas de pago suscritas o validadas por órganos competentes o por entidades autorizadas para recibir el pago.
+
 
 <div></div>
 
-    1. Cualquier otro documento al que se otorgue expresamente el carácter de justificante de pago por el Ministerio de Economía y Hacienda y, en particular, los determinados por la normativa reguladora de los ingresos por vía telemática.
+&#x20;   1. Las certificaciones acreditativas del ingreso efectuado.
+
 
 <div></div>
 
-    3. Los justificantes de pago en efectivo deberán indicar, al menos, las siguientes circunstancias:
+&#x20;   1. Cualquier otro documento al que se otorgue expresamente el carácter de justificante de pago por el Ministerio de Economía y Hacienda y, en particular, los determinados por la normativa reguladora de los ingresos por vía telemática.
+
 
 <div></div>
 
-    1. Nombre y apellidos o razón social o denominación completa, número de identificación fiscal y domicilio del deudor.
+&#x20;   3. Los justificantes de pago en efectivo deberán indicar, al menos, las siguientes circunstancias:
+
 
 <div></div>
 
-    1. Concepto, importe de la deuda y periodo a que se refiere.
+&#x20;   1. Nombre y apellidos o razón social o denominación completa, número de identificación fiscal y domicilio del deudor.
+
 
 <div></div>
 
-    1. Fecha de pago.
+&#x20;   1. Concepto, importe de la deuda y periodo a que se refiere.
+
 
 <div></div>
 
-    1. Órgano, persona o entidad que lo expide.
+&#x20;   1. Fecha de pago.
+
 
 <div></div>
 
-    4. Cuando los justificantes de pago se extiendan por medios mecánicos, las circunstancias del apartado anterior podrán expresarse en clave o abreviatura suficientemente identificadoras, en su conjunto, del deudor y de la deuda satisfecha a que se refieran.
+&#x20;   1. Órgano, persona o entidad que lo expide.
+
+
+<div></div>
+
+&#x20;   4. Cuando los justificantes de pago se extiendan por medios mecánicos, las circunstancias del apartado anterior podrán expresarse en clave o abreviatura suficientemente identificadoras, en su conjunto, del deudor y de la deuda satisfecha a que se refieran.
     5. Cuando se empleen efectos timbrados, los justificantes de pago serán los propios efectos debidamente inutilizados.
     6. Cuando se efectúe el pago en especie, se considerará justificante de pago la certificación emitida por el órgano competente en la que conste haberse realizado la entrega 
 
+
 1. puesta a disposición de los bienes.
 
-    7. El deudor podrá solicitar de la Administración certificación acreditativa del pago efectuado quedando esta obligada a expedirla.
+   7. El deudor podrá solicitar de la Administración certificación acreditativa del pago efectuado quedando esta obligada a expedirla.
 
-### Artículo 42. _Actuaciones a realizar en el supuesto de tributos incompatibles._
+### Artículo 42. *Actuaciones a realizar en el supuesto de tributos incompatibles.*
 
-    1. En los supuestos previstos en el artículo 62.8 de la Ley 58/2003, de 17 de diciembre, General Tributaria, una vez determinado por el órgano competente qué tributo es el procedente, se actuará como se indica a continuación:
+&#x20;   1. En los supuestos previstos en el artículo 62.8 de la Ley 58/2003, de 17 de diciembre, General Tributaria, una vez determinado por el órgano competente qué tributo es el procedente, se actuará como se indica a continuación:
 
-<div></div>
-
-    1. Si el tributo procedente fuese el liquidado en primer lugar, se anulará la segunda liquidación efectuada, procediendo la devolución de las cantidades que, en su caso, se hubiesen ingresado respecto de esta última.
 
 <div></div>
 
-    1. Si el tributo procedente fuese el liquidado en segundo lugar, se procederá según los casos:
+&#x20;   1. Si el tributo procedente fuese el liquidado en primer lugar, se anulará la segunda liquidación efectuada, procediendo la devolución de las cantidades que, en su caso, se hubiesen ingresado respecto de esta última.
+
+
+<div></div>
+
+&#x20;   1. Si el tributo procedente fuese el liquidado en segundo lugar, se procederá según los casos:
+
 
 1.º Cuando la liquidación practicada en segundo lugar sea firme por no haber sido recurrida en plazo, procederá la extinción de la deuda en la parte concurrente con la devolución de ingresos que se reconozca en relación con la liquidación efectuada en primer lugar que resulta improcedente, una vez que dicho acuerdo de devolución sea firme. En este caso, la Administración competente en relación con el tributo procedente declarará dicha extinción en los términos del apartado 2.
 
@@ -1317,7 +1339,7 @@ En el caso de que la resolución administrativa o judicial declare procedente la
 2. La Administración que hubiera liquidado el tributo improcedente deberá transferir a la Administración que hubiera liquidado el tributo procedente la cuantía necesaria para declarar la extinción de la deuda derivada de la liquidación procedente. Una vez recibida la transferencia, se procederá a declarar la extinción de la deuda.
 3. La extinción regulada en el apartado anterior no impedirá la regularización de la situación tributaria del obligado que repercutió el tributo que, en su caso, corresponda.
 
-### Artículo 43. _Consignación._
+### Artículo 43. *Consignación.*
 
 1. Los obligados al pago podrán consignar en efectivo el importe de la cantidad debida y de las costas en la Caja General de Depósitos u órgano equivalente de las restantes Administraciones públicas o en alguna de sus sucursales, en los siguientes casos:
 
@@ -1334,70 +1356,84 @@ En el caso del apartado 1.b), tendrá los efectos liberatorios del pago desde la
 
 ## Subsección 2.ª Aplazamiento y fraccionamiento
 
-### Artículo 44. _Aplazamiento y fraccionamiento del pago._
+### Artículo 44. *Aplazamiento y fraccionamiento del pago.*
 
 1. La Administración podrá a solicitud del obligado aplazar o fraccionar el pago de las deudas en los términos previstos en los artículos 65 y 82 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 2. Serán aplazables o fraccionables todas las deudas tributarias y demás de naturaleza pública cuya titularidad corresponda a la Hacienda pública, salvo las excepciones previstas en las leyes.
 3. Las solicitudes de aplazamiento o fraccionamiento de pago de la deuda aduanera serán tramitadas y resueltas de acuerdo con lo establecido en su normativa específica. Para aquellas solicitudes cuya tramitación, de conformidad con la normativa de organización específica, corresponda a los órganos de recaudación, este reglamento será aplicable de forma supletoria.
 
-### Artículo 45. _Competencia en materia de aplazamientos y fraccionamientos._
+### Artículo 45. *Competencia en materia de aplazamientos y fraccionamientos.*
 
-    1. Las solicitudes de aplazamiento o fraccionamiento de las deudas cuya recaudación se lleve a cabo por la Agencia Estatal de Administración Tributaria serán tramitadas y resueltas por esta.
+&#x20;   1. Las solicitudes de aplazamiento o fraccionamiento de las deudas cuya recaudación se lleve a cabo por la Agencia Estatal de Administración Tributaria serán tramitadas y resueltas por esta.
     2. Las solicitudes de aplazamiento o fraccionamiento formuladas en el periodo voluntario de pago de las deudas y sanciones del sistema tributario estatal o aduanero cuya gestión en dicho periodo esté encomendada a un órgano de la Administración General del Estado u organismo autónomo, serán tramitadas y resueltas por la Agencia Estatal de Administración Tributaria, salvo que, de forma expresa y específica, las normas reguladoras de esos recursos reserven a los citados órganos la gestión del aplazamiento o fraccionamiento en periodo voluntario.
     3. Las solicitudes de aplazamiento o fraccionamiento de los demás recursos de naturaleza pública serán tramitadas y resueltas por la Dirección General del Tesoro y Política Financiera o por las Delegaciones de Economía y Hacienda, salvo que la gestión de dichos recursos esté atribuida a otros órganos de la Administración General del Estado, organismos autónomos u otra entidad de derecho público; en tal caso, serán tramitadas y resueltas por estos órganos o entidades.
 
-### Artículo 46. _Solicitudes de aplazamiento y fraccionamiento._
 
-    1. Las solicitudes de aplazamiento o fraccionamiento se dirigirán al órgano competente para su tramitación dentro de los plazos siguientes:
+### Artículo 46. *Solicitudes de aplazamiento y fraccionamiento.*
 
-<div></div>
+&#x20;   1. Las solicitudes de aplazamiento o fraccionamiento se dirigirán al órgano competente para su tramitación dentro de los plazos siguientes:
 
-    1. Deudas que se encuentren en periodo voluntario de ingreso o de presentación de las correspondientes autoliquidaciones: dentro del plazo fijado para el ingreso en el artículo 62.1, 2 y 3 de la Ley 58/2003, de 17 de diciembre, General Tributaria, o en la normativa específica. A estos efectos, en el caso de deudas resultantes de autoliquidaciones presentadas fuera de plazo, sólo se entenderá que la solicitud se presenta en periodo voluntario cuando la solicitud de aplazamiento o fraccionamiento se presente junto con la autoliquidación extemporánea.
 
 <div></div>
 
-    1. Deudas que se encuentren en periodo ejecutivo: en cualquier momento anterior a la notificación del acuerdo de enajenación de los bienes.
+&#x20;   1. Deudas que se encuentren en periodo voluntario de ingreso o de presentación de las correspondientes autoliquidaciones: dentro del plazo fijado para el ingreso en el artículo 62.1, 2 y 3 de la Ley 58/2003, de 17 de diciembre, General Tributaria, o en la normativa específica. A estos efectos, en el caso de deudas resultantes de autoliquidaciones presentadas fuera de plazo, sólo se entenderá que la solicitud se presenta en periodo voluntario cuando la solicitud de aplazamiento o fraccionamiento se presente junto con la autoliquidación extemporánea.
+
+
+<div></div>
+
+&#x20;   1. Deudas que se encuentren en periodo ejecutivo: en cualquier momento anterior a la notificación del acuerdo de enajenación de los bienes.
     2. La solicitud de aplazamiento o fraccionamiento contendrá necesariamente los siguientes datos:
 
-<div></div>
-
-    1. Nombre y apellidos o razón social o denominación completa, número de identificación fiscal y domicilio fiscal del obligado al pago y, en su caso, de la persona que lo represente.
 
 <div></div>
 
-    1. Identificación de la deuda cuyo aplazamiento o fraccionamiento se solicita, indicando al menos su importe, concepto y fecha de finalización del plazo de ingreso en periodo voluntario.
+&#x20;   1. Nombre y apellidos o razón social o denominación completa, número de identificación fiscal y domicilio fiscal del obligado al pago y, en su caso, de la persona que lo represente.
+
 
 <div></div>
 
-    1. Causas que motivan la solicitud de aplazamiento o fraccionamiento.
+&#x20;   1. Identificación de la deuda cuyo aplazamiento o fraccionamiento se solicita, indicando al menos su importe, concepto y fecha de finalización del plazo de ingreso en periodo voluntario.
+
 
 <div></div>
 
-    1. Plazos y demás condiciones del aplazamiento o fraccionamiento que se solicita.
+&#x20;   1. Causas que motivan la solicitud de aplazamiento o fraccionamiento.
+
 
 <div></div>
 
-    1. Garantía que se ofrece, conforme a lo dispuesto en el artículo 82 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+&#x20;   1. Plazos y demás condiciones del aplazamiento o fraccionamiento que se solicita.
+
 
 <div></div>
 
-    1. Orden de domiciliación bancaria, indicando el número de código cuenta cliente y los datos identificativos de la entidad de crédito que deba efectuar el cargo en cuenta, cuando la Administración competente para resolver haya establecido esta forma de pago como obligatoria en estos supuestos.
+&#x20;   1. Garantía que se ofrece, conforme a lo dispuesto en el artículo 82 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
 
 <div></div>
 
-    1. Lugar, fecha y firma del solicitante.
+&#x20;   1. Orden de domiciliación bancaria, indicando el número de código cuenta cliente y los datos identificativos de la entidad de crédito que deba efectuar el cargo en cuenta, cuando la Administración competente para resolver haya establecido esta forma de pago como obligatoria en estos supuestos.
+
 
 <div></div>
 
-    1. Indicación de que la deuda respecto de la que se solicita el aplazamiento o fraccionamiento no tiene el carácter de crédito contra la masa en el supuesto que el solicitante se encuentre en proceso concursal.
+&#x20;   1. Lugar, fecha y firma del solicitante.
+
 
 <div></div>
 
-    3. A la solicitud de aplazamiento o fraccionamiento se deberá acompañar:
+&#x20;   1. Indicación de que la deuda respecto de la que se solicita el aplazamiento o fraccionamiento no tiene el carácter de crédito contra la masa en el supuesto que el solicitante se encuentre en proceso concursal.
+
 
 <div></div>
 
-    1. Compromiso de aval solidario de entidad de crédito o sociedad de garantía recíproca 
+&#x20;   3. A la solicitud de aplazamiento o fraccionamiento se deberá acompañar:
+
+
+<div></div>
+
+&#x20;   1. Compromiso de aval solidario de entidad de crédito o sociedad de garantía recíproca 
+
 
 1. de certificado de seguro de caución, o la documentación que se detalla en los apartados 4 y 5, según el tipo de garantía que se ofrezca.
 
@@ -1467,42 +1503,48 @@ Si la solicitud de aplazamiento o fraccionamiento se hubiese presentado en perio
 
 Cuando el requerimiento de subsanación haya sido objeto de contestación en plazo por el interesado pero no se entiendan subsanados los defectos observados, procederá la denegación de la solicitud de aplazamiento o fraccionamiento.
 
-Podrá acordarse la denegación cuando la garantía aportada por el solicitante hubiese sido rechazada anteriormente por la Administración tributaria por falta de suficiencia jurídica 
+Podrá acordarse la denegación cuando la garantía aportada por el solicitante hubiese sido rechazada anteriormente por la Administración tributaria por falta de suficiencia jurídica
 
 1. económica o por falta de idoneidad.
 
-    7. Cuando se considere oportuno a efectos de dictar resolución, se podrá requerir al solicitante la información y documentación que considere necesaria para resolver la solicitud de aplazamiento o fraccionamiento y, en particular, la referente a la titularidad, descripción, estado, cargas y utilización de los bienes ofrecidos en garantía.
-    8. **(Anulado)**
+   7. Cuando se considere oportuno a efectos de dictar resolución, se podrá requerir al solicitante la información y documentación que considere necesaria para resolver la solicitud de aplazamiento o fraccionamiento y, en particular, la referente a la titularidad, descripción, estado, cargas y utilización de los bienes ofrecidos en garantía.
+   8. **(Anulado)**
 
-### Artículo 47. _Inadmisión de solicitudes de aplazamiento y fraccionamiento._
+### Artículo 47. *Inadmisión de solicitudes de aplazamiento y fraccionamiento.*
 
-    1. Serán inadmitidas las solicitudes de aplazamiento y fraccionamiento en los siguientes casos:
+&#x20;   1. Serán inadmitidas las solicitudes de aplazamiento y fraccionamiento en los siguientes casos:
 
-<div></div>
-
-    1. Cuando la deuda deba ser declarada mediante autoliquidación y esta última no haya sido objeto de presentación con anterioridad o conjuntamente con la solicitud de aplazamiento o fraccionamiento.
 
 <div></div>
 
-    1. Cuando la autoliquidación haya sido presentada habiéndose iniciado con anterioridad un procedimiento de inspección que hubiera quedado suspendido de acuerdo con lo previsto en el artículo 150.3.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, siempre que la solicitud de aplazamiento o fraccionamiento se refiera a conceptos y periodos afectados por la causa de suspensión respecto de los que se haya remitido conocimiento a la jurisdicción competente o al Ministerio Fiscal.
+&#x20;   1. Cuando la deuda deba ser declarada mediante autoliquidación y esta última no haya sido objeto de presentación con anterioridad o conjuntamente con la solicitud de aplazamiento o fraccionamiento.
+
+
+<div></div>
+
+&#x20;   1. Cuando la autoliquidación haya sido presentada habiéndose iniciado con anterioridad un procedimiento de inspección que hubiera quedado suspendido de acuerdo con lo previsto en el artículo 150.3.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, siempre que la solicitud de aplazamiento o fraccionamiento se refiera a conceptos y periodos afectados por la causa de suspensión respecto de los que se haya remitido conocimiento a la jurisdicción competente o al Ministerio Fiscal.
     2. La presentación de solicitudes de aplazamiento o fraccionamiento reiterativas de otras anteriores que hayan sido objeto de denegación previa implicará su inadmisión cuando no contengan modificación sustancial respecto de la solicitud previamente denegada y, en particular, cuando dicha reiteración tenga por finalidad dilatar, dificultar o impedir el desarrollo de la gestión recaudatoria.
     3. La inadmisión implicará que la solicitud de aplazamiento o fraccionamiento se tenga por no presentada a todos los efectos.
     4. Contra el acuerdo de inadmisión cabrá la interposición de recurso o reclamación económica-administrativa.
 
-### Artículo 48. _Garantías en aplazamientos y fraccionamientos._
 
-    1. Cuando el solicitante sea una Administración pública no se exigirá garantía.
+### Artículo 48. *Garantías en aplazamientos y fraccionamientos.*
+
+&#x20;   1. Cuando el solicitante sea una Administración pública no se exigirá garantía.
     2. La garantía cubrirá el importe de la deuda en periodo voluntario, de los intereses de demora que genere el aplazamiento y un 25 por ciento de la suma de ambas partidas.
+
 
 Cuando la deuda se encuentre en periodo ejecutivo, la garantía deberá cubrir el importe aplazado, incluyendo el recargo del periodo ejecutivo correspondiente, los intereses de demora que genere el aplazamiento, más un 5 por ciento de la suma de ambas partidas.
 
-    3. En caso de solicitud de fraccionamiento, podrá constituirse una única garantía para la totalidad de las fracciones que puedan acordarse o bien garantías parciales e independientes para una o varias fracciones.
+&#x20;   3. En caso de solicitud de fraccionamiento, podrá constituirse una única garantía para la totalidad de las fracciones que puedan acordarse o bien garantías parciales e independientes para una o varias fracciones.
+
 
 En todo caso, la garantía deberá cubrir el importe de las fracciones a que se refiera, incluyendo, para las deudas que se encuentren en periodo voluntario, el importe que por principal e intereses de demora se incorpore a las fracciones más el 25 por ciento de la suma de ambas partidas; y para las deudas que se encuentren en periodo ejecutivo, el importe fraccionado, incluyendo el recargo del periodo ejecutivo correspondiente, los intereses de demora que genere el fraccionamiento, más un 5 por ciento de la suma de ambas partidas.
 
-    4. La suficiencia económica y jurídica de las garantías será apreciada por el órgano competente para la tramitación del aplazamiento o fraccionamiento.
+&#x20;   4. La suficiencia económica y jurídica de las garantías será apreciada por el órgano competente para la tramitación del aplazamiento o fraccionamiento.
 
-Cuando dicha apreciación presente especial complejidad, se podrá solicitar informe de otros servicios técnicos de la Administración o contratar servicios externos. Asimismo, el órgano competente para tramitar el aplazamiento o fraccionamiento podrá solicitar informe al 
+
+Cuando dicha apreciación presente especial complejidad, se podrá solicitar informe de otros servicios técnicos de la Administración o contratar servicios externos. Asimismo, el órgano competente para tramitar el aplazamiento o fraccionamiento podrá solicitar informe al
 
 órgano con funciones de asesoramiento jurídico correspondiente sobre la suficiencia jurídica de la garantía ofrecida.
 
@@ -1538,7 +1580,7 @@ No obstante, la garantía anterior seguirá afecta al pago del importe de la deu
 
 Serán órganos competentes para proceder a la sustitución de la garantía los órganos que acordaron el aplazamiento o fraccionamiento.
 
-### Artículo 49. _Adopción de medidas cautelares en el ámbito de los aplazamientos y fraccionamientos._
+### Artículo 49. *Adopción de medidas cautelares en el ámbito de los aplazamientos y fraccionamientos.*
 
 1. Cuando la constitución de la garantía resulte excesivamente onerosa en relación con la cuantía y plazo de la deuda, el obligado al pago podrá solicitar que la Administración adopte medidas cautelares en sustitución de las garantías necesarias si tiene solicitadas devoluciones tributarias u otros pagos a su favor o cuando sea titular de bienes o derechos que sean susceptibles de embargo preventivo. Cuando dichos bienes o derechos sean susceptibles de inscripción en un registro público, la concesión estará supeditada a la inscripción previa en el correspondiente registro.
 
@@ -1552,7 +1594,7 @@ En caso de incumplimiento del aplazamiento o fraccionamiento resultará aplicabl
 
 2. Cuando se presente una solicitud de aplazamiento o fraccionamiento en periodo voluntario y concurran las circunstancias previstas en el artículo 81.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, podrán adoptarse las medidas cautelares reguladas en dicho precepto para asegurar el cobro de la deuda, sin perjuicio de la resolución que pueda recaer en relación con la solicitud realizada y en tanto esta se tramita.
 
-### Artículo 50. _Dispensa de garantías en aplazamientos y fraccionamientos._
+### Artículo 50. *Dispensa de garantías en aplazamientos y fraccionamientos.*
 
 1. Cuando se solicite un aplazamiento o fraccionamiento con dispensa total o parcial de garantías de acuerdo con lo dispuesto en el artículo 82.2.b) de la Ley 58/2003, de 17 de diciembre, General Tributaria, el órgano competente investigará la existencia de bienes o derechos susceptibles de ser aportados en garantía del aplazamiento o fraccionamiento solicitado.
 
@@ -1568,7 +1610,7 @@ El incumplimiento de la obligación de constituir garantía prevista en este apa
 
 3. En los supuestos de fraccionamientos, en los que se hubiera solicitado su concesión con dispensa parcial de garantías, de accederse a la solicitud, dicha garantía parcial quedará afecta a la totalidad de las fracciones incorporadas al acuerdo, y será de aplicación, en caso de incumplimiento de pago, lo dispuesto en el artículo 54.2.
 
-### Artículo 51. _Tramitación de solicitudes de aplazamientos y fraccionamientos._
+### Artículo 51. *Tramitación de solicitudes de aplazamientos y fraccionamientos.*
 
 1. El órgano competente para la tramitación examinará y evaluará la falta de liquidez y la capacidad para generar recursos y valorará la suficiencia e idoneidad de las garantías, o, en caso de solicitud de dispensa de garantía, verificará la concurrencia de las condiciones precisas para obtenerla.
 
@@ -1584,17 +1626,17 @@ De la oportunidad y conveniencia de la fijación de dicho calendario deberá que
 
 3. Si en cualquier momento durante la tramitación del aplazamiento o fraccionamiento el interesado efectúa el ingreso de la deuda, la Administración liquidará intereses de demora por el periodo transcurrido desde el día siguiente al del vencimiento del plazo de ingreso en periodo voluntario hasta la fecha del ingreso.
 
-En el supuesto de fijación de un calendario provisional por la Administración o de propuesta por el interesado de plazos o fracciones, cada uno de los pagos realizados en virtud de cualquiera de los dos calendarios se imputará a la cancelación del principal de la deuda a que se refiere la solicitud de aplazamiento o fraccionamiento. Si el aplazamiento o fraccionamiento resulta finalmente concedido, se liquidarán los intereses devengados sobre cada uno los pagos efectuados en virtud de dicho calendario o propuesta desde el día siguiente al del vencimiento del plazo de ingreso en periodo voluntario hasta la fecha del pago respectivo, notificándose dicha liquidación al interesado junto con el acuerdo de aplazamiento o fraccionamiento, otorgándose los plazos de ingreso señalados en el artículo 
+En el supuesto de fijación de un calendario provisional por la Administración o de propuesta por el interesado de plazos o fracciones, cada uno de los pagos realizados en virtud de cualquiera de los dos calendarios se imputará a la cancelación del principal de la deuda a que se refiere la solicitud de aplazamiento o fraccionamiento. Si el aplazamiento o fraccionamiento resulta finalmente concedido, se liquidarán los intereses devengados sobre cada uno los pagos efectuados en virtud de dicho calendario o propuesta desde el día siguiente al del vencimiento del plazo de ingreso en periodo voluntario hasta la fecha del pago respectivo, notificándose dicha liquidación al interesado junto con el acuerdo de aplazamiento o fraccionamiento, otorgándose los plazos de ingreso señalados en el artículo
 
 62.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-### Artículo 52. _Resolución de solicitudes de aplazamientos y fraccionamientos._
+### Artículo 52. *Resolución de solicitudes de aplazamientos y fraccionamientos.*
 
 1. Las resoluciones que concedan aplazamientos o fraccionamientos de pago especificarán el número de código cuenta cliente, en su caso, y los datos identificativos de la entidad de crédito que haya de efectuar el cargo en cuenta conforme al artículo 46.2.f), los plazos de pago y demás condiciones del acuerdo. La resolución podrá señalar plazos y condiciones distintos de los solicitados.
 
 En todo caso, el vencimiento de los plazos deberá coincidir con los días 5 ó 20 del mes. Cuando el acuerdo incluya varias deudas, se señalarán de forma independiente los plazos y cuantías que afecten a cada una.
 
-2. En la resolución podrán establecerse las condiciones que se estimen oportunas para asegurar el pago efectivo en el plazo más breve posible y para garantizar la preferencia de la 
+2. En la resolución podrán establecerse las condiciones que se estimen oportunas para asegurar el pago efectivo en el plazo más breve posible y para garantizar la preferencia de la
 
 deuda aplazada o fraccionada, así como el correcto cumplimiento de las obligaciones tributarias del solicitante.
 
@@ -1623,11 +1665,11 @@ De realizarse el ingreso en dicho plazo, procederá la liquidación de los inter
 <div></div>
 
 5. Contra la denegación de las solicitudes de aplazamiento o fraccionamiento sólo cabrá la presentación del correspondiente recurso de reposición o reclamación económico- administrativa en los términos y con los efectos establecidos en la normativa aplicable.
-6. La resolución deberá notificarse en el plazo de seis meses. Transcurrido dicho plazo sin que se haya notificado la resolución, se podrá entender 
+6. La resolución deberá notificarse en el plazo de seis meses. Transcurrido dicho plazo sin que se haya notificado la resolución, se podrá entender
 
 desestimada la solicitud a los efectos de interponer el recurso correspondiente o esperar la resolución expresa.
 
-### Artículo 53. _Cálculo de intereses en aplazamientos y fraccionamientos._
+### Artículo 53. *Cálculo de intereses en aplazamientos y fraccionamientos.*
 
 1. En caso de concesión del aplazamiento se calcularán intereses de demora sobre la deuda aplazada, por el tiempo comprendido entre el día siguiente al del vencimiento del plazo de ingreso en periodo voluntario y la fecha del vencimiento del plazo concedido. Si el aplazamiento ha sido solicitado en periodo ejecutivo, la base para el cálculo de intereses no incluirá el recargo del periodo ejecutivo. Los intereses devengados se deberán ingresar junto con la deuda aplazada.
 2. En caso de concesión del fraccionamiento, se calcularán intereses de demora por cada fracción de deuda.
@@ -1646,7 +1688,7 @@ Por cada fracción de deuda se computarán los intereses devengados desde el dí
 
 1. Si fue solicitado en periodo ejecutivo, se liquidarán intereses una vez realizado el pago, de conformidad con el artículo 72.
 
-### Artículo 54. _Actuaciones en caso de falta de pago en aplazamientos y fraccionamientos._
+### Artículo 54. *Actuaciones en caso de falta de pago en aplazamientos y fraccionamientos.*
 
 1. En los aplazamientos, si llegado el vencimiento del plazo concedido no se efectuara el pago, se producirán los siguientes efectos:
 
@@ -1671,7 +1713,7 @@ Por cada fracción de deuda se computarán los intereses devengados desde el dí
 
 2.º Para la totalidad de las deudas incluidas en el acuerdo de fraccionamiento que se encontrasen en periodo voluntario en el momento de presentarse la solicitud, se iniciará el periodo ejecutivo al día siguiente del vencimiento de la fracción incumplida, debiendo iniciarse el procedimiento de apremio. Se exigirán los intereses de demora devengados a partir del día siguiente al del vencimiento del plazo de ingreso en periodo voluntario hasta la fecha del vencimiento de pago de la fracción incumplida.
 
-1. Si la fracción incumplida incluyese deudas en periodo voluntario en el momento de presentarse la solicitud, se procederá respecto de dicha fracción incumplida a iniciar el procedimiento de apremio. Se exigirá el importe de dicha fracción, los intereses de demora devengados a partir del día siguiente al del vencimiento del plazo de ingreso en periodo 
+1. Si la fracción incumplida incluyese deudas en periodo voluntario en el momento de presentarse la solicitud, se procederá respecto de dicha fracción incumplida a iniciar el procedimiento de apremio. Se exigirá el importe de dicha fracción, los intereses de demora devengados a partir del día siguiente al del vencimiento del plazo de ingreso en periodo
 
 voluntario hasta la fecha del vencimiento del plazo concedido y el recargo del periodo ejecutivo sobre la suma de ambos conceptos.
 
@@ -1707,13 +1749,13 @@ La parte sobrante será puesta a disposición del garante o de quien corresponda
 
 5. En los supuestos de aplazamiento o de fraccionamiento con dispensa parcial de garantía o de insuficiencia sobrevenida de las garantías en su día formalizadas, no será necesario esperar a su ejecución para proseguir las actuaciones del procedimiento de apremio. En el caso de insuficiencia sobrevenida deberá quedar motivada en el expediente la continuación del procedimiento de apremio como consecuencia de aquella.
 
-## _Sección 2.ª Otras formas de extinción_
+## *Sección 2.ª Otras formas de extinción*
 
-### Artículo 55. _Deudas compensables._
+### Artículo 55. *Deudas compensables.*
 
 Las deudas de naturaleza pública a favor de la Hacienda pública, tanto en periodo voluntario como en ejecutivo, podrán extinguirse total o parcialmente por compensación con los créditos reconocidos por aquella a favor del deudor en virtud de un acto administrativo.
 
-### Artículo 56. _Compensación a instancia del obligado al pago._
+### Artículo 56. *Compensación a instancia del obligado al pago.*
 
 1. El obligado al pago que inste la compensación deberá dirigir al órgano competente para su tramitación la correspondiente solicitud, que contendrá los siguientes datos:
 
@@ -1770,16 +1812,16 @@ De realizarse el ingreso en dicho plazo, procederá la liquidación de los inter
 <div></div>
 
 6. La solicitud de compensación no impedirá la solicitud de aplazamientos o fraccionamientos de la deuda restante.
-7. La resolución deberá notificarse en el plazo de seis meses. Transcurrido dicho plazo sin que haya notificado la resolución, los interesados podrán 
+7. La resolución deberá notificarse en el plazo de seis meses. Transcurrido dicho plazo sin que haya notificado la resolución, los interesados podrán
 
 considerar desestimada la solicitud a los efectos de interponer el recurso correspondiente o esperar la resolución expresa.
 
-### Artículo 57. _Compensación de oficio de deudas de entidades públicas._
+### Artículo 57. *Compensación de oficio de deudas de entidades públicas.*
 
 1. Las deudas vencidas, líquidas y exigibles a favor de la Hacienda pública estatal que deba satisfacer un ente territorial, un organismo autónomo, la Seguridad Social o una entidad de derecho público serán compensables de oficio, una vez transcurrido el plazo de ingreso en periodo voluntario.
 2. La compensación se realizará con los créditos de naturaleza tributaria reconocidos a favor de las entidades citadas y con los demás créditos reconocidos en su favor por ejecución del presupuesto de gastos del Estado o de sus organismos autónomos y por devoluciones de ingresos presupuestarios.
 
-### Artículo 58. _Compensación de oficio de deudas de otros acreedores a la Hacienda pública._
+### Artículo 58. *Compensación de oficio de deudas de otros acreedores a la Hacienda pública.*
 
 1. Cuando un deudor a la Hacienda pública no comprendido en el artículo anterior sea, a su vez, acreedor de aquella por un crédito reconocido, una vez transcurrido el periodo voluntario, se compensará de oficio la deuda y los recargos del periodo ejecutivo que procedan con el crédito.
 2. No obstante, se compensarán de oficio durante el plazo de ingreso en periodo voluntario:
@@ -1796,7 +1838,7 @@ considerar desestimada la solicitud a los efectos de interponer el recurso corre
 
 1. Las cantidades a ingresar y a devolver relativas a obligaciones tributarias conexas que resulten de la ejecución de la resolución del recurso o reclamación económico-administrativa a la que se refieren los artículos 225.3 y 239.7 de la Ley 58/2003, de 17 de diciembre, General Tributaria, debiéndose producir el ingreso o la devolución del importe diferencial que proceda. En este supuesto, procederá igualmente la liquidación de los intereses de demora devengados según lo dispuesto en el artículo 26.5 de dicha Ley, intereses que serán objeto de compensación en el mismo acuerdo.
 
-### Artículo 59. _Efectos de la compensación._
+### Artículo 59. *Efectos de la compensación.*
 
 1. Adoptado el acuerdo de compensación, se declararán extinguidas las deudas y créditos en la cantidad concurrente. Dicho acuerdo será notificado al interesado y servirá como justificante de la extinción de la deuda.
 2. Si el crédito es inferior a la deuda, se procederá como sigue:
@@ -1813,7 +1855,7 @@ considerar desestimada la solicitud a los efectos de interponer el recurso corre
 
 3. En caso de que el crédito sea superior a la deuda, declarada la compensación, se abonará la diferencia al interesado.
 
-### Artículo 60. _Extinción de deudas de las entidades de derecho público mediante deducciones sobre transferencias._
+### Artículo 60. *Extinción de deudas de las entidades de derecho público mediante deducciones sobre transferencias.*
 
 1. Las deudas de naturaleza pública vencidas, líquidas y exigibles que los entes territoriales, organismos autónomos, Seguridad Social y demás entidades de derecho público tengan con la Hacienda pública estatal podrán extinguirse mediante deducción de las cantidades que la Administración General del Estado deba transferir a las referidas entidades.
 2. Las actuaciones serán las siguientes:
@@ -1838,15 +1880,15 @@ Efectuada dicha compensación, el acuerdo de deducción se reducirá, sin necesi
 
 1. En su caso, se practicará la liquidación de intereses de demora que se hayan devengado y se notificará al deudor.
 
-## _Sección 3.ª Baja provisional por insolvencia_
+## *Sección 3.ª Baja provisional por insolvencia*
 
-### Artículo 61. _Concepto de deudor fallido y de crédito incobrable._
+### Artículo 61. *Concepto de deudor fallido y de crédito incobrable.*
 
 1. Se considerarán fallidos aquellos obligados al pago respecto de los cuales se ignore la existencia de bienes o derechos embargables o realizables para el cobro del débito. En particular, se estimará que no existen bienes o derechos embargables cuando los poseídos por el obligado al pago no hubiesen sido adjudicados a la Hacienda pública de conformidad con lo que se establece en el artículo 109. Asimismo, se considerará fallido por insolvencia parcial el deudor cuyo patrimonio embargable o realizable conocido tan solo alcance a cubrir una parte de la deuda.
 
-La declaración de fallido podrá referirse a la insolvencia total o parcial del deudor. Son créditos incobrables aquellos que no han podido hacerse efectivos en el 
+La declaración de fallido podrá referirse a la insolvencia total o parcial del deudor. Son créditos incobrables aquellos que no han podido hacerse efectivos en el
 
-procedimiento de apremio por resultar fallidos los obligados al pago. El concepto de incobrable se aplicará a los créditos y el de fallido a los obligados al 
+procedimiento de apremio por resultar fallidos los obligados al pago. El concepto de incobrable se aplicará a los créditos y el de fallido a los obligados al
 
 pago.
 
@@ -1856,14 +1898,14 @@ Si no existieran responsables subsidiarios o, si existiendo, estos resultan fall
 
 3. Sin perjuicio de lo que establece la normativa presupuestaria y atendiendo a criterios de eficiencia en la utilización de los recursos disponibles, se determinarán por el Director del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria las actuaciones concretas que deberán realizarse a efectos de justificar la declaración de crédito incobrable.
 
-### Artículo 62. _Efectos de la baja provisional por insolvencia._
+### Artículo 62. *Efectos de la baja provisional por insolvencia.*
 
 1. La declaración total o parcial de crédito incobrable determinará la baja en cuentas del crédito en la cuantía a que se refiera dicha declaración.
 2. Dicha declaración no impide el ejercicio por la Hacienda pública contra quien proceda de las acciones que puedan ejercitarse con arreglo a las leyes, en tanto no se haya producido la prescripción del derecho de la Administración para exigir el pago.
 3. La declaración de fallido correspondiente a personas o entidades inscritas en el Registro Mercantil será anotada en este en virtud de mandamiento expedido por el órgano de recaudación competente. Con posterioridad a la anotación el registro comunicará a dicho órgano de recaudación cualquier acto relativo a dichas personas o entidades que se presente a inscripción o anotación.
 4. Declarado fallido un obligado al pago, las deudas de vencimiento posterior a la declaración se considerarán vencidas y podrán ser dadas de baja por referencia a dicha declaración, si no existen otros obligados al pago.
 
-### Artículo 63. _Revisión de fallidos y rehabilitación de créditos incobrables._
+### Artículo 63. *Revisión de fallidos y rehabilitación de créditos incobrables.*
 
 1. El órgano de recaudación vigilará la posible solvencia sobrevenida de los obligados al pago declarados fallidos.
 2. En caso de producirse tal circunstancia y de no mediar prescripción, procederá la rehabilitación de los créditos declarados incobrables, reanudándose el procedimiento de recaudación partiendo de la situación en que se encontraban en el momento de la declaración de crédito incobrable o de la baja por referencia.
@@ -1872,39 +1914,45 @@ Si no existieran responsables subsidiarios o, si existiendo, estos resultan fall
 
 **Garantías de la deuda**
 
-### Artículo 64. _Derecho de prelación._
+### Artículo 64. *Derecho de prelación.*
 
-1. Conforme a lo dispuesto lo dispuesto en el artículo 77 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuando existan anotaciones de embargo en los Registros de la Propiedad y de Bienes Muebles, practicadas con anterioridad a la del crédito de la Hacienda 
+1. Conforme a lo dispuesto lo dispuesto en el artículo 77 de la Ley 58/2003, de 17 de diciembre, General Tributaria, cuando existan anotaciones de embargo en los Registros de la Propiedad y de Bienes Muebles, practicadas con anterioridad a la del crédito de la Hacienda
 
 pública sobre unos mismos bienes embargados, el órgano de recaudación podrá elevar al órgano competente el expediente a efectos de acordar, si procede, el ejercicio de la acción de tercería de mejor derecho en defensa de los intereses de la Hacienda pública, previo informe del órgano con funciones de asesoramiento jurídico.
 
-    2. Cuando en los mencionados registros consten derechos inscritos o anotados con anterioridad a la anotación de embargo a favor de la Hacienda pública, y existiesen indicios de que dichas inscripciones o anotaciones pudiesen ser consecuencia de actuaciones realizadas en perjuicio de los derechos de la Hacienda pública, se trasladará copia de la documentación al órgano con funciones de asesoramiento jurídico correspondiente, al efecto de determinar la procedencia, en su caso, de ejercer acciones legales en defensa del crédito público.
+&#x20;   2. Cuando en los mencionados registros consten derechos inscritos o anotados con anterioridad a la anotación de embargo a favor de la Hacienda pública, y existiesen indicios de que dichas inscripciones o anotaciones pudiesen ser consecuencia de actuaciones realizadas en perjuicio de los derechos de la Hacienda pública, se trasladará copia de la documentación al órgano con funciones de asesoramiento jurídico correspondiente, al efecto de determinar la procedencia, en su caso, de ejercer acciones legales en defensa del crédito público.
 
-### Artículo 65. _Hipoteca legal tácita._
 
-    1. A efectos de lo dispuesto en el artículo 78 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se entiende que se exige el pago cuando se inicia el procedimiento de recaudación en periodo voluntario de los débitos correspondientes al ejercicio en que se haya inscrito en el registro el derecho o efectuado la transmisión de los bienes o derechos de que se trate.
+### Artículo 65. *Hipoteca legal tácita.*
+
+&#x20;   1. A efectos de lo dispuesto en el artículo 78 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se entiende que se exige el pago cuando se inicia el procedimiento de recaudación en periodo voluntario de los débitos correspondientes al ejercicio en que se haya inscrito en el registro el derecho o efectuado la transmisión de los bienes o derechos de que se trate.
     2. Tanto el acreedor hipotecario como el tercero adquirente tienen derecho a exigir la segregación de cuotas de los bienes que les interesen, cuando se hallen englobadas en un solo recibo con otras del mismo obligado al pago.
     3. En orden a la ejecución de la hipoteca legal tácita se aplicará el artículo 74.4.
 
-### Artículo 66. _Otras hipotecas y derechos reales en garantía de los créditos de la Hacienda pública._
 
-    1. Para tener igual preferencia que la indicada en el artículo anterior, por débitos anteriores a los expresados en él o por mayor cantidad de la que de este resulta, podrá constituirse voluntariamente por el deudor o ser exigida por la Hacienda pública la constitución de hipoteca especial. Esta hipoteca surtirá efecto desde la fecha en que quede inscrita, de conformidad con lo establecido en el artículo 145 de la Ley Hipotecaria.
+### Artículo 66. *Otras hipotecas y derechos reales en garantía de los créditos de la Hacienda pública.*
+
+&#x20;   1. Para tener igual preferencia que la indicada en el artículo anterior, por débitos anteriores a los expresados en él o por mayor cantidad de la que de este resulta, podrá constituirse voluntariamente por el deudor o ser exigida por la Hacienda pública la constitución de hipoteca especial. Esta hipoteca surtirá efecto desde la fecha en que quede inscrita, de conformidad con lo establecido en el artículo 145 de la Ley Hipotecaria.
     2. En relación con otras deudas se podrá constituir voluntariamente, como garantía en favor de la Hacienda pública, en los casos de aplazamiento y fraccionamiento o en los demás supuestos previstos en la normativa que resulte de aplicación, hipoteca inmobiliaria, hipoteca mobiliaria, prenda sin desplazamiento de la posesión o cualquier otro derecho real de garantía.
     3. Si la garantía se hubiese constituido unilateralmente, su aceptación se hará por el órgano competente mediante documento administrativo, cuyo contenido se hará constar en el registro correspondiente.
+
 
 Con carácter previo se podrá solicitar informe al órgano con funciones de asesoramiento jurídico sobre la suficiencia de la garantía.
 
 La Hacienda pública, en su caso, autorizará la cancelación de la garantía en la misma forma establecida para la aceptación.
 
-    4. La ejecución de estas garantías se efectuará conforme a lo establecido en el artículo 
+&#x20;   4. La ejecución de estas garantías se efectuará conforme a lo establecido en el artículo 
 
-### Artículo 67. _Afección y retención de bienes._
 
-    1. Para el ejercicio del derecho de afección se requerirá la declaración de responsabilidad subsidiaria en los términos establecidos en los artículos 174 y 176 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+### Artículo 67. *Afección y retención de bienes.*
+
+&#x20;   1. Para el ejercicio del derecho de afección se requerirá la declaración de responsabilidad subsidiaria en los términos establecidos en los artículos 174 y 176 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
 
 La nota marginal de afección será solicitada expresamente y de oficio por el órgano competente, a menos que la liquidación se consigne en el documento que haya de acceder al registro; en tal caso, la nota de afección se extenderá directamente por este último sin necesidad de solicitud al efecto.
 
-    2. El derecho de retención se ejercerá por los órganos a los que se hayan presentado o entregado las mercancías.
+&#x20;   2. El derecho de retención se ejercerá por los órganos a los que se hayan presentado o entregado las mercancías.
+
 
 ## TÍTULO III
 
@@ -1914,7 +1962,7 @@ La nota marginal de afección será solicitada expresamente y de oficio por el �
 
 **Disposiciones generales**
 
-### Artículo 68. _Iniciación y terminación de la recaudación en periodo voluntario._
+### Artículo 68. *Iniciación y terminación de la recaudación en periodo voluntario.*
 
 1. La recaudación en periodo voluntario se iniciará a partir de:
 
@@ -1932,7 +1980,7 @@ La nota marginal de afección será solicitada expresamente y de oficio por el �
 2. La recaudación en periodo voluntario concluirá el día del vencimiento de los correspondientes plazos de ingreso. En el caso de deudas a ingresar mediante autoliquidación presentada fuera de plazo sin realizar el ingreso o sin presentar solicitud de aplazamiento, fraccionamiento o compensación, concluirá el mismo día de la presentación de la autoliquidación.
 3. Los obligados al pago podrán satisfacer total o parcialmente las deudas en periodo voluntario. Por la cantidad no pagada se iniciará el periodo ejecutivo en los términos previstos en el artículo 69.
 
-### Artículo 69. _Recaudación en periodo ejecutivo._
+### Artículo 69. *Recaudación en periodo ejecutivo.*
 
 1. La recaudación en periodo ejecutivo se inicia de acuerdo con lo dispuesto en el artículo 161.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, en relación con los importes no satisfechos en periodo voluntario.
 2. Iniciado el periodo ejecutivo, la recaudación se efectuará por el procedimiento de apremio, que se iniciará, a su vez, mediante la notificación de la providencia de apremio a la que se refiere el artículo 70.
@@ -1942,9 +1990,9 @@ La nota marginal de afección será solicitada expresamente y de oficio por el �
 
 **Procedimiento de apremio**
 
-## _Sección 1.ª Inicio del procedimiento de apremio_
+## *Sección 1.ª Inicio del procedimiento de apremio*
 
-### Artículo 70. _Providencia de apremio._
+### Artículo 70. *Providencia de apremio.*
 
 1. La providencia de apremio es el acto de la Administración que ordena la ejecución contra el patrimonio del obligado al pago.
 2. La providencia de apremio deberá contener:
@@ -1985,7 +2033,7 @@ En caso de que se asuma mediante convenio la recaudación ejecutiva de deudas de
 
 4. En el caso de deudas a favor de la Hacienda pública estatal, que deban satisfacer las comunidades autónomas, entidades locales, organismos autónomos y otras entidades de derecho público, y sin perjuicio de la posibilidad de proceder al embargo de sus bienes, en los supuestos no excluidos por disposición legal, podrá acudirse, asimismo, a los procedimientos de compensación de oficio y deducción sobre transferencias.
 
-### Artículo 71. _Notificación de la providencia de apremio._
+### Artículo 71. *Notificación de la providencia de apremio.*
 
 En la notificación de la providencia de apremio se harán constar al menos los siguientes extremos:
 
@@ -2007,11 +2055,11 @@ En la notificación de la providencia de apremio se harán constar al menos los 
 
 1. Recursos que procedan contra la providencia de apremio, órganos ante los que puedan interponerse y plazo para su interposición.
 
-## _Sección 2.ª Desarrollo del procedimiento de apremio_
+## *Sección 2.ª Desarrollo del procedimiento de apremio*
 
 ## Subsección 1.ª Disposiciones generales
 
-### Artículo 72. _Interés de demora del periodo ejecutivo._
+### Artículo 72. *Interés de demora del periodo ejecutivo.*
 
 1. Las cantidades adeudadas devengarán interés de demora desde el inicio del periodo ejecutivo hasta la fecha de su ingreso.
 
@@ -2033,50 +2081,56 @@ Cuando sin mediar suspensión, aplazamiento o fraccionamiento una deuda se satis
 
 1. En caso de ejecución de bienes embargados o de garantías, se practicará la liquidación de intereses de demora al aplicar el líquido obtenido a la cancelación de la deuda, si aquel fuese superior.
 
-    1. Si se embarga dinero en efectivo o en cuentas o créditos, podrán liquidarse y retenerse los intereses de demora en el momento del embargo si el importe disponible fuese superior a la deuda cuyo cobro se persigue.
+   1. Si se embarga dinero en efectivo o en cuentas o créditos, podrán liquidarse y retenerse los intereses de demora en el momento del embargo si el importe disponible fuese superior a la deuda cuyo cobro se persigue.
 
-En los casos de los párrafos b), c) y d) no será necesaria la notificación expresa de la liquidación de los intereses de demora devengados si en la notificación de la deuda principal 
+En los casos de los párrafos b), c) y d) no será necesaria la notificación expresa de la liquidación de los intereses de demora devengados si en la notificación de la deuda principal
 
 1. en cualquier otro momento posterior le ha sido notificado al interesado el importe de la deuda, el devengo de intereses en caso de falta de pago, una referencia al tipo de interés aplicable, según se trate de deudas y sanciones tributarias o de deudas no tributarias, y la forma de cómputo del tiempo de devengo.
 
-    5. En el ámbito de competencias del Estado no se practicará liquidación por intereses de demora cuando la cantidad resultante por este concepto sea inferior a la cifra que por orden fije el Ministro de Economía y Hacienda como mínima para cubrir el coste de su exacción y recaudación.
+   5. En el ámbito de competencias del Estado no se practicará liquidación por intereses de demora cuando la cantidad resultante por este concepto sea inferior a la cifra que por orden fije el Ministro de Economía y Hacienda como mínima para cubrir el coste de su exacción y recaudación.
 
-### Artículo 72 bis. _Cálculo de los intereses de demora en el ámbito de la asistencia mutua._
+### Artículo 72 bis. *Cálculo de los intereses de demora en el ámbito de la asistencia mutua.*
 
 Las cantidades adeudadas de titularidad de otros Estados o de otras entidades internacionales y supranacionales, cuya actuación recaudatoria se realice en el marco de la asistencia mutua, devengarán interés de demora de acuerdo con el artículo 26.2.e) de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
 El cálculo de intereses se realizará, según los casos, de la siguiente forma:
 
-    1. Cuando se produzca el pago de la deuda una vez finalizado el plazo establecido en el artículo 62.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, la liquidación de los intereses devengados se practicará posteriormente, siguiéndose para su tramitación y recaudación el procedimiento establecido con carácter general para las liquidaciones practicadas por la Administración.
+&#x20;   1. Cuando se produzca el pago de la deuda una vez finalizado el plazo establecido en el artículo 62.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, la liquidación de los intereses devengados se practicará posteriormente, siguiéndose para su tramitación y recaudación el procedimiento establecido con carácter general para las liquidaciones practicadas por la Administración.
+
 
 <div></div>
 
-    1. En el supuesto al que se refiere el párrafo a), el órgano de recaudación competente podrá, cuando las necesidades del servicio lo aconsejen, liquidar y exigir los intereses en el momento del pago de la deuda.
+&#x20;   1. En el supuesto al que se refiere el párrafo a), el órgano de recaudación competente podrá, cuando las necesidades del servicio lo aconsejen, liquidar y exigir los intereses en el momento del pago de la deuda.
+
 
 <div></div>
 
-    1. En caso de ejecución de bienes embargados o de garantías, se practicará la liquidación de intereses de demora al aplicar el líquido obtenido a la cancelación de la deuda, si aquel fuese superior.
+&#x20;   1. En caso de ejecución de bienes embargados o de garantías, se practicará la liquidación de intereses de demora al aplicar el líquido obtenido a la cancelación de la deuda, si aquel fuese superior.
+
 
 <div></div>
 
-    1. Si se embarga dinero en efectivo o en cuentas o créditos, podrán liquidarse y retenerse los intereses de demora en el momento del embargo si el importe disponible fuese superior a la deuda cuyo cobro se persigue.
+&#x20;   1. Si se embarga dinero en efectivo o en cuentas o créditos, podrán liquidarse y retenerse los intereses de demora en el momento del embargo si el importe disponible fuese superior a la deuda cuyo cobro se persigue.
 
-### Artículo 73. _Suspensión del procedimiento de apremio._
 
-    1. La suspensión del procedimiento de apremio como consecuencia de la interposición de un recurso o reclamación económico-administrativa se tramitará y resolverá de acuerdo con las normas de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa.
+### Artículo 73. *Suspensión del procedimiento de apremio.*
+
+&#x20;   1. La suspensión del procedimiento de apremio como consecuencia de la interposición de un recurso o reclamación económico-administrativa se tramitará y resolverá de acuerdo con las normas de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa.
     2. Cuando el interesado demuestre la existencia de error material, aritmético o de hecho en la determinación de la deuda, que esta ha sido ingresada, condonada, compensada, aplazada o suspendida o que ha prescrito el derecho a exigir su pago, se le notificará la suspensión de las actuaciones del procedimiento de apremio en tanto se dicte el acuerdo correspondiente.
+
 
 Cuando la apreciación de las citadas circunstancias no sea competencia del órgano de recaudación que haya recibido la solicitud de suspensión, este podrá suspender las actuaciones y dará traslado al órgano competente. Este último informará al órgano de recaudación que estuviera tramitando el procedimiento de apremio sobre la concurrencia de alguna de las circunstancias señaladas.
 
 La resolución que se adopte se notificará al interesado comunicándole, en su caso, la continuación del procedimiento de apremio.
 
-    3. La suspensión del procedimiento de apremio asociado al cobro de una liquidación vinculada a delito, tanto en sede del deudor principal como en sede del responsable, se tramitará y resolverá de acuerdo con el régimen regulado en los artículos 255, 256 y 258.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+&#x20;   3. La suspensión del procedimiento de apremio asociado al cobro de una liquidación vinculada a delito, tanto en sede del deudor principal como en sede del responsable, se tramitará y resolverá de acuerdo con el régimen regulado en los artículos 255, 256 y 258.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-4. La suspensión del procedimiento de recaudación seguido en el ámbito de la asistencia mutua se regirá por lo dispuesto en los apartados anteriores y en el artículo 177 _terdecies_ de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+4. La suspensión del procedimiento de recaudación seguido en el ámbito de la asistencia mutua se regirá por lo dispuesto en los apartados anteriores y en el artículo 177 *terdecies* de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
 ## Subsección 2.ª Ejecución de garantías
 
-### Artículo 74. _Ejecución de garantías._
+### Artículo 74. *Ejecución de garantías.*
 
 1. Una vez iniciado el procedimiento de apremio, si la deuda estuviese garantizada y resultase impagada en el plazo al que se refiere el artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se procederá a ejecutar la garantía, salvo que sea de aplicación lo dispuesto en su artículo 168, segundo párrafo; en tal caso, con anterioridad a la ejecución de la garantía se podrá optar por el embargo y enajenación de otros bienes y derechos.
 
@@ -2094,71 +2148,81 @@ El órgano de recaudación competente notificará el inicio del procedimiento de
 
 En su caso, el tipo para la subasta o concurso podrá fijarse de acuerdo con las reglas del artículo 97 y con independencia del valor en que se haya tasado el bien al tiempo de constituir la hipoteca.
 
-7. Se podrá continuar el procedimiento de apremio cuando la garantía haya devenido manifiestamente insuficiente, jurídica o económicamente, desde la fecha de su constitución, 
+7. Se podrá continuar el procedimiento de apremio cuando la garantía haya devenido manifiestamente insuficiente, jurídica o económicamente, desde la fecha de su constitución,
 
 sin necesidad de esperar a su ejecución, mediante acuerdo motivado que deberá constar en el expediente.
 
 ## Subsección 3.ª Normas sobre embargos
 
-### Artículo 75. _Diligencias de embargo._
+### Artículo 75. *Diligencias de embargo.*
 
-    1. Transcurrido el plazo señalado en el artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin haberse realizado el ingreso requerido, se procederá, en cumplimiento del mandato contenido en la providencia de apremio, al embargo de los bienes y derechos que procedan, siempre que no se hubiese pagado la deuda por la ejecución de garantías o fuese previsible de forma motivada que de dicha ejecución no resultará líquido suficiente para cubrir la deuda.
+&#x20;   1. Transcurrido el plazo señalado en el artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin haberse realizado el ingreso requerido, se procederá, en cumplimiento del mandato contenido en la providencia de apremio, al embargo de los bienes y derechos que procedan, siempre que no se hubiese pagado la deuda por la ejecución de garantías o fuese previsible de forma motivada que de dicha ejecución no resultará líquido suficiente para cubrir la deuda.
     2. Cada actuación de embargo se documentará en diligencia de embargo.
     3. Las deudas de un mismo obligado al pago podrán acumularse en una diligencia de embargo.
 
+
 Cuando las necesidades del procedimiento lo exijan, se procederá a la segregación de las deudas acumuladas.
 
-### Artículo 76. _Práctica de los embargos._
+### Artículo 76. *Práctica de los embargos.*
 
-    1. Si los bienes embargables se encuentran en locales de personas o entidades distintas del obligado, se ordenará, mediante personación en dichos locales, al depositario o al personal dependiente de este último la entrega de los bienes, que se detallarán en la correspondiente diligencia.
+&#x20;   1. Si los bienes embargables se encuentran en locales de personas o entidades distintas del obligado, se ordenará, mediante personación en dichos locales, al depositario o al personal dependiente de este último la entrega de los bienes, que se detallarán en la correspondiente diligencia.
+
 
 En caso de negativa a la entrega inmediata o cuando esta no sea posible, se podrá proceder al precintado o a la adopción de medidas necesarias para impedir la sustitución o levantamiento, haciéndose constar en diligencia.
 
-Cuando sea necesario el acceso a los bienes embargados a efectos de su identificación 
+Cuando sea necesario el acceso a los bienes embargados a efectos de su identificación
 
-1. ejecución, podrá requerirse el auxilio de la autoridad. Lo dispuesto en este apartado se efectuará teniendo en cuenta lo previsto en los 
+1. ejecución, podrá requerirse el auxilio de la autoridad. Lo dispuesto en este apartado se efectuará teniendo en cuenta lo previsto en los
 
 artículos 142 y 146 de la Ley 58/2003, de 17 de diciembre, General Tributaria, en relación con la entrada en fincas y locales y las medidas de aseguramiento que es posible adoptar.
 
-    2. Cuando en la fase de traba o en la de ejecución se presuma que el resultado de la enajenación de los bienes embargados pueda ser insuficiente para cubrir la deuda, se procederá al embargo de otros bienes y derechos.
+&#x20;   2. Cuando en la fase de traba o en la de ejecución se presuma que el resultado de la enajenación de los bienes embargados pueda ser insuficiente para cubrir la deuda, se procederá al embargo de otros bienes y derechos.
+
 
 Cuando por la información sucesivamente obtenida se embarguen bienes que en el orden de embargo sean anteriores a otros ya embargados pero no realizados, se realizarán aquellos con anterioridad.
 
-    3. Una vez realizado el embargo de los bienes y derechos, la diligencia se notificará al obligado al pago y, en su caso, al tercero titular, poseedor o depositario de los bienes si no se hubiesen realizado con ellos las actuaciones, así como al cónyuge del obligado al pago cuando los bienes embargados sean gananciales o se trate de la vivienda habitual, y a los condueños o cotitulares.
+&#x20;   3. Una vez realizado el embargo de los bienes y derechos, la diligencia se notificará al obligado al pago y, en su caso, al tercero titular, poseedor o depositario de los bienes si no se hubiesen realizado con ellos las actuaciones, así como al cónyuge del obligado al pago cuando los bienes embargados sean gananciales o se trate de la vivienda habitual, y a los condueños o cotitulares.
+
 
 En el supuesto de bienes y derechos inscritos en un registro público el embargo también deberá notificarse a los titulares de cargas posteriores a la anotación de embargo y anteriores a la nota marginal de expedición de la certificación de cargas a que se refiere el artículo 74.
 
 El embargo, en caso de cuotas de participación de bienes que se posean pro indiviso, se limitará a la cuota de participación del obligado al pago y se notificará a los condóminos.
 
-    4. Si una vez realizado el embargo se comprobase que concurren las circunstancias del artículo 169.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se procederá a su levantamiento.
+&#x20;   4. Si una vez realizado el embargo se comprobase que concurren las circunstancias del artículo 169.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se procederá a su levantamiento.
     5. El embargo deberá ejecutarse en sus estrictos términos, sin perjuicio de que el obligado al pago pueda interponer recurso o reclamación económico-administrativa si considera que se incurre en alguna de las causas del artículo 170.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
     6. La inexistencia de bienes embargables conocidos por la Administración cuya ejecución permita el cobro de la deuda se hará constar en el expediente.
 
-### Artículo 77. _Concurrencia de embargos._
 
-    1. Cuando concurra con otros procesos o procedimientos singulares de ejecución, el procedimiento de apremio será preferente si el embargo efectuado en el curso de este último es el más antiguo. A estos efectos, se estará a la fecha de la diligencia de embargo del bien 
+### Artículo 77. *Concurrencia de embargos.*
+
+&#x20;   1. Cuando concurra con otros procesos o procedimientos singulares de ejecución, el procedimiento de apremio será preferente si el embargo efectuado en el curso de este último es el más antiguo. A estos efectos, se estará a la fecha de la diligencia de embargo del bien 
+
 
 1. derecho.
 
-    2. Cuando sobre los bienes embargados por la Hacienda pública o sobre los que se hubieran constituido garantías a favor de esta existan derechos inscritos o anotados con anterioridad a favor de otros acreedores, podrá aquella subrogarse en dichos derechos mediante el abono a los acreedores del importe de sus créditos cuando estos sean sustancialmente inferiores al producto que previsiblemente pueda obtener la Hacienda pública de la enajenación de los bienes. Para ejercer esta subrogación, el órgano de recaudación que tramite el procedimiento de apremio formulará la correspondiente propuesta, que deberá ser autorizada por el órgano competente.
+   2. Cuando sobre los bienes embargados por la Hacienda pública o sobre los que se hubieran constituido garantías a favor de esta existan derechos inscritos o anotados con anterioridad a favor de otros acreedores, podrá aquella subrogarse en dichos derechos mediante el abono a los acreedores del importe de sus créditos cuando estos sean sustancialmente inferiores al producto que previsiblemente pueda obtener la Hacienda pública de la enajenación de los bienes. Para ejercer esta subrogación, el órgano de recaudación que tramite el procedimiento de apremio formulará la correspondiente propuesta, que deberá ser autorizada por el órgano competente.
 
 Las cantidades abonadas por ese concepto tendrán el carácter de costas del procedimiento, a cuyo pago se aplicarán con carácter preferente las cantidades que la Hacienda pública obtenga de la enajenación forzosa del bien embargado.
 
-    3. Cuando los bienes embargados sean objeto de un procedimiento de expropiación forzosa, se paralizarán las actuaciones de ejecución de los bienes afectados y se deberá comunicar a la Administración expropiante el embargo de los pagos a realizar al expropiado. A efectos de continuar o no el procedimiento ejecutivo respecto de otros bienes del obligado al pago, se considerará realizado el embargo por el precio firme del bien expropiado. Cuando el precio no sea firme, se considerará realizado el embargo por la parte en que exista acuerdo y, de no haberlo, por el precio ofrecido por la Administración expropiante.
+&#x20;   3. Cuando los bienes embargados sean objeto de un procedimiento de expropiación forzosa, se paralizarán las actuaciones de ejecución de los bienes afectados y se deberá comunicar a la Administración expropiante el embargo de los pagos a realizar al expropiado. A efectos de continuar o no el procedimiento ejecutivo respecto de otros bienes del obligado al pago, se considerará realizado el embargo por el precio firme del bien expropiado. Cuando el precio no sea firme, se considerará realizado el embargo por la parte en que exista acuerdo y, de no haberlo, por el precio ofrecido por la Administración expropiante.
 
-### Artículo 78. _Embargo de dinero en efectivo._
 
-    1. Cuando se embargue dinero en efectivo, el órgano de recaudación competente lo hará constar en diligencia, de la que emitirá un duplicado. Uno de los ejemplares se unirá al expediente y el otro quedará en poder del obligado al pago. El dinero será inmediatamente ingresado en el Tesoro.
+### Artículo 78. *Embargo de dinero en efectivo.*
+
+&#x20;   1. Cuando se embargue dinero en efectivo, el órgano de recaudación competente lo hará constar en diligencia, de la que emitirá un duplicado. Uno de los ejemplares se unirá al expediente y el otro quedará en poder del obligado al pago. El dinero será inmediatamente ingresado en el Tesoro.
     2. Si se trata de la recaudación de cajas, taquillas o similares de empresas o entidades en funcionamiento, el órgano de recaudación competente podrá acordar los pagos que deban realizarse con cargo a dicha recaudación, en la cuantía necesaria para evitar la paralización de aquellas.
 
-### Artículo 79. _Embargo de dinero en cuentas abiertas en entidades de crédito._
 
-    1. Cuando la Administración conozca la existencia de, al menos, una cuenta o depósito abierto en una oficina de una entidad de crédito, el embargo se llevará a cabo mediante diligencia de embargo en la que deberá identificarse la cuenta o el depósito conocido por la Administración actuante.
+### Artículo 79. *Embargo de dinero en cuentas abiertas en entidades de crédito.*
+
+&#x20;   1. Cuando la Administración conozca la existencia de, al menos, una cuenta o depósito abierto en una oficina de una entidad de crédito, el embargo se llevará a cabo mediante diligencia de embargo en la que deberá identificarse la cuenta o el depósito conocido por la Administración actuante.
+
 
 El embargo podrá extenderse, sin necesidad de identificación previa, al resto de los bienes y derechos de que sea titular el obligado al pago existentes en dicha entidad de crédito, dentro del ámbito estatal, autonómico o local que corresponda a la jurisdicción respectiva de cada Administración tributaria ordenante del embargo, sean o no conocidos por la Administración, hasta alcanzar el importe de la deuda pendiente, más el recargo del periodo ejecutivo, intereses y, en su caso, las costas producidas.
 
-    2. La forma, medio, lugar y demás circunstancias relativas a la presentación de la diligencia de embargo en la entidad depositaria, así como el plazo máximo en que habrá de efectuarse la retención de los fondos, podrán ser convenidos, con carácter general, entre la Administración actuante y la entidad de crédito afectada.
+&#x20;   2. La forma, medio, lugar y demás circunstancias relativas a la presentación de la diligencia de embargo en la entidad depositaria, así como el plazo máximo en que habrá de efectuarse la retención de los fondos, podrán ser convenidos, con carácter general, entre la Administración actuante y la entidad de crédito afectada.
     3. En defecto del acuerdo a que se refiere el apartado anterior, la diligencia de embargo se presentará en la oficina donde esté abierta la cuenta y sus responsables deberán proceder de forma inmediata a retener el importe embargado si existe en ese momento saldo suficiente, o en otro caso, el total de los saldos existentes a nombre del obligado al pago.
+
 
 Asimismo, la diligencia de embargo se podrá presentar en alguno de los siguientes lugares:
 
@@ -2166,7 +2230,7 @@ Asimismo, la diligencia de embargo se podrá presentar en alguno de los siguient
 
 <div></div>
 
-1. En el domicilio fiscal o social de la entidad de crédito. En los supuestos a los que se refieren los párrafos a) y b), cuando el embargo deba 
+1. En el domicilio fiscal o social de la entidad de crédito. En los supuestos a los que se refieren los párrafos a) y b), cuando el embargo deba
 
 trabarse sobre fondos cuya gestión o depósito no se encuentren localizados en el lugar en que se presente la diligencia de embargo, la retención de los fondos se efectuará de manera inmediata o, si ello no fuera posible, en el plazo más breve que permitan las características de los sistemas de información interna o de contabilidad de la entidad. Dicho plazo no podrá ser superior a cinco días, tendrá carácter improrrogable y se comunicará al órgano de recaudación que haya efectuado el embargo. En todo caso, el embargo surtirá efectos legales desde el día de presentación de la diligencia de embargo a la entidad depositaria.
 
@@ -2176,14 +2240,14 @@ trabarse sobre fondos cuya gestión o depósito no se encuentren localizados en 
 
 Si se trata de cuentas a plazo, el ingreso deberá realizarse en la fecha indicada en el párrafo anterior o al día siguiente del fin del plazo, según qué fecha sea posterior. No obstante, si el depositante tiene la facultad de disponer anticipadamente del dinero depositado, al notificar la diligencia de embargo se advertirá al obligado al pago la posibilidad que tiene de hacer uso de tal facultad frente a la entidad depositaria, según las condiciones que se hubieran establecido; en este caso, el ingreso en el Tesoro se producirá al día siguiente de la cancelación.
 
-### Artículo 80. _Embargo de valores._
+### Artículo 80. *Embargo de valores.*
 
 1. Cuando la Administración conozca la existencia de valores de titularidad del obligado al pago, el embargo se llevará a cabo mediante diligencia de embargo que identificará los valores conocidos por la Administración actuante y comprenderá un número de valores que, a juicio del órgano de recaudación, cubra el importe total a que se refiere el artículo 169.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 2. Si el embargo se refiere a valores representados mediante títulos o mediante anotaciones en cuenta que se hallen depositados, entregados o confiados a una oficina de una entidad de crédito, sociedad o agencia de valores, o cualesquiera otras entidades depositarias, el embargo se llevará a cabo mediante la presentación de la diligencia de embargo a la entidad y podrá extenderse, sin necesidad de identificación previa, a los demás bienes y derechos del obligado al pago existentes en dicha entidad de crédito, sociedad o agencia de valores, dentro del ámbito estatal, autonómico o local que corresponda a la jurisdicción respectiva de cada Administración tributaria ordenante del embargo, sean o no conocidos por la Administración.
 
 En el acto de presentación, la receptora de la diligencia deberá confirmar al órgano de recaudación competente la concordancia o no de los valores conocidos por la Administración con los realmente depositados o anotados.
 
-En caso de discordancia o de insuficiencia de los valores conocidos por la Administración e identificados en la diligencia para cubrir el importe total adeudado, la entidad entregará en el acto, o de no ser posible, en el plazo máximo e improrrogable de cinco días, relación de los valores con los datos que permitan su valoración. El órgano de recaudación competente indicará a la entidad los valores que deben quedar definitivamente embargados y aquellos que deben quedar liberados, pudiendo convenirse a estos efectos y con carácter previo la forma de actuación de la entidad. En todo caso, los valores 
+En caso de discordancia o de insuficiencia de los valores conocidos por la Administración e identificados en la diligencia para cubrir el importe total adeudado, la entidad entregará en el acto, o de no ser posible, en el plazo máximo e improrrogable de cinco días, relación de los valores con los datos que permitan su valoración. El órgano de recaudación competente indicará a la entidad los valores que deben quedar definitivamente embargados y aquellos que deben quedar liberados, pudiendo convenirse a estos efectos y con carácter previo la forma de actuación de la entidad. En todo caso, los valores
 
 embargados se considerarán trabados el día de la presentación de la diligencia de embargo a la entidad.
 
@@ -2201,7 +2265,7 @@ El importe obtenido deberá ingresarse en el Tesoro hasta el límite de lo debid
 
 El procedimiento de adjudicación de las participaciones se llevará a cabo de acuerdo con su normativa específica.
 
-### Artículo 81. _Embargo de otros créditos, efectos y derechos realizables en el acto o a corto plazo._
+### Artículo 81. *Embargo de otros créditos, efectos y derechos realizables en el acto o a corto plazo.*
 
 Cuando se trate de créditos, efectos y derechos realizables en el acto o a corto plazo no regulados en el artículo anterior, se procederá como sigue:
 
@@ -2213,7 +2277,7 @@ Cuando se trate de créditos, efectos y derechos realizables en el acto o a cort
 
 La forma, medio, lugar y demás circunstancias relativas a la presentación de las diligencias de embargo podrán ser convenidas, con carácter general, entre la Administración ordenante y los destinatarios de dichas diligencias. En todo caso, las diligencias de embargo se notificarán conforme al régimen jurídico previsto en los artículos 109 y siguientes de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-### Artículo 82. _Embargo de sueldos, salarios y pensiones._
+### Artículo 82. *Embargo de sueldos, salarios y pensiones.*
 
 1. El embargo de sueldos, salarios y pensiones se efectuará teniendo en cuenta lo establecido en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
 
@@ -2226,7 +2290,7 @@ La forma, medio, lugar y demás circunstancias relativas a la presentación de l
 
 Una vez cubierto el débito, el órgano de recaudación competente notificará al pagador la finalización de las retenciones.
 
-### Artículo 83. _Embargos de bienes inmuebles y de derechos sobre estos._
+### Artículo 83. *Embargos de bienes inmuebles y de derechos sobre estos.*
 
 1. El embargo de bienes inmuebles y derechos sobre estos se efectuará mediante diligencia, que especificará las circunstancias siguientes:
 
@@ -2260,76 +2324,87 @@ Una vez cubierto el débito, el órgano de recaudación competente notificará a
 2. En el momento de notificarse la diligencia de embargo según lo dispuesto en el artículo 76 se requerirán los títulos de propiedad a los titulares de los bienes o derechos.
 3. Si debiera practicarse deslinde, el órgano de recaudación competente podrá optar por el nombramiento de un funcionario técnico adscrito a dicho órgano o por la contratación de los servicios de empresas especializadas. En ambos casos, el deslinde se realizará en el plazo de 15 días.
 
-### Artículo 84. _Anotación preventiva en el Registro de la Propiedad de los embargos de bienes inmuebles y de derechos sobre estos._
+### Artículo 84. *Anotación preventiva en el Registro de la Propiedad de los embargos de bienes inmuebles y de derechos sobre estos.*
 
 1. La Administración solicitará que se practique anotación preventiva del embargo de bienes inmuebles y derechos sobre estos en el Registro de la Propiedad que corresponda.
-2. A tal efecto, el órgano de recaudación competente expedirá mandamiento dirigido al registrador con sujeción a lo dispuesto en la legislación hipotecaria y a lo que se establece 
+2. A tal efecto, el órgano de recaudación competente expedirá mandamiento dirigido al registrador con sujeción a lo dispuesto en la legislación hipotecaria y a lo que se establece
 
 en los artículos siguientes, en el que se solicitará, además, que se libre certificación de las cargas que figuren en el registro sobre cada finca, con expresión detallada de aquellas y de sus titulares, con inclusión en la certificación del propietario de la finca en ese momento y de su domicilio.
 
 A la vista de tal certificación, se comprobará que se han efectuado todas las notificaciones exigidas por la normativa. En su defecto, se procederá a practicarlas.
 
-    3. Si la liquidación apremiada se refiere a tributos sin cuyo previo pago no pudiese inscribirse en el registro el acto o negocio jurídico que la originó, al llegar el procedimiento a la fase de embargo se procederá de la forma siguiente:
+&#x20;   3. Si la liquidación apremiada se refiere a tributos sin cuyo previo pago no pudiese inscribirse en el registro el acto o negocio jurídico que la originó, al llegar el procedimiento a la fase de embargo se procederá de la forma siguiente:
+
 
 <div></div>
 
-    1. El órgano de recaudación que tramite el expediente propondrá el aplazamiento del pago de dicha liquidación al órgano competente para resolverlo a los solos efectos de la inscripción de los bienes y de la anotación preventiva de su embargo a favor de la Hacienda pública. El acuerdo de aplazamiento se hará constar en los documentos que hubiesen determinado la liquidación del tributo y por virtud de los cuales deba practicarse la inscripción en el registro.
+&#x20;   1. El órgano de recaudación que tramite el expediente propondrá el aplazamiento del pago de dicha liquidación al órgano competente para resolverlo a los solos efectos de la inscripción de los bienes y de la anotación preventiva de su embargo a favor de la Hacienda pública. El acuerdo de aplazamiento se hará constar en los documentos que hubiesen determinado la liquidación del tributo y por virtud de los cuales deba practicarse la inscripción en el registro.
+
 
 <div></div>
 
-    1. Dichos documentos y el mandamiento de anotación preventiva de embargo serán presentados al registrador de la propiedad, el cual, una vez practicada la inscripción del derecho del obligado al pago con la mención de que el pago de la liquidación queda aplazado, procederá de forma inmediata a anotar el embargo.
+&#x20;   1. Dichos documentos y el mandamiento de anotación preventiva de embargo serán presentados al registrador de la propiedad, el cual, una vez practicada la inscripción del derecho del obligado al pago con la mención de que el pago de la liquidación queda aplazado, procederá de forma inmediata a anotar el embargo.
+
 
 <div></div>
 
-    1. Si la liquidación del tributo se practicó sobre documentos que no pudieran ser objeto de inscripción por ser copias no auténticas de los originales o matrices, se solicitará de los notarios o funcionarios que hubieran autorizado aquellos documentos la expedición de copia auténtica en la cual se consignará el acuerdo de aplazamiento.
+&#x20;   1. Si la liquidación del tributo se practicó sobre documentos que no pudieran ser objeto de inscripción por ser copias no auténticas de los originales o matrices, se solicitará de los notarios o funcionarios que hubieran autorizado aquellos documentos la expedición de copia auténtica en la cual se consignará el acuerdo de aplazamiento.
+
 
 <div></div>
 
-    1. Cuando se produzca la enajenación de los bienes embargados, el precio obtenido se aplicará a pagar la liquidación y demás responsabilidades que procedan, incluidos los intereses de demora que puedan devengarse hasta que concluya la ejecución y a las costas de esta. El documento acreditativo de dicha aplicación será presentado en el registro y producirá la cancelación del embargo y de las notas de aplazamiento. En el documento público de venta se harán constar tales extremos.
+&#x20;   1. Cuando se produzca la enajenación de los bienes embargados, el precio obtenido se aplicará a pagar la liquidación y demás responsabilidades que procedan, incluidos los intereses de demora que puedan devengarse hasta que concluya la ejecución y a las costas de esta. El documento acreditativo de dicha aplicación será presentado en el registro y producirá la cancelación del embargo y de las notas de aplazamiento. En el documento público de venta se harán constar tales extremos.
+
 
 Si se acuerda la adjudicación de bienes a la Hacienda pública o al ente público acreedor, el documento acreditativo de la adjudicación producirá los mismos efectos que los indicados en el apartado anterior.
 
-### Artículo 85. _Requisitos de los mandamientos para la anotación preventiva de los embargos de bienes inmuebles y de derechos sobre estos._
+### Artículo 85. *Requisitos de los mandamientos para la anotación preventiva de los embargos de bienes inmuebles y de derechos sobre estos.*
 
 Los mandamientos para la anotación preventiva de embargo contendrán:
 
-    1. Certificación de la providencia de apremio y de la diligencia de embargo del inmueble 
+&#x20;   1. Certificación de la providencia de apremio y de la diligencia de embargo del inmueble 
+
 
 1. inmuebles de que se trate, con indicación de las personas o entidades a las que se ha notificado el embargo y el concepto en el que se les ha practicado dicha notificación.
 
-    1. Descripción del derecho que tenga el obligado al pago sobre los bienes embargados.
+   1. Descripción del derecho que tenga el obligado al pago sobre los bienes embargados.
 
 <div></div>
 
-    1. Nombre y apellidos o razón social o denominación completa, en su caso, del poseedor de las fincas a las que se refiera la notificación.
+&#x20;   1. Nombre y apellidos o razón social o denominación completa, en su caso, del poseedor de las fincas a las que se refiera la notificación.
+
 
 <div></div>
 
-    1. El importe total del débito, concepto o conceptos a que corresponda, e importe de la responsabilidad a que se afecta el inmueble por principal, recargos, intereses y costas.
+&#x20;   1. El importe total del débito, concepto o conceptos a que corresponda, e importe de la responsabilidad a que se afecta el inmueble por principal, recargos, intereses y costas.
+
 
 <div></div>
 
-    1. Que la anotación deberá hacerse a favor del acreedor.
+&#x20;   1. Que la anotación deberá hacerse a favor del acreedor.
+
 
 <div></div>
 
-    1. Expresión de que la Administración no puede facilitar, en el momento de la expedición del mandamiento, más datos respecto de los bienes embargados que los contenidos en este.
+&#x20;   1. Expresión de que la Administración no puede facilitar, en el momento de la expedición del mandamiento, más datos respecto de los bienes embargados que los contenidos en este.
 
-### Artículo 86. _Presentación de los mandamientos en el Registro de la Propiedad._
 
-    1. Los mandamientos se presentarán por triplicado en los Registros de la Propiedad. Los registradores devolverán en el acto uno de los ejemplares con nota de referencia al asiento de presentación del mandamiento y otro, en su día, con la nota acreditativa de haber quedado extendida la anotación oportuna o de no haber podido practicarse, expresando detalladamente, en este caso, no sólo los defectos advertidos, sino también la forma y medio de subsanarlos. El tercer ejemplar del mandamiento quedará archivado en el registro.
+### Artículo 86. *Presentación de los mandamientos en el Registro de la Propiedad.*
+
+&#x20;   1. Los mandamientos se presentarán por triplicado en los Registros de la Propiedad. Los registradores devolverán en el acto uno de los ejemplares con nota de referencia al asiento de presentación del mandamiento y otro, en su día, con la nota acreditativa de haber quedado extendida la anotación oportuna o de no haber podido practicarse, expresando detalladamente, en este caso, no sólo los defectos advertidos, sino también la forma y medio de subsanarlos. El tercer ejemplar del mandamiento quedará archivado en el registro.
+
 
 2. Si la finca o fincas no constasen inscritas o no fuese posible extender la anotación por defecto subsanable, se tomará razón del embargo y se hará constar así en la contestación al mandamiento.
 3. La presentación de los mandamientos al registro podrá efectuarse por fax o por medios telemáticos en la forma determinada por la normativa aplicable.
 4. Cuando lo exijan las actuaciones del procedimiento de apremio, se presentará mandamiento en el que se solicite la prórroga de las anotaciones preventivas de embargo de acuerdo con lo dispuesto en la legislación hipotecaria.
 
-### Artículo 87. _Incidencias en las anotaciones preventivas de embargo en el Registro de la Propiedad._
+### Artículo 87. *Incidencias en las anotaciones preventivas de embargo en el Registro de la Propiedad.*
 
 1. En el caso de que los registradores de la propiedad devuelvan el mandamiento en el que manifiesten haber suspendido la anotación por defecto subsanable, se procederá a subsanarlo en el acto, si es posible, o en un momento posterior, dentro del plazo establecido en la legislación registral.
 2. Con el fin de evitar la caducidad de la anotación efectuada por defectos subsanables establecida en la legislación hipotecaria, el órgano de recaudación competente solicitará, si es necesario, la prórroga que en aquella se autoriza.
 3. En caso de disconformidad con la decisión del registrador, se trasladarán las actuaciones al órgano con funciones de asesoramiento jurídico a efectos de la interposición, si procede, de recurso contra la calificación registral.
 
-### Artículo 88. _Contestaciones de los registradores._
+### Artículo 88. *Contestaciones de los registradores.*
 
 1. Los registradores de la propiedad practicarán los asientos que procedan y expedirán las certificaciones que interesen al procedimiento ejecutivo dentro de los plazos establecidos en la legislación hipotecaria.
 
@@ -2338,19 +2413,19 @@ Al expediente de apremio quedarán unidas la contestación del registrador de la
 2. La Hacienda pública podrá ejercitar las acciones civiles que la ley autoriza para obtener la indemnización de daños y perjuicios a que pudiera dar lugar la dilación injustificada de los registradores en la práctica de los servicios que les encomienda este reglamento.
 3. Las dilaciones reiteradas que entorpezcan el procedimiento de recaudación serán comunicadas al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria para su traslado a la Dirección General de los Registros y del Notariado a los efectos que procedan.
 
-### Artículo 88 bis. _Prohibición de disposición de bienes inmuebles por embargo de acciones y participaciones._
+### Artículo 88 bis. *Prohibición de disposición de bienes inmuebles por embargo de acciones y participaciones.*
 
 1. A los efectos de la aplicación de las prohibiciones de disposición a que se refiere el artículo 170.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, la Administración solicitará que se practique anotación preventiva de la prohibición de disposición sobre los bienes inmuebles y derechos sobre estos en el Registro de la Propiedad que corresponda, sobre la base de un título cuya vigencia vendrá determinada por la del propio embargo del que trae causa.
 2. A tal efecto, el órgano de recaudación competente expedirá mandamiento dirigido al registrador con sujeción a lo dispuesto en el citado artículo 170.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, en la legislación hipotecaria y a lo que se establece en los artículos 84 y siguientes de este reglamento en lo que resulten de aplicación.
 
-### Artículo 89. _Embargo de intereses, rentas y frutos de toda especie._
+### Artículo 89. *Embargo de intereses, rentas y frutos de toda especie.*
 
 1. Cuando se embarguen intereses, rentas y frutos del obligado al pago que se materialicen en pagos en dinero, la diligencia de embargo se notificará a la persona o entidad pagadora, que deberá retenerlos e ingresarlos en el Tesoro hasta cubrir la cantidad adeudada.
 2. Cuando los frutos o rentas a embargar sean los correspondientes a los derechos de explotación de una obra protegida por el texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, aquellos se considerarán salarios según lo que establece dicha ley y el embargo se realizará de acuerdo con lo dispuesto en el artículo 82 de este reglamento.
 3. Si lo embargado fuesen frutos o rentas obtenidos por empresas o actividades comerciales, industriales y agrícolas, se podrá nombrar un administrador o interventor de acuerdo con lo dispuesto en el artículo 170.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 4. Si los frutos están asegurados, se notificará a la entidad aseguradora el embargo de las indemnizaciones o prestaciones que correspondan en caso de siniestro, las cuales deberán ingresarse en el Tesoro una vez ocurrido este.
 
-### Artículo 90. _Embargo de establecimientos mercantiles e industriales._
+### Artículo 90. *Embargo de establecimientos mercantiles e industriales.*
 
 1. El embargo de establecimientos mercantiles e industriales se iniciará mediante personación en los establecimientos o en el domicilio de la persona o entidad a que pertenezcan.
 2. Del resultado de la actuación de embargo, sea positivo o negativo, se extenderá la correspondiente diligencia en la que se harán constar inventariados todos los bienes y derechos existentes en cada establecimiento embargado, así como los que se embargan.
@@ -2394,7 +2469,7 @@ Al expediente de apremio quedarán unidas la contestación del registrador de la
 
 7. La enajenación de los establecimientos mercantiles e industriales se llevará a cabo por el procedimiento establecido en la subsección 5.ª de esta sección.
 
-### Artículo 91. _Embargo de metales preciosos, piedras finas, joyería, orfebrería, antigüedades y otros objetos de valor histórico o artístico._
+### Artículo 91. *Embargo de metales preciosos, piedras finas, joyería, orfebrería, antigüedades y otros objetos de valor histórico o artístico.*
 
 1. El embargo de metales preciosos, piedras finas, joyería, orfebrería, antigüedades y otros objetos de valor histórico o artístico, se realizará por el órgano de recaudación competente, mediante su detalle en diligencia y con la adopción de las precauciones necesarias para impedir su sustitución o levantamiento por medio de precintos o en la forma más conveniente.
 
@@ -2402,7 +2477,7 @@ Se procederá a su depósito de acuerdo con lo establecido en los artículos 94 
 
 2. Cuando dichos bienes se encuentren en locales de personas o entidades distintas del obligado al pago, se estará a lo dispuesto en el artículo 76.1.
 
-### Artículo 92. _Embargo de los restantes bienes muebles y semovientes._
+### Artículo 92. *Embargo de los restantes bienes muebles y semovientes.*
 
 1. El embargo de los restantes bienes muebles y semovientes se llevará a efecto mediante personación en el domicilio del obligado al pago o, en su caso, en el lugar donde se encuentren los bienes.
 2. Del resultado de la actuación se extenderá la correspondiente diligencia en la que se habrán de identificar los bienes embargados. Si no se depositan los bienes de forma inmediata, se procederá al precintado u otras medidas de aseguramiento que procedan.
@@ -2410,7 +2485,7 @@ Se procederá a su depósito de acuerdo con lo establecido en los artículos 94 
 4. Cuando se trate de automóviles, camiones, motocicletas, embarcaciones, aeronaves u otros vehículos, se notificará el embargo al obligado al pago requiriéndole para que en un plazo de cinco días lo ponga a disposición de los órganos de recaudación competentes, con su documentación y llaves. Si no lo efectúa ni se localiza el bien, se dará orden a las autoridades que tengan a su cargo la vigilancia de la circulación y a las demás que proceda, para la captura, depósito y precinto de los bienes citados, y se continuarán en este caso las actuaciones de embargo en relación con otros bienes o derechos del obligado.
 5. Cuando se trate del embargo de bienes adquiridos por el sistema de ventas a plazo, se tendrán en cuenta las disposiciones de su normativa reguladora.
 
-### Artículo 93. _Embargo de créditos, efectos, valores y derechos realizables a largo plazo._
+### Artículo 93. *Embargo de créditos, efectos, valores y derechos realizables a largo plazo.*
 
 1. Para el embargo de créditos, derechos y valores realizables a largo plazo, se seguirá el procedimiento establecido en los artículos 80 y 81.
 2. En los términos del artículo 8.8 y 10 del texto refundido de la Ley de planes y fondos de pensiones, aprobado por el Real Decreto Legislativo 1/2002, de 29 de noviembre, será embargable el derecho a las prestaciones del partícipe en un plan de pensiones, pero el embargo no se ejecutará hasta que se cause el derecho a la prestación o se haga efectivo el derecho por concurrir los supuestos de enfermedad grave o desempleo de larga duración previstos en dicha norma.
@@ -2421,7 +2496,7 @@ En caso de que se produzca la movilización de los derechos consolidados a otro 
 
 ## Subsección 4.ª Normas sobre depósito de los bienes embargados
 
-### Artículo 94. _Depósito de bienes embargados._
+### Artículo 94. *Depósito de bienes embargados.*
 
 1. Los órganos de recaudación competentes designarán, en su caso, el lugar en que los bienes embargados deban ser depositados hasta su realización, según los criterios que se fijan en este artículo sin perjuicio de lo establecido en el artículo 92.4.
 2. Los bienes que al ser embargados se encuentren en entidades de crédito u otras que, a juicio de los órganos de recaudación competentes, ofrezcan garantías de seguridad y solvencia, seguirán depositados en aquellas a disposición de dichos órganos.
@@ -2439,42 +2514,48 @@ En caso de que se produzca la movilización de los derechos consolidados a otro 
 
 1. En recintos o locales de empresas dedicadas habitualmente al depósito.
 
-    1. En defecto de los anteriores, en recintos o locales de personas o entidades, distintas del obligado al pago, que ofrezcan garantías de seguridad y solvencia.
+   1. En defecto de los anteriores, en recintos o locales de personas o entidades, distintas del obligado al pago, que ofrezcan garantías de seguridad y solvencia.
 
 <div></div>
 
-    1. En recintos o locales del obligado al pago cuando así se considere oportuno o cuando se trate de bienes de difícil transporte o movilidad; en este caso, se procederá a su precinto 
+&#x20;   1. En recintos o locales del obligado al pago cuando así se considere oportuno o cuando se trate de bienes de difícil transporte o movilidad; en este caso, se procederá a su precinto 
+
 
 1. a la adopción de medidas que garanticen su seguridad e integridad, quedando el obligado al pago sujeto a los deberes y responsabilidades del depositario citados en el artículo 96. En este caso, el depósito se considerará necesario sin que pueda oponerse el obligado al pago.
 
-    4. En los casos del apartado 3.c) y d), las relaciones entre la Administración y el depositario se regirán por la legislación de contratos de las Administraciones públicas en los aspectos no previstos en esta subsección.
+   4. En los casos del apartado 3.c) y d), las relaciones entre la Administración y el depositario se regirán por la legislación de contratos de las Administraciones públicas en los aspectos no previstos en esta subsección.
 
-### Artículo 95. _Funciones del depositario._
+### Artículo 95. *Funciones del depositario.*
 
-    1. El depositario está obligado a custodiar y conservar los bienes embargados y a devolverlos cuando sea requerido para ello. En el desempeño de tal cometido deberá actuar con la diligencia debida.
+&#x20;   1. El depositario está obligado a custodiar y conservar los bienes embargados y a devolverlos cuando sea requerido para ello. En el desempeño de tal cometido deberá actuar con la diligencia debida.
+
 
 Cuando las funciones del depositario impliquen actos que excedan de la mera custodia, conservación y devolución de los bienes embargados, tales actuaciones precisarán autorización del órgano de recaudación competente.
 
-    2. Cuando en los supuestos de embargo de establecimientos mercantiles e industriales y de intereses, frutos y rentas de toda especie se hubiera nombrado un depositario o administrador, sus funciones, además de las señaladas en el apartado 1, comprenderán las habituales de gestión de bienes y negocios, y deberá ingresar en el Tesoro las cantidades resultantes.
+&#x20;   2. Cuando en los supuestos de embargo de establecimientos mercantiles e industriales y de intereses, frutos y rentas de toda especie se hubiera nombrado un depositario o administrador, sus funciones, además de las señaladas en el apartado 1, comprenderán las habituales de gestión de bienes y negocios, y deberá ingresar en el Tesoro las cantidades resultantes.
+
 
 El nombramiento como depositario fijará la clase y la cuantía de las operaciones que requerirán autorización del órgano de recaudación.
 
-### Artículo 96. _Derechos, deberes y responsabilidad del depositario de bienes embargados._
+### Artículo 96. *Derechos, deberes y responsabilidad del depositario de bienes embargados.*
 
-    1. El depositario, salvo en los casos en que lo sea el propio obligado al pago, tiene derecho a la retribución convenida por la prestación de sus servicios y al reembolso de los gastos que haya soportado por razón del depósito, cuando no estén incluidos en dicha retribución.
+&#x20;   1. El depositario, salvo en los casos en que lo sea el propio obligado al pago, tiene derecho a la retribución convenida por la prestación de sus servicios y al reembolso de los gastos que haya soportado por razón del depósito, cuando no estén incluidos en dicha retribución.
     2. Además de los deberes inherentes a sus funciones como depositario y, en su caso, como administrador, tiene el deber de rendir las cuentas que le sean ordenadas por los órganos de recaudación competentes y cumplir las medidas que sean acordadas por estos para la mejor administración y conservación de los bienes.
     3. El depositario que incumpla las obligaciones que le incumben como tal podrá ser declarado responsable solidario de la deuda en los términos establecidos en el artículo 42.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin perjuicio de la responsabilidad civil o penal que le corresponda.
 
+
 ## Subsección 5.ª Enajenación de los bienes embargados
 
-### Artículo 97. _Valoración y fijación del tipo._
+### Artículo 97. *Valoración y fijación del tipo.*
 
-    1. Los órganos de recaudación competentes procederán a valorar los bienes embargados a precios de mercado y de acuerdo con los criterios habituales de valoración.
+&#x20;   1. Los órganos de recaudación competentes procederán a valorar los bienes embargados a precios de mercado y de acuerdo con los criterios habituales de valoración.
     2. Cuando, a juicio de dichos órganos, se requieran especiales conocimientos, la valoración podrá efectuarse por otros servicios técnicos de la Administración o por servicios externos especializados.
+
 
 Los órganos de recaudación competentes podrán mantener un fichero actualizado de expertos en valoración de los diferentes tipos de bienes susceptibles de embargo.
 
-    3. La valoración será notificada al obligado al pago, que, en caso de discrepancia, podrá presentar valoración contradictoria realizada por perito adecuado en el plazo de 15 días contados a partir del día siguiente al de la notificación.
+&#x20;   3. La valoración será notificada al obligado al pago, que, en caso de discrepancia, podrá presentar valoración contradictoria realizada por perito adecuado en el plazo de 15 días contados a partir del día siguiente al de la notificación.
+
 
 Si la diferencia entre ambas, considerando la suma de los valores asignados por cada una a la totalidad de los bienes, no excede del 20 por ciento de la menor, se estimará como valor de los bienes el de la tasación más alta.
 
@@ -2522,25 +2603,25 @@ A efectos de lo dispuesto en este apartado, el coeficiente corrector de valor se
 
 Las cargas y gravámenes anteriores quedarán subsistentes sin aplicar a su extinción el precio del remate.
 
-8. Si apareciesen indicios de que todas o algunas de las cargas son simuladas y su importe pudiera impedir o dificultar la efectividad del débito, se remitirán las actuaciones al 
+8. Si apareciesen indicios de que todas o algunas de las cargas son simuladas y su importe pudiera impedir o dificultar la efectividad del débito, se remitirán las actuaciones al
 
 órgano con funciones de asesoramiento jurídico para que informe sobre las medidas que procedan, incluida la exigencia de responsabilidad civil o penal.
 
 En tanto se resuelve, continuará el procedimiento sobre dichos bienes o sobre los demás que puedan ser embargados.
 
-### Artículo 98. _Títulos de propiedad._
+### Artículo 98. *Títulos de propiedad.*
 
 1. Si al ser notificado el embargo los obligados al pago no hubiesen facilitado los títulos de propiedad de los bienes inmuebles, créditos hipotecarios, derechos reales embargados o cualquier otro tipo de bien o derecho embargado, en el caso de que éstos no constasen inscritos en el Registro de la Propiedad, el órgano de recaudación competente, al tiempo de fijar el tipo para la subasta, les requerirá para que los aporten en el plazo de tres días contados a partir del día siguiente al de la notificación del requerimiento si residen en la propia localidad, y en el de 15 días si residen fuera.
 2. Cuando no existan títulos de dominio inscritos ni los obligados al pago los presentasen, los rematantes de los bienes deberán, si les interesa, sustituirlos por los medios establecidos en el título VI de la Ley Hipotecaria para llevar a cabo la concordancia entre el registro y la realidad jurídica, incumbiéndoles instar el procedimiento que corresponda, sin que el Estado contraiga otra obligación a este respecto que la de otorgar, si el obligado al pago no lo hace, el documento público de venta.
 
-### Artículo 99. _Formación de lotes y orden para su enajenación._
+### Artículo 99. *Formación de lotes y orden para su enajenación.*
 
 1. Los bienes trabados podrán ser distribuidos en lotes, integrando en cada uno de estos los que sean de análoga naturaleza, según sus características y el aprovechamiento o servicio de que sean susceptibles.
 2. Igualmente podrán formarse lotes, aunque no se trate de bienes de naturaleza análoga, cuando se estime conveniente a fin de obtener mayores facilidades para la concurrencia de licitadores.
 3. Podrá formarse un solo lote con aquellos bienes embargados que estén gravados con una misma hipoteca u otra carga o gravamen de naturaleza real o cuando se trate de enajenar derechos sobre un mismo bien cuya titularidad corresponda a varios deudores.
 4. Una vez efectuada la valoración y la formación de lotes, se procederá a la enajenación observándose el orden establecido para el embargo en el artículo 169.2, segundo párrafo, de la Ley 58/2003, de 17 de diciembre, General Tributaria. La aparición posterior de otros bienes no afectará a la validez de las enajenaciones ya realizadas, aunque se trate de bienes anteriores en el orden de embargo.
 
-### Artículo 100. _Formas de enajenación._
+### Artículo 100. *Formas de enajenación.*
 
 1. Las formas de enajenación de los bienes o derechos embargados serán la subasta pública, concurso o adjudicación directa, salvo los procedimientos específicos de realización de determinados bienes o derechos que se regulan en este reglamento.
 2. El procedimiento ordinario de adjudicación de bienes embargados será la subasta pública que procederá siempre que no sea expresamente aplicable otra forma de enajenación.
@@ -2549,11 +2630,11 @@ La subasta de los bienes será única y se realizará por medios electrónicos e
 
 3. Cuando se trate de géneros, artículos o mercancías intervenidos por el Estado, estancados o sujetos a algún tipo de cautelas en su transmisión, el órgano de recaudación procederá según lo que establezcan las disposiciones aplicables a la materia.
 4. Los interesados podrán participar en los procedimientos de enajenación de los bienes embargados a través de los medios electrónicos, informáticos y telemáticos que se aprueben por el órgano competente.
-5. La Administración tributaria, en el marco de la colaboración social en la aplicación de los tributos, podrá instrumentar acuerdos con instituciones u organizaciones representativas de entidades del sector de la mediación en el mercado inmobiliario o con las propias 
+5. La Administración tributaria, en el marco de la colaboración social en la aplicación de los tributos, podrá instrumentar acuerdos con instituciones u organizaciones representativas de entidades del sector de la mediación en el mercado inmobiliario o con las propias
 
 entidades, que tengan por objeto su participación en los procedimientos de enajenación de bienes que se realicen en el procedimiento de apremio.
 
-### Artículo 101. _Acuerdo de enajenación y anuncio de la subasta._
+### Artículo 101. *Acuerdo de enajenación y anuncio de la subasta.*
 
 1. El órgano de recaudación competente acordará la enajenación mediante subasta de los bienes embargados que estime bastantes para cubrir suficientemente el débito perseguido y las costas del procedimiento y se evitará, en lo posible, la venta de los de valor notoriamente superior al de los débitos, sin perjuicio de que posteriormente autorice la enajenación de los que sean precisos.
 
@@ -2602,12 +2683,12 @@ Los datos esenciales a los que hace referencia este apartado 4 podrán ser publi
 
 La celebración de la subasta también podrá anunciarse en medios de comunicación de gran difusión, en publicaciones especializadas y en cualquier otro medio adecuado al efecto cuando el órgano de recaudación competente así lo acuerde.
 
-### Artículo 102. _Subastas de bienes agrupados y simultáneas._
+### Artículo 102. *Subastas de bienes agrupados y simultáneas.*
 
 1. Los órganos de recaudación competentes podrán acordar la celebración de subastas en las que se agrupen bienes correspondientes a acuerdos de enajenación adoptados por distintos órganos de su ámbito territorial.
 2. Cuando las circunstancias lo aconsejen y ello sea posible, el órgano de recaudación competente podrá autorizar, asimismo, la acumulación de enajenaciones de bienes que deba llevar a cabo con otras Administraciones Públicas.
 
-### Artículo 103. _Licitadores._
+### Artículo 103. *Licitadores.*
 
 1. Con excepción del personal adscrito al órgano de recaudación competente, de los tasadores, de los depositarios de los bienes y de los funcionarios directamente implicados en el procedimiento de apremio, podrá tomar parte en la subasta o concurso o adjudicación directa, por si o por medio de representante, cualquier persona que posea capacidad de obrar con arreglo a derecho y que no tenga para ello impedimento o restricción legal, siempre que se identifique adecuadamente.
 2. Una vez abierta la subasta en el Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado solamente se podrán realizar pujas electrónicas.
@@ -2618,7 +2699,7 @@ En todo caso se advertirá a quien pretenda darse de alta como usuario, de las c
 
 3. Cuando la participación en la subasta se lleve a cabo en virtud de la colaboración social a la que se refiere el artículo 100.5, el licitador, en el momento de su acreditación, podrá manifestar que en el caso de resultar adjudicatario se reserva el derecho a ceder dicho remate a un tercero para que el documento público de venta pueda otorgarse directamente a favor del cesionario.
 
-### Artículo 103 bis. _El Depósito obligatorio._
+### Artículo 103 bis. *El Depósito obligatorio.*
 
 1. Todo licitador, para ser admitido como tal, deberá constituir el siguiente depósito:
 
@@ -2635,13 +2716,13 @@ En todo caso se advertirá a quien pretenda darse de alta como usuario, de las c
 
 Las cantidades depositadas que hubieran sido reservadas quedarán disponibles una vez cumplida la obligación por el rematante o adjudicatario de satisfacer el resto del precio de adjudicación.
 
-### Artículo 103 ter. _La Mesa de subasta._
+### Artículo 103 ter. *La Mesa de subasta.*
 
 1. La Mesa estará compuesta por el presidente, el secretario y uno o más vocales, designados entre funcionarios en la forma que se establezca en la norma de organización específica.
 2. Tratándose de subastas a las que se refiere el artículo 102.1 de este reglamento, se formará una única Mesa cuya composición será acorde con lo señalado anteriormente y que designará entre sus vocales representantes de los distintos órganos afectados.
 3. En caso de subastas realizadas conforme al artículo 102.2 de este reglamento, entre los miembros de la Mesa habrá al menos un representante de cada órgano u órganos de recaudación competentes.
 
-### Artículo 104. _Desarrollo de la subasta._
+### Artículo 104. *Desarrollo de la subasta.*
 
 1. La subasta comenzará en la fecha señalada en el anuncio de la subasta, de conformidad con lo dispuesto en el artículo 101.3 de este reglamento.
 
@@ -2656,7 +2737,7 @@ La subasta no se cerrará hasta que haya transcurrido una hora desde la realizac
 
 4. En cualquier momento anterior a la emisión de la certificación del acta de adjudicación de bienes, o en su caso, al otorgamiento de la escritura pública de venta, podrá el deudor liberar sus bienes pagando íntegramente la cuantía establecida en el artículo 169.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-### Artículo 104 bis. _Finalización, adjudicación y pago._
+### Artículo 104 bis. *Finalización, adjudicación y pago.*
 
 1. Finalizada la fase de presentación de ofertas la Mesa se reunirá en el plazo máximo de 15 días naturales y procederá a adjudicar los bienes o lotes subastados o declarar desierta la subasta conforme a las siguientes reglas:
 
@@ -2692,7 +2773,7 @@ Si transcurrido el plazo regulado en la letra b) del apartado 3 de este artícul
 
 <div></div>
 
-1. Ingresado el remate se entregará a los adjudicatarios, salvo en los supuestos en que hayan optado por el otorgamiento de escritura pública de venta previsto en el artículo 111.1 de este reglamento, certificación del acta de adjudicación de los bienes, en la que habrá de constar, además de la transcripción de la propia acta en lo que se refiere al bien adjudicado y al adjudicatario, la acreditación de haberse efectuado el pago del remate y de haberse 
+1. Ingresado el remate se entregará a los adjudicatarios, salvo en los supuestos en que hayan optado por el otorgamiento de escritura pública de venta previsto en el artículo 111.1 de este reglamento, certificación del acta de adjudicación de los bienes, en la que habrá de constar, además de la transcripción de la propia acta en lo que se refiere al bien adjudicado y al adjudicatario, la acreditación de haberse efectuado el pago del remate y de haberse
 
 emitido en conformidad informe por parte del órgano con funciones de asesoramiento jurídico sobre la observancia de las formalidades legales en el procedimiento de apremio, cuando haya sido solicitado por el órgano de recaudación y, en todo caso, cuando la adjudicación recaiga sobre bienes o derechos inscribibles en el Registro de la Propiedad.
 
@@ -2704,7 +2785,7 @@ Igualmente se depositará el sobrante cuando existan titulares de derechos poste
 
 4. Si finalizados los procedimientos de enajenación, y en su caso, adjudicación a la Hacienda Pública, quedaran bienes o derechos sin adjudicar, los mismos podrán ser objeto de nuevos procedimientos de enajenación siempre que no se haya producido la prescripción de la acción de cobro de las deudas respecto a las cuales se desarrollan dichos procedimientos.
 
-### Artículo 105. _Subastas a través de empresas o profesionales especializados._
+### Artículo 105. *Subastas a través de empresas o profesionales especializados.*
 
 1. El órgano de recaudación competente podrá encargar la ejecución material de las subastas a empresas o profesionales especializados.
 2. Será aplicable en tales casos lo dispuesto para las subastas en esta subsección, con las particularidades siguientes:
@@ -2733,7 +2814,7 @@ La celebración de la subasta también podrá anunciarse en medios de comunicaci
 
 3. El representante de la Mesa extenderá diligencia en que se hagan constar los elementos esenciales de la subasta. A partir de ese momento, la Mesa de subasta actuará conforme al artículo 104.
 
-### Artículo 106. _Enajenación por concurso._
+### Artículo 106. *Enajenación por concurso.*
 
 1. La enajenación de bienes embargados sólo podrá celebrarse por concurso:
 
@@ -2744,7 +2825,7 @@ La celebración de la subasta también podrá anunciarse en medios de comunicaci
 <div></div>
 
 1. Cuando existan otras razones de interés público debidamente justificadas.
-2. El concurso deberá ser autorizado por el órgano competente y su convocatoria se publicará en el Boletín Oficial del Estado y en el boletín oficial correspondiente a la demarcación territorial del órgano de recaudación al que este adscrito el obligado al pago. En dicha convocatoria se señalarán los bienes objeto de enajenación, el plazo y las condiciones para concurrir, la forma de pago y el depósito a realizar. Asimismo, se 
+2. El concurso deberá ser autorizado por el órgano competente y su convocatoria se publicará en el Boletín Oficial del Estado y en el boletín oficial correspondiente a la demarcación territorial del órgano de recaudación al que este adscrito el obligado al pago. En dicha convocatoria se señalarán los bienes objeto de enajenación, el plazo y las condiciones para concurrir, la forma de pago y el depósito a realizar. Asimismo, se
 
 señalarán, si las hubiese, las condiciones especiales del concurso, referidas tanto a los requisitos de los concursantes como a la retirada y utilización de los bienes enajenados.
 
@@ -2756,7 +2837,7 @@ La adjudicación se hará a la oferta más ventajosa, teniendo en cuenta no sól
 
 En caso de que el concurso se declare desierto podrá procederse posteriormente a la adjudicación directa.
 
-### Artículo 107. _Enajenación mediante adjudicación directa._
+### Artículo 107. *Enajenación mediante adjudicación directa.*
 
 1. Procederá la adjudicación directa de los bienes o derechos embargados:
 
@@ -2803,15 +2884,15 @@ Si las ofertas no alcanzan los valores señalados, los bienes podrán adjudicars
 9. En lo no previsto expresamente, se estará a lo establecido para la enajenación por subasta en lo que resulte aplicable. En particular, se advertirá al adjudicatario que si no satisface el precio de remate en el plazo establecido al efecto, puede incurrir en responsabilidad por los perjuicios que ocasione la falta de pago.
 10. Transcurrido el trámite de adjudicación directa, se adjudicará el bien o derecho a cualquier interesado que satisfaga el importe del tipo del concurso realizado antes de que se acuerde la adjudicación de los bienes o derechos a la Hacienda pública.
 
-## Subsección 6.ª Adjudicación de bienes y derechos a la Hacienda Pública y 
+## Subsección 6.ª Adjudicación de bienes y derechos a la Hacienda Pública y
 
 actuaciones posteriores a la enajenación
 
-### Artículo 108. _Competencia._
+### Artículo 108. *Competencia.*
 
 Serán competentes para adjudicar bienes o derechos a la Hacienda pública en pago de deudas no cubiertas en el curso del procedimiento de apremio los órganos que establezca la norma de organización específica.
 
-### Artículo 109. _Adjudicación de bienes y derechos._
+### Artículo 109. *Adjudicación de bienes y derechos.*
 
 1. Cuando en el procedimiento de enajenación regulado en la anterior subsección no se hubieran adjudicado alguno o algunos de los bienes embargados, el órgano de recaudación competente podrá proponer de forma motivada al órgano competente su adjudicación a la Hacienda pública en pago de las deudas no cubiertas.
 
@@ -2825,7 +2906,7 @@ Si las cargas o gravámenes son superiores, el órgano competente consultará a 
 
 El citado centro directivo contestará a la consulta en el plazo de tres meses. Si no contesta en dicho plazo o la contestación es denegatoria, no se acordará la adjudicación.
 
-En caso de contestación afirmativa, el órgano competente acordará la adjudicación. En las resoluciones en que se acuerde la adjudicación a la Hacienda pública se hará 
+En caso de contestación afirmativa, el órgano competente acordará la adjudicación. En las resoluciones en que se acuerde la adjudicación a la Hacienda pública se hará
 
 constar, además, que los titulares de cargas reales verán disminuido el importe de sus créditos con los débitos, si para la efectividad de estos el Estado tiene derecho de hipoteca legal tácita.
 
@@ -2835,12 +2916,12 @@ La adjudicación a la Hacienda pública con disminución de los créditos citado
 
 3. Si se trata de bienes muebles cuya adjudicación se presuma que puede interesar a la Hacienda pública, el órgano competente podrá acordar dicha adjudicación, una vez tenida en cuenta la previsible utilidad que pudiera reportar a aquella y consultado, en su caso, el órgano o entidad de derecho público que pudiera utilizar dichos bienes.
 
-### Artículo 110. _Inscripción y cancelación de cargas._
+### Artículo 110. *Inscripción y cancelación de cargas.*
 
 1. Los bienes inmuebles adjudicados a la Hacienda pública serán inscritos en el Registro de la Propiedad en virtud de certificación expedida por el órgano de recaudación competente, en la que se harán constar las actuaciones del expediente y los datos necesarios para dicha inscripción, en cumplimiento de lo que dispone el artículo 26 Reglamento Hipotecario, aprobado por el Decreto de 14 de febrero de 1947.
 2. Asimismo, se expedirá mandamiento de cancelación de las cargas posteriores con relación a los créditos ejecutados, de acuerdo con lo dispuesto en el artículo 175, regla 2.ª, del reglamento citado.
 
-### Artículo 111. _Escritura pública de venta y cancelación de cargas._
+### Artículo 111. *Escritura pública de venta y cancelación de cargas.*
 
 1. Una vez notificada la adjudicación, el adjudicatario podrá solicitar el otorgamiento de escritura pública de venta del inmueble.
 
@@ -2856,13 +2937,13 @@ Si no comparecieran a la citación, se otorgarán de oficio tales escrituras a f
 
 3. Asimismo, se expedirá mandamiento de cancelación de las cargas posteriores con relación a los créditos ejecutados, de acuerdo con lo dispuesto en el artículo 175, regla 2.ª, del Reglamento Hipotecario.
 
-### Artículo 112. _Levantamiento de embargo._
+### Artículo 112. *Levantamiento de embargo.*
 
 Una vez cubiertos el débito, intereses y costas del procedimiento, el órgano de recaudación levantará el embargo sobre los bienes no enajenados y acordará su entrega al obligado al pago.
 
 ## Subsección 7.ª Costas del procedimiento de apremio
 
-### Artículo 113. _Costas del procedimiento de apremio._
+### Artículo 113. *Costas del procedimiento de apremio.*
 
 1. Tienen la consideración de costas del procedimiento de apremio los gastos que se originen durante su desarrollo. Estas costas serán exigidas al obligado al pago.
 2. Están comprendidos en el concepto de costas del procedimiento los siguientes gastos:
@@ -2895,7 +2976,7 @@ Una vez cubiertos el débito, intereses y costas del procedimiento, el órgano d
 
 3. No podrán incluirse como costas los gastos ordinarios de los órganos de la Administración.
 
-### Artículo 114. _Honorarios y gastos de depósito y administración._
+### Artículo 114. *Honorarios y gastos de depósito y administración.*
 
 1. Las empresas o profesionales devengarán sus honorarios con arreglo a la tarifa que oficialmente tengan establecida o de acuerdo con la cuantía que se haya estipulado en el contrato celebrado con la Administración.
 
@@ -2923,7 +3004,7 @@ El pago de dichos honorarios se efectuará una vez realizada la enajenación de 
 
 El pago de los servicios a que se refiere este apartado se realizará una vez prestados, de acuerdo con las normas sobre procedimiento de gastos y pagos públicos.
 
-### Artículo 115. _Liquidación de las costas._
+### Artículo 115. *Liquidación de las costas.*
 
 1. En la liquidación definitiva de cada expediente de apremio se incluirán las costas correspondientes.
 2. Las costas que afecten a varios obligados al pago y no puedan imputarse a cada uno individualmente se distribuirán entre ellos proporcionalmente a sus respectivas deudas.
@@ -2932,9 +3013,9 @@ El pago de los servicios a que se refiere este apartado se realizará una vez pr
 5. Procederá la devolución de las costas satisfechas en los casos de anulación de la liquidación o del procedimiento de apremio en que se hayan causado.
 6. Cuando, ultimado un procedimiento administrativo de apremio y practicada liquidación, las cantidades obtenidas no cubrieran el importe de las costas devengadas, la parte restante será a cargo de la Administración.
 
-## _Sección 3.ª Terminación del procedimiento de apremio_
+## *Sección 3.ª Terminación del procedimiento de apremio*
 
-### Artículo 116. _Terminación del procedimiento de apremio._
+### Artículo 116. *Terminación del procedimiento de apremio.*
 
 1. Cuando en el procedimiento de apremio resultasen solventados los débitos perseguidos y las costas, se declarará dicho extremo en el expediente de apremio, que quedará ultimado.
 2. Cuando el importe obtenido fuera insuficiente, se aplicará en primer lugar a las costas y seguidamente a as deudas cuyo cobro se persigue en el procedimiento según las reglas de imputación del artículo 63 de la Ley 58/2003, de 17 de diciembre, General Tributaria, sin perjuicio de lo previsto en los párrafos a) y b) del siguiente apartado. Por la parte no solventada se actuará de acuerdo con lo dispuesto para los créditos incobrables en los artículos 61 a 63 de este reglamento.
@@ -2956,19 +3037,19 @@ El pago de los servicios a que se refiere este apartado se realizará una vez pr
 
 4. Cuando el procedimiento de recaudación se desarrolle en el marco de la asistencia mutua, el procedimiento podrá terminar, además, por la modificación o retirada de la solicitud de dicha asistencia.
 
-## _Sección 4.ª Tercerías_
+## *Sección 4.ª Tercerías*
 
-### Artículo 117. _Carácter de la tercería._
+### Artículo 117. *Carácter de la tercería.*
 
 1. La reclamación en vía administrativa será requisito previo para el ejercicio de la acción de tercería ante los juzgados y tribunales civiles. Dicha reclamación se tramitará y resolverá por las normas contenidas en esta sección.
 2. La tercería sólo podrá fundarse en el dominio de los bienes embargados al obligado al pago o en el derecho del tercerista a ser reintegrado de su crédito con preferencia al que es objeto del expediente de apremio
 3. No podrá ser calificada como reclamación de tercería la formulada por el obligado al pago.
 
-### Artículo 118. _Competencias en materia de tercerías._
+### Artículo 118. *Competencias en materia de tercerías.*
 
 La competencia para la tramitación de la tercería, así como la competencia para su resolución, corresponderá a los órganos que se determinen en la norma de organización específica.
 
-### Artículo 119. _Forma, plazos y efectos de la interposición de la tercería._
+### Artículo 119. *Forma, plazos y efectos de la interposición de la tercería.*
 
 1. La reclamación de tercería se formulará por escrito, acompañando un principio de prueba por escrito del fundamento de la pretensión del tercerista, quedando a disposición de los órganos de recaudación los documentos originales en que base su pretensión. El escrito se dirigirá al órgano que esté tramitando el procedimiento de apremio, el cual lo remitirá al órgano competente para su tramitación.
 
@@ -3009,33 +3090,33 @@ El acuerdo de inadmisión deberá ser notificado al tercerista y al obligado al 
 
 Igualmente, si los bienes consistieran en dinero, en efectivo o en cuentas, podrá acordarse la consignación de su importe en la Caja General de Depósitos o su retención en cuentas a disposición del órgano de recaudación competente, según decida este.
 
-### Artículo 120. _Tramitación y resolución de la tercería._
+### Artículo 120. *Tramitación y resolución de la tercería.*
 
 1. En el plazo de 15 días desde la admisión a trámite de la tercería presentada el órgano competente para la tramitación remitirá la reclamación, junto con la documentación aportada y el expediente de apremio, al órgano competente para su resolución. También remitirá una propuesta de resolución debidamente motivada.
 
 El órgano competente para resolver podrá ordenar que se complete el expediente con los antecedentes, informes, documentos y datos que resulten necesarios. Igualmente, deberá solicitar informe del correspondiente órgano con funciones de asesoramiento jurídico, que deberá emitirlo en el plazo de 15 días. La solicitud de informe irá acompañada de todos los documentos del expediente de apremio que puedan tener trascendencia para la resolución de la tercería.
 
-2. La resolución deberá notificarse en el plazo en el plazo de seis meses. Transcurrido dicho plazo sin que se haya notificado la resolución, se podrá entender 
+2. La resolución deberá notificarse en el plazo en el plazo de seis meses. Transcurrido dicho plazo sin que se haya notificado la resolución, se podrá entender
 
 desestimada la reclamación a efectos de formular la correspondiente demanda judicial.
 
 3. Si transcurridos 10 días, contados a partir del día siguiente al de la notificación a que se refiere el apartado anterior, no se justificara documentalmente, ante el órgano competente para tramitar la reclamación de tercería, la interposición de la demanda judicial, continuarán los trámites el procedimiento de apremio que quedaron en suspenso.
 4. El órgano con funciones de asesoramiento jurídico que intervenga en los procesos de tercería ante los juzgados o tribunales civiles comunicará a los órganos que tramiten los procedimientos de apremio las resoluciones judiciales firmes que recaigan en aquellos procesos.
 
-### Artículo 121. _Efectos de la estimación de la reclamación de tercería._
+### Artículo 121. *Efectos de la estimación de la reclamación de tercería.*
 
 1. Si la tercería fuera de dominio, la estimación de la reclamación determinará el levantamiento del embargo acordado sobre los bienes o derechos objeto de la reclamación, salvo en el supuesto de que se hubiera acordado previamente su enajenación por no haber podido conservarse sin sufrir deterioro o quebranto sustancial en su valor en caso de demora; en este caso, le será entregado al reclamante el producto obtenido en aquella con la oportuna liquidación del interés legal a su favor sobre la cantidad percibida calculado desde la fecha de consignación del depósito y hasta la ordenación del pago.
 2. Si la tercería fuera de mejor derecho, la estimación de la reclamación determinará la entrega al reclamante del producto obtenido en la ejecución, una vez deducidos los costes necesarios para su realización en el procedimiento administrativo de apremio.
 
-### Artículo 122. _Tercerías a favor de la Hacienda pública._
+### Artículo 122. *Tercerías a favor de la Hacienda pública.*
 
 Cuando al efectuarse el embargo de bienes se compruebe que estos ya han sido embargados en el seno de otro procedimiento ejecutivo, judicial o administrativo, se informará al órgano competente con el detalle necesario para que este lo comunique al órgano con funciones de asesoramiento jurídico, a fin de que, si se estima procedente, se ejerciten las acciones pertinentes en defensa del mejor derecho de la Hacienda pública.
 
-## _Sección 5.ª Actuaciones de la Hacienda pública en procedimientos concursales_ 
+## *Sección 5.ª Actuaciones de la Hacienda pública en procedimientos concursales*
 
 ***y en otros procedimientos de ejecución***
 
-### Artículo 123. _Actuaciones de la Hacienda pública en procedimientos concursales y en otros procedimientos de ejecución._
+### Artículo 123. *Actuaciones de la Hacienda pública en procedimientos concursales y en otros procedimientos de ejecución.*
 
 1. Cuando los derechos de la Hacienda pública hayan de ejercerse ante los órganos judiciales, esta iniciará el proceso correspondiente o se personará en el proceso ya iniciado conforme a la normativa legal que resulte de aplicación
 2. Los órganos de recaudación competentes podrán solicitar de los órganos judiciales la información sobre los procedimientos que puedan afectar a los derechos de la Hacienda pública cuando dicha información no este disponible a través de la representación procesal. Asimismo, podrán solicitar información a tal efecto de la Dirección General del Tesoro y Política Financiera y demás órganos de recaudación sobre créditos pendientes de cobro.
@@ -3055,7 +3136,7 @@ En defecto de convenio, la Agencia Estatal de Administración Tributaria comunic
 
 **Responsables**
 
-### Artículo 124. _Declaración de responsabilidad._
+### Artículo 124. *Declaración de responsabilidad.*
 
 1. El procedimiento de declaración de responsabilidad se iniciará mediante acuerdo dictado por el órgano de recaudación competente que deberá ser notificado al interesado.
 
@@ -3070,7 +3151,7 @@ El plazo máximo para la notificación de la resolución del procedimiento será
 4. En aquellos casos en los que como consecuencia del desarrollo del procedimiento recaudatorio seguido frente al deudor principal o, en su caso, frente al responsable solidario, se haya determinado su insolvencia parcial en los términos del artículo 76.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se podrá proceder a la declaración de fallido de aquellos, a los efectos previstos en su artículo 41.
 5. Si el deudor principal o los responsables solidarios fueran declarados insolventes por la parte no derivada a los responsables subsidiarios, podrá procederse, en su caso y tras la correspondiente declaración de fallido por insolvencia total, a la derivación a dichos responsables subsidiarios del resto de deuda pendiente de cobro.
 
-### Artículo 124 bis. _Especialidades en materia de declaración de responsabilidad asociada a la liquidación vinculada a delito._
+### Artículo 124 bis. *Especialidades en materia de declaración de responsabilidad asociada a la liquidación vinculada a delito.*
 
 1. Cuando en el curso de un procedimiento de inspección en el que proceda dictar una liquidación vinculada a delito, el órgano actuante tenga conocimiento de hechos o circunstancias que pudieran determinar la existencia de algún tipo de responsabilidad tributaria, trasladará el conocimiento de tales hechos al órgano de recaudación para iniciar el procedimiento de declaración de responsabilidad.
 2. El trámite de audiencia al responsable se realizará, en todo caso, con posterioridad a la formalización de la propuesta de liquidación vinculada a delito del deudor principal.
@@ -3083,14 +3164,14 @@ El responsable no tendrá la condición de interesado en el procedimiento de ins
 
 La notificación del acuerdo de declaración de responsabilidad incluirá el requerimiento para que se realice el ingreso de la deuda tributaria liquidada en los plazos a que se refiere el artículo 62.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-### Artículo 125. _Certificación por adquisición de explotaciones o actividades económicas._
+### Artículo 125. *Certificación por adquisición de explotaciones o actividades económicas.*
 
 1. Las certificaciones a las que se refiere el artículo 175.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria, deberán contener el nombre y apellidos o razón social o denominación completa del obligado tributario titular de la explotación o actividad económica y una relación detallada de las deudas, sanciones y responsabilidades tributarias derivadas de su ejercicio, con indicación de la cuantía de cada una de ellas. En esta certificación no podrán incluirse referencias a obligaciones tributarias o sanciones que no estén liquidadas en el momento de la expedición de la certificación.
 2. No producirán efecto las certificaciones, cualquiera que sea su contenido, si la fecha de presentación de la solicitud para su expedición resultase posterior a la de adquisición de la explotación o actividad económica de que se trate.
 3. La exención o limitación de la responsabilidad derivada de estas certificaciones surtirá efectos únicamente respecto de las deudas para cuya liquidación sea competente la Administración de la que se solicita la certificación.
 4. Cuando no se haya solicitado la certificación, la responsabilidad alcanzará a las deudas y responsabilidades liquidadas o pendientes de liquidación y a las sanciones impuestas o que puedan imponerse.
 
-### Artículo 126. _Certificado expedido a instancia de los contratistas o subcontratistas de obras y servicios._
+### Artículo 126. *Certificado expedido a instancia de los contratistas o subcontratistas de obras y servicios.*
 
 1. A los efectos de lo previsto en el artículo 43.1.f) de la Ley 58/2003, de 17 de diciembre, General Tributaria, se considerarán incluidas en la actividad económica principal de las personas o entidades que contraten o subcontraten la ejecución de obras o la prestación de servicios todas las obras o servicios que, por su naturaleza, de no haber sido contratadas o subcontratadas, deberían haber sido realizadas por la propia persona o entidad que contrata o subcontrata por resultar indispensables para su finalidad productiva.
 2. Para la emisión del certificado regulado en este artículo se entenderá que el solicitante se encuentra al corriente de sus obligaciones tributarias cuando se verifique la concurrencia de las circunstancias que, a tales efectos, se prevén en el artículo 74.1 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
@@ -3114,33 +3195,38 @@ Tendrá la consideración de pago la aceptación de efectos cambiarios durante e
 
 **Sucesores**
 
-### Artículo 127. _Procedimiento de recaudación frente a los sucesores._
+### Artículo 127. *Procedimiento de recaudación frente a los sucesores.*
 
-    1. Fallecido cualquier obligado al pago de una deuda, el procedimiento de recaudación continuará con sus herederos y, en su caso, legatarios, sin más requisitos que la constancia del fallecimiento de aquel y la notificación al sucesor del requerimiento para el pago de la deuda y costas pendientes del causante, con subrogación a estos efectos en la misma posición en que se encontraba el causante en el momento del fallecimiento y sin perjuicio de lo dispuesto en el artículo 182.3, primer párrafo, de la Ley 58/2003, de 17 de diciembre, General Tributaria. En la notificación al sucesor se le requerirá el pago de la deuda en los siguientes plazos:
+&#x20;   1. Fallecido cualquier obligado al pago de una deuda, el procedimiento de recaudación continuará con sus herederos y, en su caso, legatarios, sin más requisitos que la constancia del fallecimiento de aquel y la notificación al sucesor del requerimiento para el pago de la deuda y costas pendientes del causante, con subrogación a estos efectos en la misma posición en que se encontraba el causante en el momento del fallecimiento y sin perjuicio de lo dispuesto en el artículo 182.3, primer párrafo, de la Ley 58/2003, de 17 de diciembre, General Tributaria. En la notificación al sucesor se le requerirá el pago de la deuda en los siguientes plazos:
 
-<div></div>
-
-    1. Si el fallecimiento del obligado al pago se produce dentro del periodo voluntario, se requerirá al sucesor para que realice el pago dentro del plazo del artículo 62.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
 <div></div>
 
-    1. Si el fallecimiento del obligado al pago se produce antes de la notificación de la providencia de apremio, se notificará al sucesor dicha providencia. Si realiza el pago antes de la notificación de la providencia de apremio, se le exigirá el recargo ejecutivo.
+&#x20;   1. Si el fallecimiento del obligado al pago se produce dentro del periodo voluntario, se requerirá al sucesor para que realice el pago dentro del plazo del artículo 62.2 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
 
 <div></div>
 
-    1. Si el fallecimiento se produce una vez notificada la providencia de apremio al obligado al pago y antes de la finalización del plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requerirá al sucesor para que realice el pago de la deuda y el recargo de apremio reducido del 10 por ciento en el plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, con la advertencia de que, en caso de no efectuar el ingreso del importe total de la deuda pendiente, incluido el recargo de apremio reducido del 10 por ciento, en dicho plazo, se procederá al embargo de sus bienes o a la ejecución de las garantías existentes para el cobro de la deuda con inclusión del recargo de apremio del 20 por ciento.
+&#x20;   1. Si el fallecimiento del obligado al pago se produce antes de la notificación de la providencia de apremio, se notificará al sucesor dicha providencia. Si realiza el pago antes de la notificación de la providencia de apremio, se le exigirá el recargo ejecutivo.
+
 
 <div></div>
 
-    1. Si el fallecimiento se produce después de la finalización del plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requerirá al sucesor para que realice el pago de la deuda y el recargo de apremio ordinario en los plazos establecidos en dicho artículo.
+&#x20;   1. Si el fallecimiento se produce una vez notificada la providencia de apremio al obligado al pago y antes de la finalización del plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requerirá al sucesor para que realice el pago de la deuda y el recargo de apremio reducido del 10 por ciento en el plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, con la advertencia de que, en caso de no efectuar el ingreso del importe total de la deuda pendiente, incluido el recargo de apremio reducido del 10 por ciento, en dicho plazo, se procederá al embargo de sus bienes o a la ejecución de las garantías existentes para el cobro de la deuda con inclusión del recargo de apremio del 20 por ciento.
+
+
+<div></div>
+
+&#x20;   1. Si el fallecimiento se produce después de la finalización del plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requerirá al sucesor para que realice el pago de la deuda y el recargo de apremio ordinario en los plazos establecidos en dicho artículo.
+
 
 Cuando el heredero alegue haber hecho uso del derecho a deliberar, se esperará a que transcurra el plazo concedido para ello, durante el cual podrá solicitar de la Administración una certificación de las deudas del causante con efectos meramente informativos.
 
-La Administración, una vez acreditada de forma fehaciente la condición de heredero del solicitante, expedirá un certificado que deberá contener el nombre y apellidos o razón social 
+La Administración, una vez acreditada de forma fehaciente la condición de heredero del solicitante, expedirá un certificado que deberá contener el nombre y apellidos o razón social
 
 1. denominación completa, número de identificación fiscal, último domicilio del causante y del heredero y detalle de las deudas y demás responsabilidades del causante pendientes a la fecha de expedición del certificado.
 
-    2. Mientras se halle la herencia yacente, el procedimiento de recaudación de las deudas pendientes podrá dirigirse o continuar contra los bienes y derechos de la herencia. Las actuaciones se entenderán con quien ostente la administración o representación de esta, en 
+   2. Mientras se halle la herencia yacente, el procedimiento de recaudación de las deudas pendientes podrá dirigirse o continuar contra los bienes y derechos de la herencia. Las actuaciones se entenderán con quien ostente la administración o representación de esta, en
 
 los términos señalados en el artículo 45.3 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
@@ -3159,7 +3245,7 @@ La suspensión del procedimiento de recaudación, en los términos señalados en
 
 <div></div>
 
-1. Si la extinción de la personalidad jurídica se produce una vez notificada la providencia de apremio al obligado al pago y antes de la finalización del plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requerirá al sucesor para que realice el pago de la deuda y el recargo de apremio reducido del 10 por ciento en el plazo del artículo 
+1. Si la extinción de la personalidad jurídica se produce una vez notificada la providencia de apremio al obligado al pago y antes de la finalización del plazo del artículo 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requerirá al sucesor para que realice el pago de la deuda y el recargo de apremio reducido del 10 por ciento en el plazo del artículo
 
 62.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria, con la advertencia de que, en caso de no efectuar el ingreso del importe total de la deuda pendiente, incluido el recargo de apremio reducido del 10 por ciento, en dicho plazo, se procederá al embargo de sus bienes o a la ejecución de las garantías existentes para el cobro de la deuda con inclusión del recargo de apremio del 20 por ciento.
 
@@ -3174,11 +3260,11 @@ La suspensión del procedimiento de recaudación, en los términos señalados en
 
 **Disposiciones especiales**
 
-### Artículo 128. _Exacción de la responsabilidad civil y multa por delito contra la Hacienda Pública._
+### Artículo 128. *Exacción de la responsabilidad civil y multa por delito contra la Hacienda Pública.*
 
 1. En los procedimientos por delito contra la hacienda Pública, la deuda derivada de la responsabilidad civil y de la pena de multa se acumulará al procedimiento administrativo de apremio que, en su caso, se siga contra el deudor, a los efectos de la práctica de diligencias de embargo, trabas y enajenación de bienes. El importe derivado de tales deudas no podrá incrementarse en los recargos del periodo ejecutivo.
 
-La Hacienda pública exigirá, junto con la multa y la responsabilidad civil a la que se refiere el apartado 1 de la disposición adicional décima de la Ley 58/2003, de 17 de diciembre, General Tributaria, los intereses que se devenguen sobre el importe de dicha responsabilidad desde la fecha de la firmeza de la resolución judicial hasta la fecha de 
+La Hacienda pública exigirá, junto con la multa y la responsabilidad civil a la que se refiere el apartado 1 de la disposición adicional décima de la Ley 58/2003, de 17 de diciembre, General Tributaria, los intereses que se devenguen sobre el importe de dicha responsabilidad desde la fecha de la firmeza de la resolución judicial hasta la fecha de
 
 ingreso en el Tesoro y las costas del procedimiento de apremio, salvo que el juez o tribunal hubiese acordado otra cosa.
 
@@ -3198,57 +3284,61 @@ ingreso en el Tesoro y las costas del procedimiento de apremio, salvo que el jue
 
 1. La declaración administrativa de fallido de los responsables civiles y la declaración administrativa de incobrable de los créditos afectados.
 
-### Artículo 129. _Impugnación de los actos asociados a un proceso penal en curso._
+### Artículo 129. *Impugnación de los actos asociados a un proceso penal en curso.*
 
 Contra los actos dictados por los órganos de recaudación de la Agencia Estatal de Administración Tributaria en el ejercicio de las competencias otorgadas por la disposición adicional decimonovena de la Ley 58/2003, de 17 de diciembre, General Tributaria, podrá interponerse recurso de reposición o reclamación económico-administrativa, salvo que los motivos de impugnación aducidos se refieran a la adecuación de los actos impugnados con el objeto del proceso penal por delito contra la Hacienda Pública, en cuyo caso la cuestión deberá plantearse ante el órgano judicial penal competente.
 
-### Disposición adicional primera. _Órganos equivalentes de las comunidades autónomas, ciudades con Estatuto de Autonomía de Ceuta y Melilla o de las entidades locales._
+### Disposición adicional primera. *Órganos equivalentes de las comunidades autónomas, ciudades con Estatuto de Autonomía de Ceuta y Melilla o de las entidades locales.*
 
 1. Los órganos competentes de las comunidades autónomas, de las ciudades con Estatuto de Autonomía de Ceuta y Melilla o de las entidades locales se determinarán conforme a lo establecido en su normativa específica.
 2. Las referencias realizadas a órganos del Estado se entenderán aplicables, cuando sean competentes por razón de la materia, a los órganos equivalentes de las comunidades autónomas, ciudades con Estatuto de Autonomía de Ceuta y Melilla o de las entidades locales.
 
-### Disposición adicional segunda. _Criterios de coordinación de la Agencia Estatal de Administración Tributaria con la Tesorería General de la Seguridad Social en procesos concursales._
+### Disposición adicional segunda. *Criterios de coordinación de la Agencia Estatal de Administración Tributaria con la Tesorería General de la Seguridad Social en procesos concursales.*
 
 1. A efectos de lo dispuesto en el último párrafo del artículo 10 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y con los límites del artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria, en los procesos concursales en que concurran créditos de la Hacienda pública estatal cuya gestión recaudatoria corresponda a la Agencia Estatal de Administración Tributaria con créditos de la Seguridad Social, cuya gestión recaudatoria corresponda a esta, la Agencia Estatal de Administración Tributaria y la Tesorería General de la Seguridad Social intercambiarán la información, circunstancias y datos relativos a dichos procesos que consideren relevantes.
 
 Sin perjuicio de lo que pueda establecerse en el oportuno convenio de colaboración, dicho intercambio abarcará al menos la identificación y domicilio del deudor, la existencia e importe del crédito cuya gestión corresponda a una u otra de ambas entidades públicas; en su caso, la existencia y el grado de satisfacción de los créditos contra la masa, así como cualquier otra circunstancia que se considere relevante.
 
-    2. Las relaciones entre los órganos de la Agencia Estatal de Administración Tributaria y de la Tesorería General de la Seguridad Social implicados en el proceso estarán presididas por los principios de colaboración y cooperación. A tal efecto, se promoverá la adopción de criterios comunes relativos, entre otros aspectos, a la suscripción de acuerdos o convenios.
+&#x20;   2. Las relaciones entre los órganos de la Agencia Estatal de Administración Tributaria y de la Tesorería General de la Seguridad Social implicados en el proceso estarán presididas por los principios de colaboración y cooperación. A tal efecto, se promoverá la adopción de criterios comunes relativos, entre otros aspectos, a la suscripción de acuerdos o convenios.
     3. La Agencia Estatal de Administración Tributaria y a la Tesorería General de la Seguridad Social podrán acordar la necesidad de comunicar previamente a la otra parte la realización de determinadas actuaciones. En particular, y entre otras, se comunicarán recíprocamente su propósito de promover el inicio de un proceso concursal o de solicitar la apertura de la fase de liquidación.
 
-### Disposición adicional tercera. _Asistencia mutua en materia de recaudación._
+
+### Disposición adicional tercera. *Asistencia mutua en materia de recaudación.*
 
 **(Suprimida)**
 
-### Disposición adicional cuarta. _Norma de organización específica._
+### Disposición adicional cuarta. *Norma de organización específica.*
 
 La norma de organización específica a que se refiere este reglamento deberá ser aprobada en el ámbito de la Agencia Estatal de Administración Tributaria antes de su entrada en vigor y deberá efectuarse su publicación en el «Boletín Oficial del Estado».
 
-### Disposición transitoria primera. _Derechos de traspaso._
+### Disposición transitoria primera. *Derechos de traspaso.*
 
 Lo dispuesto en este reglamento en relación con el embargo de los derechos de cesión del contrato de arrendamiento de local de negocio será aplicable al embargo de los derechos de traspaso en tanto estos subsistan.
 
-### Disposición transitoria segunda. _Obtención de información, facultades y adopción de medidas cautelares en la gestión recaudatoria._
+### Disposición transitoria segunda. *Obtención de información, facultades y adopción de medidas cautelares en la gestión recaudatoria.*
 
 Lo dispuesto en el artículo 10 de este reglamento se regirá por el Reglamento General de la Inspección de los Tributos, aprobado por el Real Decreto 939/1986, de 25 de abril, en tanto no se dicten las normas reglamentarias de desarrollo de los artículos 93, 94, 142 y 146 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
-### Disposición transitoria tercera. _Régimen transitorio del Reglamento General de Recaudación._
+### Disposición transitoria tercera. *Régimen transitorio del Reglamento General de Recaudación.*
 
-    1. Este reglamento será de aplicación a los procedimientos iniciados a partir del 1 de julio de 2004 que no hayan finalizado a su entrada en vigor en cuanto a las actuaciones que se realicen con posterioridad a dicha entrada en vigor, salvo lo dispuesto en el párrafo siguiente.
+&#x20;   1. Este reglamento será de aplicación a los procedimientos iniciados a partir del 1 de julio de 2004 que no hayan finalizado a su entrada en vigor en cuanto a las actuaciones que se realicen con posterioridad a dicha entrada en vigor, salvo lo dispuesto en el párrafo siguiente.
+
 
 Las actuaciones de enajenación de bienes continuarán rigiéndose por la normativa vigente antes de la entrada en vigor de este reglamento cuando el acuerdo de enajenación mediante subasta, la autorización para la enajenación por concurso o el inicio del trámite de adjudicación directa se hayan producido antes de la entrada en vigor de este reglamento.
 
-    2. Las consecuencias del incumplimiento de los acuerdos de concesión de aplazamientos o fraccionamientos dictados antes de la entrada en vigor de este reglamento serán las previstas en el Reglamento General de Recaudación, aprobado por el Real Decreto 1684/1990, de 20 de diciembre.
+&#x20;   2. Las consecuencias del incumplimiento de los acuerdos de concesión de aplazamientos o fraccionamientos dictados antes de la entrada en vigor de este reglamento serán las previstas en el Reglamento General de Recaudación, aprobado por el Real Decreto 1684/1990, de 20 de diciembre.
     3. Las notificaciones de los acuerdos de denegación de aplazamientos, fraccionamientos 
+
 
 1. compensaciones dictados antes de la entrada en vigor de este reglamento, relativos a aplazamientos, fraccionamientos o compensaciones solicitados en periodo voluntario de ingreso, incluirán los plazos de pago y el cálculo de la liquidación de los intereses de demora de acuerdo con lo previsto en los artículos 108 y 56.3.a) del Reglamento General de Recaudación, aprobado por el Real Decreto 1684/1990, de 20 de diciembre, respectivamente.
 
-### Disposición transitoria cuarta. _Régimen transitorio de las subastas._ Las normas relativas al desarrollo del procedimiento de subasta a través del Portal de 
+### Disposición transitoria cuarta. *Régimen transitorio de las subastas.* Las normas relativas al desarrollo del procedimiento de subasta a través del Portal de
 
 Subastas de la Agencia Estatal Boletín Oficial del Estado se aplicarán a los procedimientos iniciados a partir del 1 de septiembre de 2018.
 
-### Disposición final única. _Habilitación normativa._ Se autoriza al Ministro de Economía y Hacienda para dictar las disposiciones necesarias 
+### Disposición final única. *Habilitación normativa.* Se autoriza al Ministro de Economía y Hacienda para dictar las disposiciones necesarias
 
 para el desarrollo y ejecución de este reglamento.
 
 Este texto consolidado no tiene valor jurídico.
+

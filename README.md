@@ -1,4 +1,3 @@
-# normas
 # Normativa tributaria – proyecto "LGT temas transversales"
 
 Repositorio de contexto normativo. Cada norma se guarda en `normas/` como Markdown con el texto consolidado del BOE.
